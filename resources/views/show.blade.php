@@ -14,10 +14,21 @@
         </li>
     @endif
 
+    <header>
+        <img src="" alt="">
+        <h1>El Filibusterismo</h1>
+        <img src="" alt="">
+    </header>
     <main>
+
         @foreach ($chapters as $chapter)
-            <h1>CHAPTER {{$chapter->id}}: {{$chapter->title}}</h1>
-            <p>{{$chapter->content}}</p>
+
+            <form action="{{Route('showOne', ['id' =>$chapter->id])}}" method="GET">
+                <button type="submit">
+                    <h1>CHAPTER {{$chapter->id}}: {{$chapter->title}}</h1>
+                </button>
+            </form>
+
 
             <form action="{{Route('delete', ['id' =>$chapter->id])}}" method="POST">
                 @csrf

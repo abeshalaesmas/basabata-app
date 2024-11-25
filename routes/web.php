@@ -10,6 +10,8 @@ Route::get('/', function () {
 
 Route::get('/chapters', [InsertController::class, 'show'])->name('show');
 
+Route::get('/chapters/{id}', [InsertController::class, 'showOne'])->name('showOne');
+
 Route::get('/insert', [InsertController::class, 'insert'])->name('show');
 
 Route::post('/chapters', [InsertController::class, 'store'])->name('store');

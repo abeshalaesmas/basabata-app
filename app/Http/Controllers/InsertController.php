@@ -13,7 +13,10 @@ class InsertController extends Controller
         return view('show', ['chapters' => $chapters]);
     }
 
-    
+    public function showOne(Request $request){
+        $chapter = Chapters::find($request->id);
+        return view('/show-one', ['chapter' => $chapter]);
+    }
 
     public function insert(){
         return view('insert');
