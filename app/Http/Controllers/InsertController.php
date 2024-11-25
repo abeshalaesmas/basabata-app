@@ -33,6 +33,29 @@ class InsertController extends Controller
         return redirect('/chapters');
     }
 
+    public function edit(Request $request){
+        $chapter = Chapters::find($request->id);
+
+        if(!$chapter){
+            return redirect('/chapters');
+        }
+
+        return view('edit', ['chapter' => $chapter]);
+    }
+
+    public function update(Request $request){
+
+        $request->validate([
+            'title' => 'required|max:100',
+            'content' => 'required|max:99999999'
+        ]);
+
+        $chapter = Chapters::find($request->id);
+        $chapter->update($request->all());
+
+        return redirect()->route('showOne', ['id' => $chapter->id])->with('success');
+    }
+
     public function delete(Request $request){
         $chapters = Chapters::find($request->id);
 

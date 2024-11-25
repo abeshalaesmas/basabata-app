@@ -16,4 +16,8 @@ Route::get('/insert', [InsertController::class, 'insert'])->name('show');
 
 Route::post('/chapters', [InsertController::class, 'store'])->name('store');
 
+Route::get('/chapter/edit/{id}', [InsertController::class, 'edit'])->name('edit');
+
+Route::put('/chapter/{id}', [InsertController::class, 'update'])->name('update');
+
 Route::delete('/chapter/delete/{id}', [InsertController::class, 'delete'])->name('delete');
