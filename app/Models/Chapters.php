@@ -15,5 +15,5 @@ class Chapters extends Model
         'content'
     ];
 
-    protected $guarded = ['id'];
+   
 }
