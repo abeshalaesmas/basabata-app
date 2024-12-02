@@ -22,5 +22,7 @@
     <form action="{{Route('edit', ['id' => $chapter->id])}}" method="GET">
         <button type="submit">edit</button>
     </form>
+
+    
 </body>
 </html>
