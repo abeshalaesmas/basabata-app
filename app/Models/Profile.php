@@ -13,6 +13,7 @@ class Profile extends Model
 
     protected $fillables = [
         'name',
+        'bio',
         'score'
     ];
 
