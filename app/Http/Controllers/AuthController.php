@@ -27,14 +27,10 @@ class AuthController extends Controller
             'password' => Hash::make($request->password)
         ]);
 
-        $profile = Profile::create([
-            'user_id' => $user->id
-        ]);
-
         Auth::login($user);
 
 
-        return redirect()->route('profile.edit', ['profile' => $profile->id]);
+        return redirect()->route('profile.create', ['user' => $user->id]);
     }
 
     public function loginForm(){
@@ -56,11 +52,16 @@ class AuthController extends Controller
     }
 
     public function dashboard(){
-        return view('auth.dashboard',['user'=> Auth::user()]);
+        $user = User::with('profile')->find(Auth::id());
+        return view('auth.dashboard', ['profile' => $user]);
     }
 
     public function profile(){
-        return view('auth.profile',['user'=> Auth::user()]);
+        // Retrieve the logged-in user's profile
+        $user = User::with('profile')->find(Auth::id());
+
+        // Return the view and pass both the user and profile data
+        return view('auth.profile', ['user' => $user]);
     }
 
     public function logout (Request $request){

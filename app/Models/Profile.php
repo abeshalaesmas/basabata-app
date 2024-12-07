@@ -11,14 +11,15 @@ class Profile extends Model
 {
     use HasFactory;
 
-    protected $fillables = [
+    protected $fillable = [
+        'user_id',
         'name',
         'bio',
         'score'
     ];
 
     public function user(): BelongsTo {
-        return $this->belongsTo(User::class, 'user_id');
+        return $this->belongsTo(User::class);
     }
 
     public function game(): HasOne {

@@ -13,8 +13,8 @@ return new class extends Migration
     {
         Schema::create('profiles', function (Blueprint $table) {
             $table->id();
-            $table->string('name');
-            $table->string('bio');
+            $table->string('name')->nullable();
+            $table->text('bio')->nullable();
             $table->integer('score')->default(0);
             $table->timestamps();
 

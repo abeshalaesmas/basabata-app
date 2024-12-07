@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\InsertController;
 use App\Http\Controllers\AuthController;
+use App\Http\Controllers\ProfileController;
 
 Route::get('/', function () {
     return view('welcome');
@@ -30,6 +31,11 @@ Route::get('/', function () {
     });
 
     Route::middleware('auth')->group(function(){
+        //CUSTOMIZE USER'S PROFILE
+        Route::get('/profile/create', [ProfileController::class, 'create'])->name('profile.create');
+        Route::post('/profile', [ProfileController::class, 'store'])->name('profile.store');
+
+        //USER DASHBOARD
         Route::get('/dashboard',[AuthController::class, 'dashboard'])->name('dashboard');
         Route::post('/logout',[AuthController::class,'logout'])->name('logout');
 
