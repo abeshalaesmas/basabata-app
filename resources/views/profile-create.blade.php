@@ -88,7 +88,7 @@
             </div>
             <div class="form-group">
                 <label for="bio">What's Your Motto?</label>
-                <input type="text" id="text" name="text" placeholder="Create Your Motto Now" required>
+                <textarea name="bio" id="bio" placeholder="Create Your Motto Now" cols="50" rows="10">{{ old('bio') }}</textarea>
             </div>
             <div class="form-group">
                 <button type="submit">Create Profile Now</button>

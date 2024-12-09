@@ -14,7 +14,7 @@ return new class extends Migration
         Schema::create('profiles', function (Blueprint $table) {
             $table->id();
             $table->string('name')->nullable();
-            $table->text('bio')->nullable();
+            $table->string('bio');
             $table->integer('score')->default(0);
             $table->timestamps();
 
