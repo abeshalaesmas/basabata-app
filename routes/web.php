@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\InsertController;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\WordController;
 
 Route::get('/', function () {
     return view('welcome');
@@ -40,4 +41,7 @@ Route::get('/', function () {
         Route::post('/logout',[AuthController::class,'logout'])->name('logout');
 
         Route::get('/profile',[AuthController::class, 'profile'])->name('profile');
+
+        Route::get('/random-word', [WordController::class, 'generateRandomWord']);
+
     });
