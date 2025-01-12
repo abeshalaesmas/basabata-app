@@ -46,8 +46,11 @@ Route::get('/', function () {
 
         Route::get('/random-word', [WordController::class, 'generateRandomWord']);
 
+        //QUIZZES
+        Route::get('/quiz', [QuizController::class, 'showQuiz'])->name('showQuiz');
+        
         //SCORE INCREMENT
         Route::post('/increment-score', [ScoreController::class, 'incrementScore'])->name('increment.score');
     });
 
-    Route::get('/quiz', [QuizController::class, 'showQuiz'])->name('showQuiz');
+
