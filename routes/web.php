@@ -4,7 +4,9 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\InsertController;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\QuizController;
 use App\Http\Controllers\WordController;
+use App\Http\Controllers\ScoreController;
 
 Route::get('/', function () {
     return view('welcome');
@@ -44,4 +46,8 @@ Route::get('/', function () {
 
         Route::get('/random-word', [WordController::class, 'generateRandomWord']);
 
+        //SCORE INCREMENT
+        Route::post('/increment-score', [ScoreController::class, 'incrementScore'])->name('increment.score');
     });
+
+    Route::get('/quiz', [QuizController::class, 'showQuiz'])->name('showQuiz');

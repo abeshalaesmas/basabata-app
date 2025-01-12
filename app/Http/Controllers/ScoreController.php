@@ -4,20 +4,24 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\Profile;
+use Illuminate\Support\Facades\Auth;
 
 class ScoreController extends Controller
 {
     public function incrementScore(Request $request) {
         $request->validate([
-            'user_id' => 'required|integer|exists:profiles,id'
+            'score' => 'required|integer'
         ]);
 
-        $userScore = Profile::find($request->user_id);
-        $userScore->increment('score', 10);
+        $userId = Auth::id();
+        $userScore = Profile::find($userId);
+        if($userScore){
+            $userScore->increment('score', $request->score);
+        }
 
-        return redirect()->back()->with([
+        return response()->json([
             'message' => 'Score incremented successfully',
-            'new_score' => $userScore->score
+            'new_score' => $userScore->score ?? 0
         ]);
     }
 }
