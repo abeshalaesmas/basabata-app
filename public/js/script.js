@@ -39,6 +39,7 @@ const nextButton = document.getElementById("next-btn");
 
 let currentQuestionIndex = 0;
 let score = 0;
+let userId = document.querySelector('meta[name="user-id"]').getAttribute('content');
 
 function startQuiz(){
     currentQuestionIndex = 0;
@@ -105,7 +106,6 @@ function showScore(){
             score: score
         })
     })
-
     .then(response => response.json())
     .then(data => {
         if (data.message) {
