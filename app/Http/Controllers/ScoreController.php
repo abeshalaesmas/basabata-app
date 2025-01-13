@@ -15,13 +15,24 @@ class ScoreController extends Controller
 
         $userId = Auth::id();
         $userScore = Profile::find($userId);
-        if($userScore){
-            $userScore->increment('score', $request->score);
+        if($request->score > $userScore->score){
+            $userScore->score = $request->score;
+            $userScore->save();
         }
 
         return response()->json([
             'message' => 'Score incremented successfully',
             'new_score' => $userScore->score ?? 0
         ]);
+    }
+
+    public function resetScore() { //this is for debugging purposes only
+        $userId = Auth::id();
+        $userScore = Profile::find($userId);
+        if($userScore){
+            $userScore->score = 0;
+            $userScore->save();
+        }
+        return redirect()->back()->with('message', 'Score reset successfully');
     }
 }
