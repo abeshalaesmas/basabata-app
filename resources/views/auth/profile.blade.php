@@ -78,10 +78,12 @@
 
     <section>
         <div class="container">
-            <p class="welcome">Welcome, {{ $user->name }}!</p>
+            <p class="welcome">Welcome, {{ $user->profile->name }}!</p>
             <div class="card">
                 <h3>Profile</h3>
-                <p>Email: {{ $user->email }}</p>
+                <p>Username: {{ $user->user_name }}</p>
+                <p>Bio: {{$user->profile->bio ?? 'Create your motto now!'}}</p>
+                <p>Score: {{$user->profile->score}}</p>
             </div>
             <div class="card">
                 <h3>Recent Activities</h3>

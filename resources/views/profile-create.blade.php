@@ -77,34 +77,23 @@
 </head>
 <body>
     <div class="form-container">
-        <h1>Register</h1>
-        <form action="{{route('register.process')}}" method="POST">
+        <h1>Create Your First Profile Today!</h1>
+        <form action="/profile" method="POST">
             <!-- Add CSRF Token for Laravel -->
             <input type="hidden" name="_token" value="{{ csrf_token() }}">
 
             <div class="form-group">
-                <label for="user_name">Username</label>
-                <input type="text" id="user_name" name="user_name" placeholder="Enter your full name" required>
+                <label for="name">Name to Display</label>
+                <input type="text" id="name" name="name" placeholder="Enter your full name" required>
             </div>
             <div class="form-group">
-                <label for="email">Email</label>
-                <input type="email" id="email" name="email" placeholder="Enter your email" required>
+                <label for="bio">What's Your Motto?</label>
+                <textarea name="bio" id="bio" placeholder="Create Your Motto Now" cols="50" rows="10">{{ old('bio') }}</textarea>
             </div>
             <div class="form-group">
-                <label for="password">Password</label>
-                <input type="password" id="password" name="password" placeholder="Enter your password" required>
-            </div>
-            <div class="form-group">
-                <label for="password_confirmation">Confirm Password</label>
-                <input type="password" id="password_confirmation" name="password_confirmation" placeholder="Confirm your password" required>
-            </div>
-            <div class="form-group">
-                <button type="submit">Register</button>
+                <button type="submit">Create Profile Now</button>
             </div>
         </form>
-        <div class="form-footer">
-            Already have an account? <a href="/login">Login here</a>.
-        </div>
     </div>
 </body>
 </html>

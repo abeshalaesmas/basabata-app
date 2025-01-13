@@ -3,6 +3,8 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\InsertController;
 use App\Http\Controllers\AuthController;
+use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\WordController;
 
 Route::get('/', function () {
     return view('welcome');
@@ -20,6 +22,7 @@ Route::get('/', function () {
 
 // NORMAL AUTH
     Route::middleware('guest')->group(function(){
+
         //ROUTES
         Route::get('/register',[AuthController::class,'registerForm'])->name('register');
         Route::post('/register',[AuthController::class,'register'])->name('register.process');
@@ -30,8 +33,16 @@ Route::get('/', function () {
     });
         //DASHBOARD
     Route::middleware('auth')->group(function(){
+        //CUSTOMIZE USER'S PROFILE
+        Route::get('/profile/create', [ProfileController::class, 'create'])->name('profile.create');
+        Route::post('/profile', [ProfileController::class, 'store'])->name('profile.store');
+
+        //USER DASHBOARD
         Route::get('/dashboard',[AuthController::class, 'dashboard'])->name('dashboard');
         Route::post('/logout',[AuthController::class,'logout'])->name('logout');
 
         Route::get('/profile',[AuthController::class, 'profile'])->name('profile');
+
+        Route::get('/random-word', [WordController::class, 'generateRandomWord']);
+
     });

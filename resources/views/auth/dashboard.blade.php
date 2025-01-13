@@ -37,8 +37,8 @@
       <div class="category-grid">
         
         <div class="category"><a href="{{route('show')}}">Nobela</a></div>
-        <div class="category">Maikling Kwento🔒</div>
-        <div class="category">Pabula🔒</div>
+        <div class="category">Maikling Kwento</div>
+        <div class="category">Pabula</div>
         <div class="category">Kuwentong Bayan🔒</div>
         <div class="category">Alamat🔒</div>
         <div class="category">Tula🔒</div>
