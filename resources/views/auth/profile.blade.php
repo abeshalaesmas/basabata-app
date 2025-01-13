@@ -94,6 +94,10 @@
                 <p>Manage your account and preferences.</p>
             </div>
         </div>
+        <form action="{{ route('reset.score') }}" method="POST"> {{--for debugging purposes only--}}
+            @csrf
+            <button type="submit">Reset Score</button>
+        </form>
     </section>
     <footer>
         <div class="footer">

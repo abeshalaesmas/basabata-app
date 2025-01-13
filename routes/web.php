@@ -48,9 +48,12 @@ Route::get('/', function () {
 
         //QUIZZES
         Route::get('/quiz', [QuizController::class, 'showQuiz'])->name('showQuiz');
-        
+
         //SCORE INCREMENT
         Route::post('/increment-score', [ScoreController::class, 'incrementScore'])->name('increment.score');
+
+        //SCORE RESET(FOR TESTING ONLY)
+        Route::post('/reset-score', [ScoreController::class, 'resetScore'])->name('reset.score');
     });
 
 

@@ -17,6 +17,7 @@
             <div id="answer-buttons">
                 <!-- Remove initial buttons to avoid conflicts -->
             </div>
+            <button id="revealButton" style="display: none;">Reveal Answer</button>
             <button id="next-btn">Next</button>
         </div>
     </div>
