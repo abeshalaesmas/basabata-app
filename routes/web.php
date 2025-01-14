@@ -7,6 +7,7 @@ use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\QuizController;
 use App\Http\Controllers\WordController;
 use App\Http\Controllers\ScoreController;
+use App\Http\Controllers\ChapterController;
 
 Route::get('/', function () {
     return view('welcome');
@@ -54,6 +55,9 @@ Route::get('/', function () {
 
         //SCORE RESET(FOR TESTING ONLY)
         Route::post('/reset-score', [ScoreController::class, 'resetScore'])->name('reset.score');
+
+        //CHAPTERS
+        Route::get('/chapters-selection', [ChapterController::class, 'showChapters'])->name('showChapters');
     });
 
 
