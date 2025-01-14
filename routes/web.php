@@ -25,6 +25,7 @@ Route::get('/', function () {
 
 // NORMAL AUTH
     Route::middleware('guest')->group(function(){
+
         //ROUTES
         Route::get('/register',[AuthController::class,'registerForm'])->name('register');
         Route::post('/register',[AuthController::class,'register'])->name('register.process');
@@ -33,7 +34,7 @@ Route::get('/', function () {
         Route::get('/login',[AuthController::class,'loginForm'])->name('login');
         Route::post('/login',[AuthController::class,'login'])->name('login.process');
     });
-
+        //DASHBOARD
     Route::middleware('auth')->group(function(){
         //CUSTOMIZE USER'S PROFILE
         Route::get('/profile/create', [ProfileController::class, 'create'])->name('profile.create');
