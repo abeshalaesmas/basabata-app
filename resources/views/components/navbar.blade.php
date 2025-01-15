@@ -9,11 +9,7 @@
     <title>Navigation Bar</title>
 </head>
 <body>
-<<<<<<< HEAD
-    <div class="box">
-        so ayun box ito
-    </div>  
-=======
+
     <div class="navbar">
         <div class="nav-item">
             <a href="{{route('dashboard')}}">
@@ -46,6 +42,5 @@
                 <i class="si-user" style="font-size: 35px"></i>
             </a></div>
     </div>
->>>>>>> c9b1c7dfbcdeb22b3b107f1344c56cbb94b38e7a
 </body>
 </html> 
