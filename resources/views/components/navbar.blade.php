@@ -8,8 +8,12 @@
     <title>Document</title>
 </head>
 <body>
-    <div class="box">
-        so ayun box ito
+    <div class="footer">
+        <div class="nav-item">🏠</div>
+        <div class="nav-item">📖</div>
+        <div class="nav-item">💡</div>
+        <div class="nav-item">❤️</div>
+        <div class="nav-item"><a href="{{route('profile')}}">Me</a></div>
     </div>
 </body>
 </html>
