@@ -55,6 +55,9 @@ Route::get('/', function () {
 
         //SCORE RESET(FOR TESTING ONLY)
         Route::post('/reset-score', [ScoreController::class, 'resetScore'])->name('reset.score');
+
+        //PROFILE PICTURE UPLOAD
+        Route::post('/profile/upload', [ProfileController::class, 'upload'])->name('profile.upload');
     });
 
 

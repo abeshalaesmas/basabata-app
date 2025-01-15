@@ -10,6 +10,6 @@
 <body>
     <div class="box">
         so ayun box ito
-    </div>
+    </div>  
 </body>
-</html>
+</html> 
