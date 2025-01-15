@@ -8,7 +8,7 @@
         body {
             margin: 0;
             font-family: Arial, sans-serif;
-            background-color: #f9db5a;
+            
         }
 
         .header {
@@ -16,14 +16,9 @@
             align-items: center;
             justify-content: space-between;
             padding: 10px 15px;
-            background-color: #f9db5a;
+            
         }
 
-        .logo {
-            font-size: 18px;
-            font-weight: bold;
-            color: #fff;
-        }
 
         .search-bar {
             margin: 20px;
@@ -73,15 +68,34 @@
             color: #000;
             text-decoration: none;
         }
+        #logo{
+            width: 80px;
+            padding-left:30px;
+            padding-top:30px;
+        }
+        
     </style>
+    <script>
+        function searchCards() {
+            let input = document.getElementById('searchInput').value.toLowerCase();
+            let cards = document.getElementsByClassName('card');
+            for (let i = 0; i < cards.length; i++) {
+                let title = cards[i].getElementsByClassName('card-title')[0].innerText.toLowerCase();
+                if (title.includes(input)) {
+                    cards[i].style.display = "";
+                } else {
+                    cards[i].style.display = "none";
+                }
+            }
+        }
+    </script>
 </head>
 <body>
-    <div class="header">
-        <div class="logo">Basa Bata</div>
-    </div>
+   
+    <img id="logo" src="{{ asset('images/logo-w.png') }}" alt="Logo">
 
     <div class="search-bar">
-        <input type="text" placeholder="Search anything ...">
+        <input type="text" id="searchInput" onkeyup="searchCards()" placeholder="Search anything ...">
     </div>
 
     <div class="card">
@@ -102,6 +116,34 @@
         </div>
     </div>
 
+    <div class="card">
+        <div class="card-title">Aso</div>
+        <div class="card-content">
+            <p><strong>Kahulugan:</strong> tumutukoy sa isang barkong pandagat na bilog o mataba ang anyo</p>
+            <p><strong>Kasingkahulugan:</strong> barko, sasakyang-dagat, bapor</p>
+            <p><strong>Uri ng Salita:</strong> Pangngalan</p>
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="card-title">Bapor Tabò</div>
+        <div class="card-content">
+            <p><strong>Kahulugan:</strong> tumutukoy sa isang barkong pandagat na bilog o mataba ang anyo</p>
+            <p><strong>Kasingkahulugan:</strong> barko, sasakyang-dagat, bapor</p>
+            <p><strong>Uri ng Salita:</strong> Pangngalan</p>
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="card-title">Bapor Tabò</div>
+        <div class="card-content">
+            <p><strong>Kahulugan:</strong> tumutukoy sa isang barkong pandagat na bilog o mataba ang anyo</p>
+            <p><strong>Kasingkahulugan:</strong> barko, sasakyang-dagat, bapor</p>
+            <p><strong>Uri ng Salita:</strong> Pangngalan</p>
+        </div>
+    </div>
+
+    @include('components.navbar')
     
 </body>
 </html>
