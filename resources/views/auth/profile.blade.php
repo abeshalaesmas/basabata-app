@@ -1,18 +1,23 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dashboard</title>
+
     <style>
         body {
             font-family: Arial, sans-serif;
             background-color: #f9fafb;
             margin: 0;
             padding: 0;
+            
+            
+   
         }
         .navbar {
-            background-color: blue;
+            height: 150px;
+            background-color: yellow;
             color: #fff;
             padding: 15px 20px;
             display: flex;
@@ -86,7 +91,7 @@
             </form>
         </div>
     </header>
-
+    
     <section>
         <div class="container">
             <div class="column">
@@ -104,14 +109,14 @@
                     <button type="submit">Upload</button>
                 </form>
             </div>
+           
 
             <div class="column">
                 <p class="welcome">Welcome, {{ $user->profile->name }}!</p>
+                <p>Score: {{$user->profile->score}}</p>
                 <div class="card">
-                    <h3>Profile</h3>
                     <p>Username: {{ $user->user_name }}</p>
                     <p>Bio: {{$user->profile->bio ?? 'Create your motto now!'}}</p>
-                    <p>Score: {{$user->profile->score}}</p>
                 </div>
             </div>
         
@@ -121,11 +126,17 @@
             <button type="submit">Reset Score</button>
         </form>
 
+
     </section>
+    
     <footer>
+
         <div class="footer">
-            © 2024 Your App Name. All rights reserved.
+        @include('components.navbar')
         </div>
     </footer>
+    
+    
 </body>
 </html>
+

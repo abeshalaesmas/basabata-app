@@ -9,6 +9,8 @@ use App\Http\Controllers\WordController;
 use App\Http\Controllers\ScoreController;
 use App\Http\Controllers\ChapterController;
 
+
+
 Route::get('/', function () {
     return view('welcome');
 });
@@ -57,13 +59,16 @@ Route::get('/', function () {
         //SCORE RESET(FOR TESTING ONLY)
         Route::post('/reset-score', [ScoreController::class, 'resetScore'])->name('reset.score');
 
-<<<<<<< HEAD
+
         //PROFILE PICTURE UPLOAD
         Route::post('/profile/upload', [ProfileController::class, 'upload'])->name('profile.upload');
-=======
+
         //CHAPTERS
         Route::get('/chapters-selection', [ChapterController::class, 'showChapters'])->name('showChapters');
->>>>>>> c9b1c7dfbcdeb22b3b107f1344c56cbb94b38e7a
+
+        //GLOSSARY
+        Route::get('/glossary', [ChapterController::class, 'showGlossary'])->name('glossary');
+        
     });
 
 
