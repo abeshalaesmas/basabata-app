@@ -9,11 +9,24 @@
 </head>
 <body>
     <div class="footer">
-        <div class="nav-item">🏠</div>
-        <div class="nav-item">📖</div>
-        <div class="nav-item">💡</div>
-        <div class="nav-item">❤️</div>
-        <div class="nav-item"><a href="{{route('profile')}}">Me</a></div>
+        <div class="nav-item">
+            <img src="{{ asset('/images/Icons/home.svg') }}" alt="🏠">
+        </div>
+        <div class="nav-item">
+            <img src="{{ asset('/images/Icons/book-icon.svg') }}" alt="📖">
+        </div>
+        <div class="nav-item">
+            <img src="{{ asset('/images/Icons/bulb-icon.svg') }}" alt="💡">
+        </div>
+        
+        <div class="nav-item">
+            <img src="{{ asset('/images/Icons/saved-icon(1).svg') }}" alt="❤️">
+
+        </div>
+        <div class="nav-item">
+            <a href="{{route('profile')}}">
+            <img src="{{ asset('/images/Icons/profile.svg') }}" alt="Me">
+            </a></div>
     </div>
 </body>
 </html>
