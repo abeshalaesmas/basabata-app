@@ -52,6 +52,7 @@ Route::get('/', function () {
 
         //QUIZZES
         Route::get('/quiz', [QuizController::class, 'showQuiz'])->name('showQuiz');
+        Route::get('/quiz/1', [QuizController::class, 'quizOne'])->name('quiz-one');
 
         //SCORE INCREMENT
         Route::post('/increment-score', [ScoreController::class, 'incrementScore'])->name('increment.score');
@@ -71,7 +72,7 @@ Route::get('/', function () {
 
         //GLOSSARY
         Route::get('/glossary', [ChapterController::class, 'showGlossary'])->name('glossary');
-        
+
     });
 
 

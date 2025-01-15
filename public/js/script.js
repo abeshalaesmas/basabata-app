@@ -95,7 +95,7 @@ function revealAnswer(isCorrect) {
         setStatusClass(button, button.dataset.correct === "true");
         button.disabled = true;
     });
-    
+
     if (isCorrect) {
         score++;
     }
@@ -139,8 +139,12 @@ function showScore(){
         }
     })
     .catch(error => console.error('Error:', error));
-    nextButton.innerHTML = "Play Again";
+    nextButton.innerHTML = "Go Back To Dashboard";
     nextButton.style.display = "block";
+
+    nextButton.addEventListener("click", () => {
+        window.location.href = "/quiz"; // Replace with your dashboard route
+    });
 }
 
 function handleNextButton(){
