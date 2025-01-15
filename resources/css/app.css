@@ -127,22 +127,31 @@ body {
     cursor: pointer;
   }
   /* ================================================================================ NAV BAR  */
-  /* Footer */
-  .footer {
   
-    @apply fixed bottom-0 left-1/2 transform -translate-x-1/2 
+  .navbar {
+  
+    /* @apply fixed bottom-0 left-1/2 transform -translate-x-1/2 
     flex justify-center items-center bg-orange-200 rounded-lg
-    w-[400px] m-0 p-4 bg-no-repeat;
+    w-[400px] m-0 p-4 bg-no-repeat space-x-5; */
+      @apply fixed bottom-0 left-1/2 transform -translate-x-1/2
+      flex justify-center items-center bg-orange-200 rounded-lg
+      w-full sm:w-[400px] h-[72px] m-0 p-4 bg-no-repeat space-x-5;
 
 
   }
-  
   .nav-item {
     font-size: 1.5em;
     color: #333;
     cursor: pointer;
-  }
+    transition: transform 0.2s ease, color 0.2s ease; /* Smooth transitions */
 
+    
+  }
+.nav-item:hover{
+  transform: scale(1.2); /* Increase size without affecting layout */
+  color: red;
+  cursor: pointer;
+}
 
   
 
