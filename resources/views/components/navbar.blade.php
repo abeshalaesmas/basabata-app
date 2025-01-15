@@ -22,10 +22,10 @@
                 <i class="si-book" style="font-size: 35px"></i>
             </a>
         </div>
-        <div class="nav-item">
+        <div class="nav-item nav-center">
             <a href="{{route('profile')}}">
                 {{-- <img src="{{ asset('/images/Icons/bulb-icon.svg') }}" alt="💡"> --}}
-                <i class="si-lightbulb" style="font-size: 35px"></i>
+                <i class="si-lightbulb" style="font-size: 40px"></i>
             </a>
         </div>
         

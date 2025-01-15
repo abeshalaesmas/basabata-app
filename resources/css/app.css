@@ -130,14 +130,9 @@ body {
   
   .navbar {
   
-    /* @apply fixed bottom-0 left-1/2 transform -translate-x-1/2 
-    flex justify-center items-center bg-orange-200 rounded-lg
-    w-[400px] m-0 p-4 bg-no-repeat space-x-5; */
       @apply fixed bottom-0 left-1/2 transform -translate-x-1/2
-      flex justify-center items-center bg-orange-200 rounded-lg
-      w-full sm:w-[400px] h-[72px] m-0 p-4 bg-no-repeat space-x-5;
-
-
+      flex justify-center items-center bg-amber-100 rounded-lg
+      w-full sm:w-[400px] h-[72px] m-0 p-4 bg-no-repeat space-x-6;
   }
   .nav-item {
     font-size: 1.5em;
@@ -147,10 +142,15 @@ body {
 
     
   }
+.nav-center{
+  @apply  p-5 bg-amber-200 mb-16 rounded-[100%];
+}
+
 .nav-item:hover{
   transform: scale(1.2); /* Increase size without affecting layout */
-  color: red;
+  color: rgb(251 191 36);
   cursor: pointer;
+
 }
 
   
