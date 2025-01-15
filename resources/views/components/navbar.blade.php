@@ -6,14 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/siimple-icons/siimple-icons.css" />
-    <title>Document</title>
+    <title>Navigation Bar</title>
 </head>
 <body>
-<<<<<<< HEAD
-    <div class="box">
-        so ayun box ito
-    </div>  
-=======
     <div class="navbar">
         <div class="nav-item">
             <a href="{{route('profile')}}">
@@ -46,6 +41,5 @@
                 <i class="si-user" style="font-size: 35px"></i>
             </a></div>
     </div>
->>>>>>> c9b1c7dfbcdeb22b3b107f1344c56cbb94b38e7a
 </body>
 </html> 

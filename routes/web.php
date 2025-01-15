@@ -57,13 +57,10 @@ Route::get('/', function () {
         //SCORE RESET(FOR TESTING ONLY)
         Route::post('/reset-score', [ScoreController::class, 'resetScore'])->name('reset.score');
 
-<<<<<<< HEAD
         //PROFILE PICTURE UPLOAD
         Route::post('/profile/upload', [ProfileController::class, 'upload'])->name('profile.upload');
-=======
         //CHAPTERS
         Route::get('/chapters-selection', [ChapterController::class, 'showChapters'])->name('showChapters');
->>>>>>> c9b1c7dfbcdeb22b3b107f1344c56cbb94b38e7a
     });
 
 

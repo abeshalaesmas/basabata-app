@@ -14,8 +14,8 @@
     {{-- <img src="images\bg_dashboard.gif" alt=""> --}}
     <!-- Header Section -->
     <header class="header">
-      <div class="logo">📚 basabata</div>
-      <div class="notification">🔔</div>
+      <div class="logo"><img src="{{ asset('/images/logo-w.png') }}" alt=""></div>
+      <div class="notification"><i class="si-bell"></i></div>
     </header>
 
     <!-- Banner Section -->
