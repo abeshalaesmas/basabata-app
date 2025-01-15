@@ -36,9 +36,10 @@ const questions = [
 const questionElement = document.getElementById("question");
 const answerButtons = document.getElementById("answer-buttons");
 const nextButton = document.getElementById("next-btn");
-
+const revealButton = document.getElementById("revealButton");
 let currentQuestionIndex = 0;
 let score = 0;
+let userId = document.querySelector('meta[name="user-id"]').getAttribute('content');
 
 function startQuiz(){
     currentQuestionIndex = 0;
@@ -67,6 +68,7 @@ function showQuestion(){
 
 function resetState(){
     nextButton.style.display = "none";
+    revealButton.style.display = "none";
     while(answerButtons.firstChild){
         answerButtons.removeChild(answerButtons.firstChild);
     }
@@ -75,19 +77,44 @@ function resetState(){
 function selectAnswer(e){
     const selectedBtn = e.target;
     const isCorrect = selectedBtn.dataset.correct === "true";
-    if(isCorrect) {
-        selectedBtn.classList.add("correct");
-        score++;
-    }else{
-        selectedBtn.classList.add("incorrect");
-    }
+
+    // Deselect any previously selected answer
     Array.from(answerButtons.children).forEach(button => {
-        if(button.dataset.correct === "true"){
-            button.classList.add("correct");
-        }
+        button.classList.remove("selected");
+    });
+
+    // Select the new answer
+    selectedBtn.classList.add("selected");
+
+    revealButton.style.display = "block";
+    revealButton.onclick = () => revealAnswer(isCorrect);
+}
+
+function revealAnswer(isCorrect) {
+    Array.from(answerButtons.children).forEach(button => {
+        setStatusClass(button, button.dataset.correct === "true");
         button.disabled = true;
     });
+    
+    if (isCorrect) {
+        score++;
+    }
     nextButton.style.display = "block";
+    revealButton.style.display = "none";
+}
+
+function setStatusClass(element, correct) {
+    clearStatusClass(element);
+    if (correct) {
+        element.classList.add('correct');
+    } else {
+        element.classList.add('wrong');
+    }
+}
+
+function clearStatusClass(element) {
+    element.classList.remove('correct');
+    element.classList.remove('wrong');
 }
 
 function showScore(){
@@ -105,7 +132,6 @@ function showScore(){
             score: score
         })
     })
-
     .then(response => response.json())
     .then(data => {
         if (data.message) {

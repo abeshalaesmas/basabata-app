@@ -7,6 +7,6 @@
 <body>
     <h1>Random Word: {{ $randomWord->word }}</h1>
     <p>Definition: {{ $randomWord->definition }}</p>
-    <button onclick="window.location.reload();">Generate New Word</button>
+    <button onclick="window.location.reload();">Shuffle Word</button>
 </body>
 </html>

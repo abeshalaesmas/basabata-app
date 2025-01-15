@@ -7,6 +7,7 @@ use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\QuizController;
 use App\Http\Controllers\WordController;
 use App\Http\Controllers\ScoreController;
+use App\Http\Controllers\ChapterController;
 
 Route::get('/', function () {
     return view('welcome');
@@ -24,6 +25,7 @@ Route::get('/', function () {
 
 // NORMAL AUTH
     Route::middleware('guest')->group(function(){
+
         //ROUTES
         Route::get('/register',[AuthController::class,'registerForm'])->name('register');
         Route::post('/register',[AuthController::class,'register'])->name('register.process');
@@ -32,7 +34,7 @@ Route::get('/', function () {
         Route::get('/login',[AuthController::class,'loginForm'])->name('login');
         Route::post('/login',[AuthController::class,'login'])->name('login.process');
     });
-
+        //DASHBOARD
     Route::middleware('auth')->group(function(){
         //CUSTOMIZE USER'S PROFILE
         Route::get('/profile/create', [ProfileController::class, 'create'])->name('profile.create');
@@ -48,9 +50,15 @@ Route::get('/', function () {
 
         //QUIZZES
         Route::get('/quiz', [QuizController::class, 'showQuiz'])->name('showQuiz');
-        
+
         //SCORE INCREMENT
         Route::post('/increment-score', [ScoreController::class, 'incrementScore'])->name('increment.score');
+
+        //SCORE RESET(FOR TESTING ONLY)
+        Route::post('/reset-score', [ScoreController::class, 'resetScore'])->name('reset.score');
+
+        //CHAPTERS
+        Route::get('/chapters-selection', [ChapterController::class, 'showChapters'])->name('showChapters');
     });
 
 

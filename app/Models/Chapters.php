@@ -10,10 +10,10 @@ class Chapters extends Model
 {
     use HasFactory;
 
-    protected $fillables = [
+    protected $fillable = [
         'title',
-        'content'
+        'content',
     ];
 
-   
+
 }

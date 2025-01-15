@@ -7,6 +7,7 @@
     <title>QUIZ APP</title>
     <link rel="stylesheet" href="{{asset('css/style.css')}}">
     <meta name="csrf-token" content="{{ csrf_token() }}">
+    <meta name="user-id" content="{{ auth()->user()->id }}">
 </head>
 <body>
     <div class="app">
@@ -14,10 +15,9 @@
         <div class="quiz">
             <h2 id="question">Question goes here</h2>
             <div id="answer-buttons">
-                <button class="btn">Answer 1</button>
-                <button class="btn">Answer 2</button>
-                <button class="btn">Answer 3</button>
+                <!-- Remove initial buttons to avoid conflicts -->
             </div>
+            <button id="revealButton" style="display: none;">Reveal Answer</button>
             <button id="next-btn">Next</button>
         </div>
     </div>
