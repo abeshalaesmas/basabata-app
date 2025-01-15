@@ -57,11 +57,8 @@ class AuthController extends Controller
     }
 
     public function profile(){
-        // Retrieve the logged-in user's profile
-        $user = User::with('profile')->find(Auth::id());
-
-        // Return the view and pass both the user and profile data
-        return view('auth.profile', ['user' => $user]);
+        $user = Auth::user();
+        return view('auth.profile', compact('user'));
     }
 
     public function logout (Request $request){

@@ -9,6 +9,8 @@ use App\Http\Controllers\WordController;
 use App\Http\Controllers\ScoreController;
 use App\Http\Controllers\ChapterController;
 
+
+
 Route::get('/', function () {
     return view('welcome');
 });
