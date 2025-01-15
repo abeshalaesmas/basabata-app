@@ -5,13 +5,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Basa Bata</title>
-  <link rel="stylesheet" href="styles.css">
+  
 </head>
-<body>
+<body > 
 
   <div class="app">
-    @include('components.navbar')
 
+    {{-- <img src="images\bg_dashboard.gif" alt=""> --}}
     <!-- Header Section -->
     <header class="header">
       <div class="logo">📚 basabata</div>
@@ -50,16 +50,23 @@
         <div class="category">Talamuhay🔒</div>
       </div>
     </section>
-
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
     <!-- Footer Navigation -->
-    <footer class="footer">
-      <div class="nav-item">🏠</div>
-      <div class="nav-item">📖</div>
-      <div class="nav-item">💡</div>
-      <div class="nav-item">❤️</div>
-      <div class="nav-item"><a href="{{route('profile')}}">Me</a></div>
-    </footer>
+    @include('components.navbar')
+
   </div>
+
+
 
 </body>
 </html>

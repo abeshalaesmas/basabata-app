@@ -17,18 +17,15 @@
 
 
 body {
-   /* margin: 0;
-    font-family: Arial, sans-serif;
-    background: linear-gradient(to bottom, #ffd54f, #f57c00);
-    color: #333;  */
 
-    background-image: url("{{ asset('images/bg_dashboard.gif')}}");
-
-    @apply m-0 p-0  bg-center bg-cover;
+    background-image: url('/public/images/bg_dashboard.gif');
+  
+    @apply  h-[100vh] bg-center bg-cover;
    
     
   }
-  
+
+
   .app {
     display: flex;
     flex-direction: column;
@@ -129,21 +126,34 @@ body {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     cursor: pointer;
   }
+  /* ================================================================================ NAV BAR  */
   
-  /* Footer */
-  .footer {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    background-color: #ffca28;
-    padding: 10px 0;
+  .navbar {
+  
+    /* @apply fixed bottom-0 left-1/2 transform -translate-x-1/2 
+    flex justify-center items-center bg-orange-200 rounded-lg
+    w-[400px] m-0 p-4 bg-no-repeat space-x-5; */
+      @apply fixed bottom-0 left-1/2 transform -translate-x-1/2
+      flex justify-center items-center bg-orange-200 rounded-lg
+      w-full sm:w-[400px] h-[72px] m-0 p-4 bg-no-repeat space-x-5;
+
+
   }
-  
   .nav-item {
     font-size: 1.5em;
     color: #333;
     cursor: pointer;
+    transition: transform 0.2s ease, color 0.2s ease; /* Smooth transitions */
+
+    
   }
+.nav-item:hover{
+  transform: scale(1.2); /* Increase size without affecting layout */
+  color: red;
+  cursor: pointer;
+}
+
+  
 
   .box {
     width: 200px;
