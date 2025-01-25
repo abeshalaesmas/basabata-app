@@ -67,6 +67,7 @@ Route::get('/', function () {
         //CHAPTERS
         Route::get('/chapters-selection', [ChapterController::class, 'showChapters'])->name('showChapters');
         Route::get('/chapter1', [ChapterController::class, 'showChapter1'])->name('chapter1');
+        Route::get('/chapter2', [ChapterController::class, 'showChapter2'])->name('chapter2');
 
         //GAME 3
         Route::get('/game3', [ChapterController::class, 'showGame3'])->name('game3');

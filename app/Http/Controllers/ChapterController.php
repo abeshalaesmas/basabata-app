@@ -14,6 +14,10 @@ class ChapterController extends Controller
         return view('chapters.chapter-1');
     }
 
+    public function showChapter2 () {
+        return view('chapters.chapter-2');
+    }
+
     public function showGlossary () {
         return view('glossary');
     }
