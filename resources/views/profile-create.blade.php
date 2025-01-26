@@ -74,11 +74,21 @@
             text-decoration: underline;
         }
     </style>
+    <script>
+        const previewImage = (event) => {
+            const reader = new FileReader();
+            reader.onload = () => {
+                const output = document.getElementById('profilePicturePreview');
+                output.src = reader.result;
+            };
+            reader.readAsDataURL(event.target.files[0]);
+        }
+    </script>
 </head>
 <body>
     <div class="form-container">
         <h1>Create Your First Profile Today!</h1>
-        <form action="/profile" method="POST">
+        <form action="/profile" method="POST" enctype="multipart/form-data">
             <!-- Add CSRF Token for Laravel -->
             <input type="hidden" name="_token" value="{{ csrf_token() }}">
 
@@ -91,9 +101,21 @@
                 <textarea name="bio" id="bio" placeholder="Create Your Motto Now" cols="50" rows="10">{{ old('bio') }}</textarea>
             </div>
             <div class="form-group">
+                <label for="profile_picture">Upload Profile Picture:</label>
+                <input type="file" name="profile_picture" id="profile_picture" onchange="previewImage(event)">
+            </div>
+            <div class="form-group">
                 <button type="submit">Create Profile Now</button>
             </div>
         </form>
+        <div>
+            <img id="profilePicturePreview" src="#" alt="Profile Picture Preview" style="display: none; width: 150px; height: 150px;"/>
+        </div>
     </div>
+    <script>
+        document.getElementById('profile_picture').addEventListener('change', function() {
+            document.getElementById('profilePicturePreview').style.display = 'block';
+        });
+    </script>
 </body>
 </html>
