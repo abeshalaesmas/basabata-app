@@ -67,7 +67,45 @@ Route::get('/', function () {
         Route::get('/chapters-selection', [ChapterController::class, 'showChapters'])->name('showChapters');
         Route::get('/chapter1', [ChapterController::class, 'showChapter1'])->name('chapter1');
         Route::get('/chapter2', [ChapterController::class, 'showChapter2'])->name('chapter2');
+        Route::get('/chapter3', [ChapterController::class, 'showChapter3'])->name('chapter3');
+        Route::get('/chapter4', [ChapterController::class, 'showChapter4'])->name('chapter4');
+        Route::get('/chapter5', [ChapterController::class, 'showChapter5'])->name('chapter5');
+        Route::get('/chapter6', [ChapterController::class, 'showChapter6'])->name('chapter6');
+        Route::get('/chapter7', [ChapterController::class, 'showChapter7'])->name('chapter7');
+        Route::get('/chapter8', [ChapterController::class, 'showChapter8'])->name('chapter8');
+        Route::get('/chapter9', [ChapterController::class, 'showChapter9'])->name('chapter9');
+        Route::get('/chapter10', [ChapterController::class, 'showChapter10'])->name('chapter10');
+        Route::get('/chapter11', [ChapterController::class, 'showChapter11'])->name('chapter11');
+        Route::get('/chapter12', [ChapterController::class, 'showChapter12'])->name('chapter12');
+        Route::get('/chapter13', [ChapterController::class, 'showChapter13'])->name('chapter13');
+        Route::get('/chapter14', [ChapterController::class, 'showChapter14'])->name('chapter14');
+        Route::get('/chapter15', [ChapterController::class, 'showChapter15'])->name('chapter15');
+        Route::get('/chapter16', [ChapterController::class, 'showChapter16'])->name('chapter16');
+        Route::get('/chapter17', [ChapterController::class, 'showChapter17'])->name('chapter17');
+        Route::get('/chapter18', [ChapterController::class, 'showChapter18'])->name('chapter18');
+        Route::get('/chapter19', [ChapterController::class, 'showChapter19'])->name('chapter19');
+        Route::get('/chapter20', [ChapterController::class, 'showChapter20'])->name('chapter20');
+        Route::get('/chapter21', [ChapterController::class, 'showChapter21'])->name('chapter21');
+        Route::get('/chapter22', [ChapterController::class, 'showChapter22'])->name('chapter22');
+        Route::get('/chapter23', [ChapterController::class, 'showChapter23'])->name('chapter23');
+        Route::get('/chapter24', [ChapterController::class, 'showChapter24'])->name('chapter24');
+        Route::get('/chapter25', [ChapterController::class, 'showChapter25'])->name('chapter25');
+        Route::get('/chapter26', [ChapterController::class, 'showChapter26'])->name('chapter26');
+        Route::get('/chapter27', [ChapterController::class, 'showChapter27'])->name('chapter27');
+        Route::get('/chapter28', [ChapterController::class, 'showChapter28'])->name('chapter28');
+        Route::get('/chapter29', [ChapterController::class, 'showChapter29'])->name('chapter29');
+        Route::get('/chapter30', [ChapterController::class, 'showChapter30'])->name('chapter30');
+        Route::get('/chapter31', [ChapterController::class, 'showChapter31'])->name('chapter31');
+        Route::get('/chapter32', [ChapterController::class, 'showChapter32'])->name('chapter32');
+        Route::get('/chapter33', [ChapterController::class, 'showChapter33'])->name('chapter33');
+        Route::get('/chapter34', [ChapterController::class, 'showChapter34'])->name('chapter34');
+        Route::get('/chapter35', [ChapterController::class, 'showChapter35'])->name('chapter35');
+        Route::get('/chapter36', [ChapterController::class, 'showChapter36'])->name('chapter36');
+        Route::get('/chapter37', [ChapterController::class, 'showChapter37'])->name('chapter37');
+        Route::get('/chapter38', [ChapterController::class, 'showChapter38'])->name('chapter38');
+        Route::get('/chapter39', [ChapterController::class, 'showChapter39'])->name('chapter39');
 
+        
         //GAME 3
         Route::get('/game3', [ChapterController::class, 'showGame3'])->name('game3');
 

@@ -1,47 +1,9 @@
-<!-- <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-</head>
-<body>
-
-    @if ($chapters->isEmpty())
-        <li>
-            <a href="#">wla pang chapters</a>
-        </li>
-    @endif
-
-    <header>
-        <img src="" alt="">
-        <h1>El Filibusterismo</h1>
-        <img src="" alt="">
-    </header>
-    <main>
-
-        <section class="bg-yellow-200 rounded-xl shadow-lg p-6">
-        <h3 class="text-xl font-bold text-gray-800 mb-4">Kabanata</h3>
-        <ul class="space-y-2">
-            @foreach ($chapters as $chapter)
-                <li>
-                    <form action="{{ Route('showOne', ['id' => $chapter->id]) }}" method="GET">
-                        <button type="submit" class="text-sm font-semibold text-gray-800 hover:underline w-full text-left">
-                            {{ $chapter->id }}. {{ $chapter->title }}
-                        </button>
-                    </form>
-                </li>
-            @endforeach
-        </ul>
-        <i class="fas fa-search text-yellow-800 text-2xl absolute top-6 right-6"></i>
-        </section>
-    </main>
-</body>
-</html> -->
 
 <html>
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>El Filibusterismo</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
@@ -80,7 +42,7 @@
       <section class="bg-yellow-200 rounded-xl shadow-lg p-6">
         <h3 class="text-xl font-bold text-gray-800 mb-4">Kabanata</h3>
         <ul class="space-y-2 max-h-64 overflow-y-auto">
-            @foreach ($chapters as $chapter)
+            <!-- @foreach ($chapters as $chapter)
             <li>
                 <form action="{{ Route('showOne', ['id' => $chapter->id]) }}" method="GET">
                     <button type="submit" class="text-sm font-semibold text-gray-800 hover:underline w-full text-left">
@@ -88,7 +50,9 @@
                     </button>
                 </form>
             </li>
-            @endforeach
+            @endforeach -->
+
+            
         </ul>
         <i class="fas fa-search text-yellow-800 text-2xl absolute top-6 right-6"></i>
       </section>
