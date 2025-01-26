@@ -18,7 +18,7 @@
             </a>
         </div>
         <div class="nav-item">
-            <a href="{{route('profile')}}">
+            <a href="{{route('glossary')}}">
                 {{-- <img src="{{ asset('/images/Icons/book-icon.svg') }}" alt="📖"> --}}
                 <i class="si-book" style="font-size: 35px"></i>
             </a>
@@ -31,7 +31,7 @@
         </div>
         
         <div class="nav-item">
-            <a href="{{route('glossary')}}">
+            <a href="{{route('profile')}}">
                 {{-- <img src="{{ asset('/images/Icons/saved-icon (1).svg') }}" alt="❤️"> --}}
                 <i class="si-bookmark" style="font-size: 35px"></i>
             </a>

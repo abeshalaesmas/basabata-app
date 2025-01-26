@@ -114,6 +114,7 @@
                 <p>Score: {{$user->profile->score}}</p>
                 <div class="card">
                     <p>Username: {{ $user->user_name }}</p>
+                    <p>Email:{{$user->email}}</p>
                     <p>Bio: {{$user->profile->bio ?? 'Create your motto now!'}}</p>
                 </div>
             </div>

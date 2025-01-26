@@ -13,4 +13,8 @@ class ChapterController extends Controller
     public function showGlossary () {
         return view('glossary');
     }
+
+    public function showGame3 () {
+        return view('sentence');
+    }
 }

@@ -61,8 +61,17 @@ body {
   
   /* Banner */
   .banner {
-    text-align: center;
-    padding: 20px;
+     display: grid;
+  grid-template-columns: 1fr 1fr; /* Two equal columns */
+  align-items: center;
+  padding: 20px;
+  gap: 20px;
+    /* text-align: center;
+    padding: 20px; */
+  }
+  .banner-text  {
+    text-align: left; /* Align text to the left */
+
   }
   
   .banner-text h1 {
@@ -70,9 +79,13 @@ body {
     font-size: 1.5em;
     color: #fff;
   }
-  
-  .banner-image img {
+  .banner-image {
+    justify-self: center; /* Center the image within its column */
     width: 100%;
+    /* @apply w-32 h-32 bg-slate-300; */
+  }
+  .banner-image img {
+    max-width: 100%;
     border-radius: 10px;
     margin-top: 10px;
   }
