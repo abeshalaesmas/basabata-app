@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\InsertController;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\ProfileController;
-use App\Http\Controllers\QuizController;
+use App\Http\Controllers\GameController;
 use App\Http\Controllers\WordController;
 use App\Http\Controllers\ScoreController;
 use App\Http\Controllers\ChapterController;
@@ -51,9 +51,15 @@ Route::get('/', function () {
 
         Route::get('/random-word', [WordController::class, 'generateRandomWord']);
 
-        //QUIZZES
-        Route::get('/quiz', [QuizController::class, 'showQuiz'])->name('showQuiz');
-        Route::get('/quiz/1', [QuizController::class, 'quizOne'])->name('quiz-one');
+        //GAMES
+        Route::get('/games', [GameController::class, 'showGames'])->name('showGames');
+
+            //SHUFFL SEN
+             Route::get('/shuffle', [GameController::class, 'showShuffle'])->name('showShuffle');
+
+            //QUIZZES
+            Route::get('/quiz', [GameController::class, 'showQuiz'])->name('showQuiz');
+            Route::get('/quiz/1', [GameController::class, 'quiz1'])->name('quiz1');
 
         //SCORE INCREMENT
         Route::post('/increment-score', [ScoreController::class, 'incrementScore'])->name('increment.score');
@@ -106,8 +112,7 @@ Route::get('/', function () {
         Route::get('/chapter39', [ChapterController::class, 'showChapter39'])->name('chapter39');
 
         
-        //GAME 3
-        Route::get('/game3', [ChapterController::class, 'showGame3'])->name('game3');
+        
 
         //GLOSSARY
         Route::get('/glossary', [ChapterController::class, 'showGlossary'])->name('glossary');

@@ -18,13 +18,13 @@
             </a>
         </div>
         <div class="nav-item">
-            <a href="{{route('glossary')}}">
+            <a href="{{route('showChapters')}}">
                 {{-- <img src="{{ asset('/images/Icons/book-icon.svg') }}" alt="📖"> --}}
                 <i class="si-book" style="font-size: 35px"></i>
             </a>
         </div>
         <div class="nav-item nav-center">
-            <a href="{{route('profile')}}">
+            <a href="{{route('showGames')}}">
                 {{-- <img src="{{ asset('/images/Icons/bulb-icon.svg') }}" alt="💡"> --}}
                 <i class="si-lightbulb" style="font-size: 40px"></i>
             </a>

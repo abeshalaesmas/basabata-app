@@ -13,7 +13,7 @@
     }
   </style>
 </head>
-<body class="bg-gradient-to-r from-yellow-300 via-yellow-400 to-orange-400 p-8">
+<body class="p-8">
   <div class="max-w-5xl mx-auto">
     <header class="flex justify-between items-center mb-6">
       <div class="flex items-center space-x-2">
@@ -86,26 +86,9 @@
       </section>
     </main>
     <footer class="mt-6 flex justify-center space-x-8">
-      <i class="fas fa-home text-black text-2xl"></i>
-      <i class="fas fa-book text-black text-2xl"></i>
-      <i class="fas fa-user text-black text-2xl"></i>
+      @include('components.navbar')
     </footer>
   </div>
 </body>
 </html>
 
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-</head>
-<body>
-    <h1>El Filibusterismo</h1>
-    
-</body>
-</html>
