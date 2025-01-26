@@ -52,6 +52,7 @@ Route::get('/', function () {
 
         //QUIZZES
         Route::get('/quiz', [QuizController::class, 'showQuiz'])->name('showQuiz');
+        Route::get('/quiz/1', [QuizController::class, 'quizOne'])->name('quiz-one');
 
         //SCORE INCREMENT
         Route::post('/increment-score', [ScoreController::class, 'incrementScore'])->name('increment.score');
@@ -63,13 +64,15 @@ Route::get('/', function () {
         Route::post('/profile/upload', [ProfileController::class, 'upload'])->name('profile.upload');
         //CHAPTERS
         Route::get('/chapters-selection', [ChapterController::class, 'showChapters'])->name('showChapters');
+        Route::get('/chapter1', [ChapterController::class, 'showChapter1'])->name('chapter1');
+        Route::get('/chapter2', [ChapterController::class, 'showChapter2'])->name('chapter2');
 
         //GAME 3
         Route::get('/game3', [ChapterController::class, 'showGame3'])->name('game3');
 
         //GLOSSARY
         Route::get('/glossary', [ChapterController::class, 'showGlossary'])->name('glossary');
-        
+
     });
 
 

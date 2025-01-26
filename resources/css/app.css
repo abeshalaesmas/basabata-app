@@ -19,8 +19,9 @@
 body {
 
     background-image: url('/public/images/bg_dashboard.gif');
+
   
-    @apply  h-[100vh] bg-center bg-cover;
+    @apply  h-[100vh] bg-center bg-cover bg-no-repeat bg-fixed;
    
     
   }
@@ -30,18 +31,58 @@ body {
     display: flex;
     flex-direction: column;
     height: 100vh;
-    justify-content: space-between;
+    gap: 5px;
+    /* justify-content: space-between; */
   }
   
+  .app-ui {
+    justify-content: center;
+    display: grid;
+    grid-template-rows: repeat(7, 1fr);
+    grid-template-columns: repeat(8, 1fr);
+    /*     grid-template-columns: repeat(8, 100px); */
+    /* grid-template-columns: repeat(4, 2fr), repeat(4, 1fr) ; */
+
+    padding: 0 100px;
+    grid-gap: 5px;
+    
+    .item-1 {
+      grid-row: 1 ;
+      grid-column: 1 / 5;
+      /* background-color: aliceblue; */
+    }
+
+    .item-2 {
+      grid-row: 2 / 5;
+      grid-column: 1 / 5;
+      /* background-color:coral; */
+    }
+
+    .item-3 {
+      grid-row: 1 / 5;
+      grid-column: 5 / 9;
+      /* background-color:greenyellow; */
+    }
+
+    .item-4 {
+      grid-row: 5 / 9;
+      grid-column: 1 / 9;
+      /* background-color:red; */
+    }
+
+  }
+
+
   /* Header */
   .header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
-    /* background-color: #ffca28; */
     color: #333;
     font-weight: bold;
+    /* background-color: #ffca28; */
+
   }
   
   .header .time {
@@ -49,7 +90,7 @@ body {
   }
   
   .header .logo {
-    @apply left-0 w-[200px] h-[90px];
+    @apply left-0 w-[160px] h-[90px];
   }
   .header .logo img{
     transform: scale(0.9); 
@@ -79,17 +120,36 @@ body {
     font-size: 1.5em;
     color: #fff;
   }
-  .banner-image {
-    justify-self: center; /* Center the image within its column */
-    width: 100%;
-    /* @apply w-32 h-32 bg-slate-300; */
+  .banner-image-left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: auto;
+    /* overflow: hidden;    */
+    /* background-color: #ffca28; */
   }
-  .banner-image img {
-    max-width: 100%;
-    border-radius: 10px;
-    margin-top: 10px;
+  .banner-image-left img#left-lower-img {
+    transform: translateY(-50px);
+    width: auto;
+    height: 90%;
+
   }
-  
+
+  .banner-image-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: 100%;
+    /* overflow: hidden;    */
+    /* background-color: #ffca28; */
+  }
+
+  .banner-image-right img#right-img{
+    width: 90%;
+    height: 80%;
+  }
   /* Search Bar */
   .search-bar {
     display: flex;
@@ -101,41 +161,45 @@ body {
     flex: 1;
     padding: 10px;
     border: none;
-    border-radius: 20px;
+    border-radius: 15px;
     margin-right: 10px;
   }
   
   .search-bar button {
     padding: 10px;
     border: none;
-    background-color: #ffca28;
-    border-radius: 50%;
+    background-color: hsl(46, 100%, 85%);
+    border-radius: 50% 0;
     cursor: pointer;
   }
   
   /* Categories */
   .categories {
-    text-align: center;
-    padding: 20px;
-    color: #fff;
+    transform: translateY(-70px);
+
+    text-align: left;
+    font-size: x-large;
+    font-weight: bold;
+    padding: 0 20px; 
+    color: #000000;
   }
   
   .categories h2 {
-    margin: 0 0 10px;
+    padding-left: 5px;
     font-size: 1.5em;
   }
   
   .categories .category-grid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(8, 1fr);
     gap: 10px;
     margin-top: 10px;
   }
   
   .category {
-    background-color: #fff;
+    background-color: hsl(46, 100%, 85%);
     color: #333;
-    padding: 10px;
+    padding: 30px 10px;
     border-radius: 10px;
     text-align: center;
     font-weight: bold;
@@ -147,8 +211,10 @@ body {
   .navbar {
   
       @apply fixed bottom-0 left-1/2 transform -translate-x-1/2
-      flex justify-center items-center bg-amber-100 rounded-lg
-      w-full sm:w-[400px] h-[72px] m-0 p-4 bg-no-repeat space-x-6;
+      flex justify-center gap-4 items-center bg-amber-100 rounded-tl-3xl rounded-tr-3xl
+      w-full sm:w-[450px] h-[72px] m-0 p-4 bg-no-repeat space-x-6;
+
+      /* justify-content: space-around; */
   }
   .nav-item {
     font-size: 1.5em;

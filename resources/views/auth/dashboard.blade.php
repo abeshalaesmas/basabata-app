@@ -11,59 +11,56 @@
 
   <div class="app">
 
-    {{-- <img src="images\bg_dashboard.gif" alt=""> --}}
-    <!-- Header Section -->
     <header class="header">
       <div class="logo"><img src="{{ asset('/images/logo-w.png') }}" alt=""></div>
       <div class="notification"><i class="si-bell"></i></div>
     </header>
 
-    <!-- Banner Section -->
-    <section class="banner">
-      <div class="banner-text">
-        <h1>Ilaw sa iyong isipan</h1>
-      </div>
-      <div class="banner-image">
-        <img src="library-image.jpg" alt="Library" />
-      </div>
-    </section>
+    <div class="app-ui">
 
-    <!-- Search Section -->
-    <div class="search-bar">
-      <input type="text" placeholder="Search anything..." />
-      <button>🔍</button>
+      <!-- Header Section -->
+ 
+
+      <div class="item-1"> 
+        <div class="search-bar">
+          <input type="text" placeholder="Search anything..." />
+          <button><i class="si-search" style="font-size: 20px"></i></button>
+        </div>
+      </div>
+
+      <div class="item-2">
+        <div class="banner-image-left">
+          <img src="{{ asset('/images/1a.png') }}" alt="Library" id="left-lower-img"/>
+        </div>
+      </div>
+
+
+      <div class="item-3"> 
+        <div class="banner-image-right">
+          <img src="{{ asset('/images/1.png') }}" alt="ilaw sa iyong isipan" id="right-img" />
+        </div>
+      </div>
+
+      <div class="item-4">
+        <section class="categories">
+          <h2>Kategorya</h2>
+          <div class="category-grid"> 
+            <div class="category"><a href="{{route('show')}}">Nobela</a></div>
+            <div class="category">Maikling Kwento</div>
+            <div class="category">Pabula</div>
+            <div class="category">Kuwentong Bayan🔒</div>
+            <div class="category">Alamat🔒</div>
+            <div class="category">Tula🔒</div>
+            <div class="category">Epiko🔒</div>
+            <div class="category">Talamuhay🔒</div>
+          </div>
+        </section>
+      </div>
+
     </div>
 
-    <!-- Categories Section -->
-    <section class="categories">
-      <h2>Hanapin, Basahin, Matuto</h2> 
-      <p>Kategorya:</p>
-      <div class="category-grid">
-        
-        <div class="category"><a href="{{route('show')}}">Nobela</a></div>
-        <div class="category">Maikling Kwento</div>
-        <div class="category">Pabula</div>
-        <div class="category">Kuwentong Bayan🔒</div>
-        <div class="category">Alamat🔒</div>
-        <div class="category">Tula🔒</div>
-        <div class="category">Epiko🔒</div>
-        <div class="category">Talamuhay🔒</div>
-      </div>
-    </section>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <!-- Footer Navigation -->
-    @include('components.navbar')
-
+        <!-- Footer Navigation -->
+        @include('components.navbar')
   </div>
 
 
