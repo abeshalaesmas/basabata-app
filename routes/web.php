@@ -46,7 +46,8 @@ Route::get('/', function () {
         Route::get('/dashboard',[AuthController::class, 'dashboard'])->name('dashboard');
         Route::post('/logout',[AuthController::class,'logout'])->name('logout');
 
-        Route::get('/profile',[AuthController::class, 'profile'])->name('profile');
+        Route::get('/profile',[ProfileController::class, 'profile'])->name('profile');
+        Route::put('/profile', [ProfileController::class, 'update'])->name('profile.update');
 
         Route::get('/random-word', [WordController::class, 'generateRandomWord']);
 

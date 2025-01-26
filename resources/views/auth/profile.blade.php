@@ -1,35 +1,22 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    <title>Profile</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             background-color: #f9fafb;
             margin: 0;
             padding: 0;
-            
-            
-   
-        }
-        header {
-            height: 150px;
-            background-color: yellow;
-            color: #fff;
-            padding: 15px 20px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
         }
         header h1 {
             margin: 0;
             color: black;
             font-size: 24px;
         }
-        .navbar button {
+        .lgout {
             background-color: #ff4757;
             color: #fff;
             border: none;
@@ -42,7 +29,7 @@
         }
         .container {
             display: flex;
-            flex-direction: row;
+
             justify-content: space-between;
             padding: 20px;
         }
@@ -75,8 +62,17 @@
             padding: 10px;
         }
         #logo{
-            width: 100px;
-            padding-left: 50px;
+            width: 80px;
+            padding: 25px 0px 0px 15px;
+            
+        }
+        #Logout {
+            background-color: #ff4757;
+            color: #fff;
+            border: none;
+            margin: 25px 0px 0px 800px;
+            border-radius: 5px;
+            cursor: pointer;
         }
     </style>
 </head>
@@ -86,56 +82,61 @@
         <form action="/logout" method="POST" style="margin: 0;">
             <!-- Add CSRF Token for Laravel -->
             <input type="hidden" name="_token" value="{{ csrf_token() }}">
-            <button type="submit">Logout</button>
+            <button id="Logout" type="submit">Logout</button>
         </form>
     </header>
-    
     <section>
         <div class="container">
-            <div class="column">
+
+            <div class="card">
                 <div>
-                    @if($user->profile->profile_picture && Storage::exists('public/profile_pictures/' . $user->profile->profile_picture))
-                        <img src="{{ asset('storage/profile_pictures/' . $user->profile->profile_picture) }}" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%;">
+                    @if(Auth::user()->profile && Auth::user()->profile->profile_picture)
+                        <img src="{{ asset('storage/app/private/public/profile_pictures/' . Auth::user()->profile->profile_picture) }}" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%;">
                     @else
-                        <img src="{{ asset('images/default-profile.png') }}" alt="Default Profile Picture" style="width: 150px; height: 150px; border-radius: 50%;">
+                        <p>No profile picture uploaded.</p>
                     @endif
                 </div>
-                <form action="{{ route('profile.upload') }}" method="POST" enctype="multipart/form-data">
+                <form id="profilePictureForm" action="{{ route('profile.upload') }}" method="POST" enctype="multipart/form-data">
                     @csrf
                     <label for="profile_picture">Change Profile Picture:</label>
-                    <input type="file" name="profile_picture" id="profile_picture" accept="image/*">
+                    <input type="file" name="profile_picture" id="profile_picture" accept="image/*" onchange="previewImage(event)">
                     <button type="submit">Upload</button>
                 </form>
+                <div>
+                    <img id="profilePicturePreview" src="#" alt="Profile Picture Preview" style="display: none; width: 150px; height: 150px;"/>
+                </div>
+                <script>
+                    const previewImage = (event) => {
+                        const reader = new FileReader();
+                        reader.onload = () => {
+                            const output = document.getElementById('profilePicturePreview');
+                            output.src = reader.result;
+                            output.style.display = 'block';
+                        };
+                        reader.readAsDataURL(event.target.files[0]);
+                    }
+                </script>
             </div>
-           
 
             <div class="column">
-                <p class="welcome">Welcome, {{ $user->profile->name }}!</p>
-                <p>Score: {{$user->profile->score}}</p>
+                <p class="welcome">Welcome, {{ Auth::user()->profile->name }}!</p>
+                <p>Score: {{ Auth::user()->profile->score }}</p>
                 <div class="card">
-                    <p>Username: {{ $user->user_name }}</p>
-                    <p>Email:{{$user->email}}</p>
-                    <p>Bio: {{$user->profile->bio ?? 'Create your motto now!'}}</p>
+                    <p>Username: {{ Auth::user()->user_name }}</p>
+                    <p>Email: {{ Auth::user()->email }}</p>
+                    <p>Bio: {{ Auth::user()->profile->bio ?? 'Create your motto now!' }}</p>
                 </div>
             </div>
-        
+
         </div>
-        <form action="{{ route('reset.score') }}" method="POST"> {{--for debugging purposes only--}}
+
+        <!-- <form action="{{ route('reset.score') }}" method="POST"> {{--for debugging purposes only--}}
             @csrf
             <button type="submit">Reset Score</button>
-        </form>
-
+        </form> -->
 
     </section>
-    
-    <footer>
-
-        <div class="footer">
-        @include('components.navbar')
-        </div>
-    </footer>
-    
-    
+    @include('components.navbar')
 </body>
 </html>
 

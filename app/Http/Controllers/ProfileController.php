@@ -49,15 +49,42 @@ class ProfileController extends Controller
             Log::info('Profile picture uploaded: ' . $path);
 
             // Delete old profile picture if exists
-            if ($profile->profile_picture) {
+            if ($profile && $profile->profile_picture) {
                 Storage::delete('public/profile_pictures/' . $profile->profile_picture);
             }
 
             // Save new profile picture
-            $profile->profile_picture = $filename;
-            $profile->save();
+            if ($profile) {
+                $profile->profile_picture = $filename;
+                $profile->save();
+            } else {
+                Profile::create([
+                    'user_id' => $user->id,
+                    'profile_picture' => $filename,
+                ]);
+            }
         }
 
-        return redirect()->back()->with('success', 'Profile picture updated successfully.');
+        return redirect()->route('profile')->with('success', 'Profile picture updated successfully.');
+    }
+
+    public function profile() {
+        $user = Auth::user();
+        return view('auth.profile', compact('user'));
+    }
+
+    public function update(Request $request) {
+        $validated = $request->validate([
+            'name' => 'required|string|max:255',
+            'bio' => 'nullable|string|max:500',
+        ]);
+
+        $profile = Auth::user()->profile;
+        $profile->update([
+            'name' => $validated['name'],
+            'bio' => $validated['bio'],
+        ]);
+
+        return redirect()->route('profile')->with('success', 'Profile updated successfully!');
     }
 }
