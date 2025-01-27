@@ -26,14 +26,8 @@ const questions = [
             {text: "d)  May mataas na antas ng pag-unawa", correct: false},
         ]
     },
-    {
-        question: "Alin sa mga sumusunod ang katangian ng isang 'tulisan'?",
-        answers: [
-            {text: "a) Isang mang-uusap nang maayos", correct: false},
-            {text: "b) Isang tao na may mabuting ugali", correct: false},
-            {text: "c) Isang tao na magnanakaw o malupit", correct: true},
-        ]
-    }
+    
+   
 
 ];
 
