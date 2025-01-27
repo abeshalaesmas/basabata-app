@@ -1,6 +1,6 @@
-
 <html>
 <head>
+  @extends('components.template')
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -13,7 +13,12 @@
     }
   </style>
 </head>
-<body class="p-8">
+
+
+<body>
+  @include('components.header')
+
+{{-- 
   <div class="max-w-5xl mx-auto">
     <header class="flex justify-between items-center mb-6">
       <div class="flex items-center space-x-2">
@@ -23,7 +28,10 @@
         <h1 class="text-white text-3xl font-bold">Nobela</h1>
       </div>
       <i class="fas fa-bell text-white text-2xl"></i>
-    </header>
+    </header> --}}
+
+
+
     <main class="grid grid-cols-2 gap-8">
      
         <img class="rounded-l shadow-lg p-6 flex items-center" src="{{ asset('/images/El Fili.png') }}" alt="Library" id="left-game-img"/>

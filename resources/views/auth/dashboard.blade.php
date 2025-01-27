@@ -38,13 +38,13 @@
           <h2>Kategorya</h2>
           <div class="category-grid"> 
             <div class="category"><a href="{{route('show')}}">Nobela</a></div>
-            <div class="category">Maikling Kwento🔒</div>
-            <div class="category">Pabula🔒</div>
-            <div class="category">Kuwentong Bayan🔒</div>
-            <div class="category">Alamat🔒</div>
-            <div class="category">Tula🔒</div>
-            <div class="category">Epiko🔒</div>
-            <div class="category">Talamuhay🔒</div>
+            <div class="category locked">Maikling Kwento</div>
+            <div class="category locked">Pabula</div>
+            <div class="category locked">Kuwentong Bayan</div>
+            <div class="category locked">Alamat</div>
+            <div class="category locked">Tula</div>
+            <div class="category locked">Epiko</div>
+            <div class="category locked">Talambuhay</div>
           </div>
         </section>
       </div>

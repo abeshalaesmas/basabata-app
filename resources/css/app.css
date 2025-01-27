@@ -137,10 +137,12 @@ body {
     display: flex;
     justify-content: center;
     padding: 10px 5px;
+      
 
   }
   
   .search-bar input {
+    display: flex;
     flex: 1;
     padding: 10px;
     border: none;
@@ -170,9 +172,9 @@ body {
     /* background-color: #ffca28; */
   }
   .banner-image-left img#left-lower-img {
-    object-fit: cover;
     width: 100%;
     height: 100%;
+    object-fit: contain; 
 
   }
 
@@ -180,7 +182,6 @@ body {
   .banner-image-right {
     display: flex;
     justify-content: center;
-    align-items: center;
     width: 100%;
     height: auto;
     /* overflow: hidden;    */
@@ -188,14 +189,18 @@ body {
   }
 
   .banner-image-right img#right-img{
-    width: 100%;
-    height: 80%;
+    width: auto;
+    height: auto;
+    object-fit: contain; 
   }
 
   /* item 4 */
   .categories {
+    display: flex;
+    flex-direction: column;
     transform: translateY(50px);
     text-align: left;
+    justify-content: center;
     font-size: x-large;
     font-weight: bold;
     color: #000000;
@@ -208,20 +213,34 @@ body {
   
   .categories .category-grid {
     display: grid;
-    justify-content: space-around;
+    justify-content: space-between;
     grid-template-columns: repeat(8, 1fr);
     gap: 10px;
   }
   
   .category {
+    display: flex;
     background-color: hsl(46, 100%, 85%);
     color: #333;
-    padding: 30px 10px;
+    padding: 20px 10px;
     border-radius: 10px;
     text-align: center;
-    font-weight: medium;
+    font-weight:normal;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     cursor: pointer;
+    align-items: center;
+    justify-content: center; 
+    flex-grow: 1; 
+    transition: transform 0.2s; 
+
+  }
+
+  .locked {
+    opacity: 50%;
+  }
+
+  .category:hover {
+    transform: scale(1.05); 
   }
   /* ================================================================================ NAV BAR  */
   
