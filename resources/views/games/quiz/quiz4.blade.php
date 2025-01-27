@@ -11,7 +11,7 @@
 </head>
 <body>
     <div class="app">
-        <h1>Quiz 1</h1>
+        <h1>Quiz 4</h1>
         <div class="quiz">
             <h2 id="question">Question goes here</h2>
             <div id="answer-buttons">
