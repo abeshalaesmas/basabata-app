@@ -9,18 +9,10 @@
 </head>
 <body > 
 
+  @include("components.header")
+
   <div class="app-container">
-
-    <header class="header">
-      <div class="logo"><img src="{{ asset('/images/logo-w.png') }}" alt=""></div>
-      <div class="notification"><i class="si-bell"></i></div>
-    </header>
-
     <div class="app-items-container">
-
-      <!-- Header Section -->
- 
-
       <div class="item-1"> 
         <div class="search-bar">
           <input type="text" placeholder="Search anything..." />

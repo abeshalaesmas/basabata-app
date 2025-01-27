@@ -14,32 +14,32 @@
         <div class="nav-item">
             <a href="{{route('dashboard')}}">
                 {{-- <img src="{{ asset('/images/Icons/home.svg') }}" alt="🏠"> --}}
-                <i class="si-home" style="font-size: 35px"></i>
+                <i class="si-home" style="font-size: 30px"></i>
             </a>
         </div>
         <div class="nav-item">
             <a href="{{route('showChapters')}}">
                 {{-- <img src="{{ asset('/images/Icons/book-icon.svg') }}" alt="📖"> --}}
-                <i class="si-book" style="font-size: 35px"></i>
+                <i class="si-book" style="font-size: 30px"></i>
             </a>
         </div>
         <div class="nav-item nav-center">
             <a href="{{route('showGames')}}">
                 {{-- <img src="{{ asset('/images/Icons/bulb-icon.svg') }}" alt="💡"> --}}
-                <i class="si-lightbulb" style="font-size: 40px"></i>
+                <i class="si-lightbulb" style="font-size: 35px"></i>
             </a>
         </div>
         
         <div class="nav-item">
             <a href="{{route('glossary')}}">
                 {{-- <img src="{{ asset('/images/Icons/saved-icon (1).svg') }}" alt="❤️"> --}}
-                <i class="si-bookmark" style="font-size: 35px"></i>
+                <i class="si-bookmark" style="font-size: 30px"></i>
             </a>
         </div>
         <div class="nav-item">
             <a href="{{route('profile')}}">
                 {{-- <img src="{{ asset('/images/Icons/profile.svg') }}" alt="Me"> --}}
-                <i class="si-user" style="font-size: 35px"></i>
+                <i class="si-user" style="font-size: 30px"></i>
             </a></div>
     </div>
 </body>

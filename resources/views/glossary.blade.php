@@ -87,10 +87,12 @@
     </script>
 </head>
 <body>
-   
-    <img id="logo" src="{{ asset('images/logo-w.png') }}" alt="Logo">
+    @include("components.header")
+
+    {{-- <img id="logo" src="{{ asset('images/logo-w.png') }}" alt="Logo"> --}}
 
     <div class="search-bar">
+        
         <input type="text" id="searchInput" onkeyup="searchCards()" placeholder="Search anything ...">
     </div>
 
