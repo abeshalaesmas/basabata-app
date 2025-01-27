@@ -52,8 +52,8 @@ const words = [
         "meaning": "Habang tumatagal ang pag-uusap, kumalatis sa kanilang mga mata ang tunay na layunin ng misyon."
     },
     {
-        "word": "Ketong",
-        "meaning": "Si  Lolong Francisco ay laging nagkukwento ng mga karanasan noong kabataan niya, kaya't madalas siyang pinapakinggan ng mga bata sa kanilang barangay."
+        "word": "Malaon",
+        "meaning": "Malaon nang nawala ang kastilyong iyon, ngunit nananatili pa rin ang mga kuwento tungkol sa mahiwagang prinsesa na nakatira roon."
     },
     {
         "word": "Lumalamlam",
