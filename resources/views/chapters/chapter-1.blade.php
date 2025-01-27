@@ -34,36 +34,40 @@
             cursor: default;
         }
 
+        .hover-this{
+            position: relative;
+            display: inline;
+            font-weight: bold;
+            font-style: italic;
+        }
+
         .hover-text{
             display: none;
             position: absolute;
+            font-weight: normal;
+            font-style: normal;
+            top: -50px;
+            left: 50px;
             background-color: #f1f1f1;
             color: black;
-            padding: 10px;
-            border-radius: 5px;
+            padding: 5px;
+            border: 1px solid #ccc;
             z-index: 1;
+            width: 200px;
         }
 
-        .hover-text:hover{
+        .hover-this:hover .hover-text{
             display: block;
         }
 
     </style>
-
-    <script>
-        const hoverText = document.querySelectorAll('.hover-text');
-
-        function hover(element) {
-            hoverText.style.display = "block";
-        }
-    </script>
 </head>
 <body>
     <header>
     <h1>KABANATA 1: SA CUBIERTA</h1>
     </header>
     <main>
-        <p>Isáng umaga ng̃ Disiembre ay hiráp na sumasalung̃a sa palikólikông linalakaran ng̃ ilog Pasig ang <span class="hover-this" style="font-weight: bold;" onmouseover="hover(this)">bapor Tabò <span class="hover-text">Ang barkong ito ay sumisimbolo sa pamahalaan. Ito rin ay inihahalintulad sa mamalakad ng mga kastila at sa kalagayan ng bansa sa kanilang pananakop.</span></span>, na may lulang maraming tao, na tung̃o sa Lalaguna. Ang bapor ay may anyông bagól, halos bilóg na warì’y tabò na siyáng pinanggaling̃an ng̃ kaniyang pang̃alan; nápakarumí kahit na may nasà siyang magíng maputî, malumanay at warìng nagmamalakí dahil sa kaniyang banayad na lakad. Gayon man, siya’y kinagigiliwan sa dakong iyon, sanhî marahil sa pang̃alan niyang tagalog ó dahil sa tagláy niya ang sadyâng ugalì ng̃ mg̃a bagay-bagay ng̃ bayan, isáng warì’y tagumpáy na laban sa pagkakasulong, isáng bapor na hindî tunay na bapor ang kabuòan, isáng sangkáp na hindî nagbabago, hindî ayos ng̃unì’t hindî mapag-aalinlang̃anan, na, kung ibig mag-anyông makabago ay nasisiyahan na ng̃ boong kalakhán sa isáng pahid ng̃ pintura.
+        <p>Isáng umaga ng̃ Disiembre ay hiráp na sumasalung̃a sa palikólikông linalakaran ng̃ ilog Pasig ang <span class="hover-this">bapor Tabò <span class="hover-text">Ang barkong ito ay sumisimbolo sa pamahalaan. Ito rin ay inihahalintulad sa mamalakad ng mga kastila at sa kalagayan ng bansa sa kanilang pananakop.</span></span>, na may lulang maraming tao, na tung̃o sa Lalaguna. Ang bapor ay may anyông bagól, halos bilóg na warì’y tabò na siyáng pinanggaling̃an ng̃ kaniyang pang̃alan; nápakarumí kahit na may nasà siyang magíng maputî, malumanay at warìng nagmamalakí dahil sa kaniyang banayad na lakad. Gayon man, siya’y kinagigiliwan sa dakong iyon, sanhî marahil sa pang̃alan niyang tagalog ó dahil sa tagláy niya ang sadyâng ugalì ng̃ mg̃a bagay-bagay ng̃ bayan, isáng warì’y tagumpáy na laban sa pagkakasulong, isáng bapor na hindî tunay na bapor ang kabuòan, isáng sangkáp na hindî nagbabago, hindî ayos ng̃unì’t hindî mapag-aalinlang̃anan, na, kung ibig mag-anyông makabago ay nasisiyahan na ng̃ boong kalakhán sa isáng pahid ng̃ pintura.
 
             Na ang bapor na itó’y tunay na pilipino! Kauntìng pagpapaumanhín lamang ang gamiti’t pagkakamanláng siya ang daóng ng̃ Pamahalàan, na nayarì sa ilalim ng̃ pagsisiyasat ng̃ mg̃a Reberendo at mg̃a Ilustrísimo!
 
@@ -227,7 +231,7 @@
     </main>
 
     <div>
-        <a href="{{Route('quiz-one')}}">Next</a>
+        <a href="{{Route('quiz1')}}">Next</a>
     </div>
 </body>
 </html>
