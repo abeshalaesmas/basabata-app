@@ -1,36 +1,94 @@
 const questions = [
     {
-        question: "Ano ang ibig sabihin ng salitang 'pinakahigan'?",
+        question: " Ano ang ibig sabihin ng 'Baitang'?",
         answers: [
-            {text: "a) Gawin nang walang kahusayan", correct: false},
-            {text: "b) Gawin nang may kahusayan at pagsisikap", correct: true},
-            {text: "c) Gawin nang walang ayos", correct: false},
+            {text: "a) Bahagi ng katawan", correct: false},
+            {text: "b) Hakbang o antas", correct: true},
+            {text: "c) Isang lugar", correct: false},
+            {text: "d) Labanan", correct: false}
         ]
     },
     {
-        question: "Ano ang kasingkahulugan ng 'kasawian'?",
+        question: "Ano ang ibig sabihin ng 'adorasyon'?",
         answers: [
-            {text: "a) Kaligayahan", correct: false},
-            {text: "b) Pagpapala", correct: false},
-            {text: "c) Hindi kanais-nais na kalagayan", correct: true},
+            {text: "a) Paggalang", correct: false},
+            {text: "b) Pagsamba", correct: true},
+            {text: "c) Pag-aalala", correct: false},
+            {text: "d) Pagka-inis", correct: false}
         ]
     },
     {
-        question: "Ano ang kahulugan ng salitang 'tunggak'?",
+        question: " Ano ang ibig sabihin ng 'pagtuturò'?",
         answers: [
-            {text: "a) Matalino at may kaalaman", correct: false},
-            {text: "b) Kulang sa kaalaman at hindi nagpapakita ng matalinong pag-iisip", correct: true},
-            {text: "c)  May mataas na antas ng pag-unawa", correct: false},
+            {text: "a) Pagbibigay ng aral", correct: false},
+            {text: "b) Pag-uusap", correct: false},
+            {text: "c) Pagbibigay ng kaalaman", correct: true},
+            {text: "d) Pagpapatawad", correct: false}
         ]
     },
     {
-        question: "Alin sa mga sumusunod ang katangian ng isang 'tulisan'?",
+        question: "Ano ang ibig sabihin ng 'per se'?",
         answers: [
-            {text: "a) Isang mang-uusap nang maayos", correct: false},
-            {text: "b) Isang tao na may mabuting ugali", correct: false},
-            {text: "c) Isang tao na magnanakaw o malupit", correct: true},
+            {text: "a) Magkaiba", correct: false},
+            {text: "b) Sa sarili nito", correct: true},
+            {text: "c) Nang walang dahilan", correct: false},
+            {text: "d) Sa pamamagitan ng iba", correct: false}
         ]
-    }
+    },
+    {
+        question: "Ano ang ibig sabihin ng 'requiescat in pace'?",
+        answers: [
+            {text: "a) Nawa'y magtagumpay", correct: false},
+            {text: "b) Nawa'y magpahinga siya sa kapayapaan", correct: true},
+            {text: "c) Nawa'y magalak", correct: false},
+            {text: "d) Nawa'y magpatuloy", correct: false}
+        ]
+    },
+    {
+        question: "Ano ang ibig sabihin ng 'concílio'?",
+        answers: [
+            {text: "a) Council", correct: true},
+            {text: "b) Temple", correct: false},
+            {text: "c) Gathering", correct: false},
+            {text: "d) Ritual", correct: false}
+        ]
+    },
+    {
+        question: "Ano ang ibig sabiin ng 'amat'?",
+        answers: [
+            {text: "a) Mag-aaral", correct: false},
+            {text: "b) Guro", correct: false},
+            {text: "c) Eksperto", correct: true},
+            {text: "d) Mang-uusisa", correct: false}
+        ]
+    },
+    {
+        question: "Ano ang ibig sabihin ng 'apúera de la fuerta'?",
+        answers: [
+            {text: "a) Pagtanggap", correct: false},
+            {text: "b) Pagpapatawad", correct: false},
+            {text: "c) Paggalak", correct: false},
+            {text: "d) Pagbabanta", correct: true}
+        ]
+    },
+    {
+        question: "Ano ang ibig sabihin ng 'pagtanong'?",
+        answers: [
+            {text: "a) Pag-uusap", correct: false},
+            {text: "b) Pagtatanong o interogasyon", correct: true},
+            {text: "c) Pagbibigay ng sagot", correct: false},
+            {text: "d) Pag-aalala", correct: false}
+        ]
+    },
+    {
+        question: "Ano ang ibig sabihin ng 'anománg'?",
+        answers: [
+            {text: "a) Lahat ng bagay", correct: true},
+            {text: "b) Isang tao", correct: false},
+            {text: "c) Isang partikular na bagay", correct: false},
+            {text: "d) Walang anuman", correct: false}
+        ]
+    },
 
 ];
 

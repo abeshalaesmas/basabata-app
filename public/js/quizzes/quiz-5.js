@@ -1,36 +1,94 @@
 const questions = [
     {
-        question: "Ano ang ibig sabihin ng salitang 'pinakahigan'?",
+        question: "Ano ang ibig sabihin ng 'Entresuelo'?",
         answers: [
-            {text: "a) Gawin nang walang kahusayan", correct: false},
-            {text: "b) Gawin nang may kahusayan at pagsisikap", correct: true},
-            {text: "c) Gawin nang walang ayos", correct: false},
+            {text: "a) Lugar kung saan inililibing ang patay", correct: false},
+            {text: "b) Bahagi ng bahay sa pagitan ng sahig at kisame", correct: true},
+            {text: "c) Panalangin para sa kaluluwa ng namatay", correct: false},
+            {text: "d) Dekorasyong ginagamit tuwing Pasko", correct: false}
         ]
     },
     {
-        question: "Ano ang kasingkahulugan ng 'kasawian'?",
+        question: "Ano ang 'Kulesa'?",
         answers: [
-            {text: "a) Kaligayahan", correct: false},
-            {text: "b) Pagpapala", correct: false},
-            {text: "c) Hindi kanais-nais na kalagayan", correct: true},
+            {text: "a) Karwahe na hinihila ng kabayo", correct: true},
+            {text: "b) Isang uri ng hayop sa bukid", correct: false},
+            {text: "c) Mamahaling bato o alahas", correct: false},
+            {text: "d) Lugar ng tirahan ng mga sundalo", correct: false}
         ]
     },
     {
-        question: "Ano ang kahulugan ng salitang 'tunggak'?",
+        question: "Ano ang kahulugan ng 'Benditado'?",
         answers: [
-            {text: "a) Matalino at may kaalaman", correct: false},
-            {text: "b) Kulang sa kaalaman at hindi nagpapakita ng matalinong pag-iisip", correct: true},
-            {text: "c)  May mataas na antas ng pag-unawa", correct: false},
+            {text: "a) Binendisyunan o binasbasan", correct: true},
+            {text: "b) Isang uri ng pagkain sa pista", correct: false},
+            {text: "c) Maliliit na dekorasyon", correct: false},
+            {text: "d) Binasag gamit ang puwersa", correct: false}
         ]
     },
     {
-        question: "Alin sa mga sumusunod ang katangian ng isang 'tulisan'?",
+        question: "Ano ang 'Apuháp'?",
         answers: [
-            {text: "a) Isang mang-uusap nang maayos", correct: false},
-            {text: "b) Isang tao na may mabuting ugali", correct: false},
-            {text: "c) Isang tao na magnanakaw o malupit", correct: true},
+            {text: "a) Malalim na paghinga", correct: false},
+            {text: "b) Kilos ng paghahanap gamit ang kamay", correct: true},
+            {text: "c) Lugar na imbakan ng pagkain", correct: false},
+            {text: "d) Lugar na tirahan ng sundalo", correct: false}
         ]
-    }
+    },
+    {
+        question: "Ano ang kahulugan ng 'Sukbit'?",
+        answers: [
+            {text: "a) Bagay na isinabit sa balikat o beywang", correct: true},
+            {text: "b) Tunog na nililikha ng bagay sa mantika", correct: false},
+            {text: "c) Dekorasyong inilalagay sa bahay", correct: false},
+            {text: "d) Lugar ng panalangin", correct: false}
+        ]
+    },
+    {
+        question: "Ano ang ibig sabihin ng 'Prusisión'?",
+        answers: [
+            {text: "a) Parada ng mga tao na may dalang relihiyosong imahe", correct: true},
+            {text: "b) Mabilis na pagkilos sa trabaho", correct: false},
+            {text: "c) Isang uri ng bulaklak", correct: false},
+            {text: "d) Pagluluto ng pagkain", correct: false}
+        ]
+    },
+    {
+        question: "Ano ang ibig sabihin ng 'Hapís'?",
+        answers: [
+            {text: "a) Malungkot o puno ng pighati", correct: true},
+            {text: "b) Isang relihiyosong samahan", correct: false},
+            {text: "c) Lugar kung saan nagtatrabaho ang sundalo", correct: false},
+            {text: "d) Lugar na imbakan ng kayamanan", correct: false}
+        ]
+    },
+    {
+        question: " Ano ang 'Guardía Civil'?",
+        answers: [
+            {text: "a) Mga sundalong nagbabantay sa libingan", correct: false},
+            {text: "b) Grupo ng pulis noong panahon ng Espanyol", correct: true},
+            {text: "c) Tagabantay ng mga hayop sa sakahan", correct: false},
+            {text: "d) Isang grupo ng mang-aawit sa misa", correct: false}
+        ]
+    },
+    {
+        question: "Ano ang 'Tanikalâ'?",
+        answers: [
+            {text: "a) Bakal na kadena na ginagamit panggapós", correct: true},
+            {text: "b) Isang uri ng sumbrero na malapad ang gilid", correct: false},
+            {text: "c) Bahagi ng bahay sa pagitan ng sahig at kisame", correct: false},
+            {text: "d) Tunog na nililikha ng bagay sa mantika", correct: false}
+        ]
+    },
+    {
+        question: "Ano ang ibig sabihin ng 'Andás'?",
+        answers: [
+            {text: "a) Patungan para sa mga estatwa o imahe", correct: true},
+            {text: "b) Lugar kung saan naninirahan ang sundalo", correct: false},
+            {text: "c) Lugar ng pagdarasal tuwing gabi", correct: false},
+            {text: "d) Tunog ng sigawan sa pista", correct: false}
+        ]
+    },
 
 ];
 

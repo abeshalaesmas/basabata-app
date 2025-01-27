@@ -1,36 +1,94 @@
 const questions = [
     {
-        question: "Ano ang ibig sabihin ng salitang 'pinakahigan'?",
+        question: "Sa kabanata 14 ng El Filibusterismo, ano ang itinatag ni Basilio sa Maynila na may kaugnayan sa sining?",
         answers: [
-            {text: "a) Gawin nang walang kahusayan", correct: false},
-            {text: "b) Gawin nang may kahusayan at pagsisikap", correct: true},
-            {text: "c) Gawin nang walang ayos", correct: false},
+            {text: "a) Dúlang", correct: false},
+            {text: "b) Academia de dibujo", correct: true},
+            {text: "c) Balabal", correct: false},
+            {text: "d) Ateneo", correct: false}
         ]
     },
     {
-        question: "Ano ang kasingkahulugan ng 'kasawian'?",
+        question: "",
         answers: [
-            {text: "a) Kaligayahan", correct: false},
-            {text: "b) Pagpapala", correct: false},
-            {text: "c) Hindi kanais-nais na kalagayan", correct: true},
+            {text: "a) Saláwál", correct: false},
+            {text: "b) Balabal", correct: false},
+            {text: "c) Dunggít", correct: true},
+            {text: "d) Bâlang", correct: false}
         ]
     },
     {
-        question: "Ano ang kahulugan ng salitang 'tunggak'?",
+        question: "",
         answers: [
-            {text: "a) Matalino at may kaalaman", correct: false},
-            {text: "b) Kulang sa kaalaman at hindi nagpapakita ng matalinong pag-iisip", correct: true},
-            {text: "c)  May mataas na antas ng pag-unawa", correct: false},
+            {text: "a) Bastón", correct: true},
+            {text: "b) Kalawít", correct: false},
+            {text: "c) Araña", correct: false},
+            {text: "d) Baláo", correct: false}
         ]
     },
     {
-        question: "Alin sa mga sumusunod ang katangian ng isang 'tulisan'?",
+        question: "Anong salitang ginagamit upang ilarawan ang altar na madalas makita sa mga eksena ng pagsamba?",
         answers: [
-            {text: "a) Isang mang-uusap nang maayos", correct: false},
-            {text: "b) Isang tao na may mabuting ugali", correct: false},
-            {text: "c) Isang tao na magnanakaw o malupit", correct: true},
+            {text: "a) Dambaná", correct: false},
+            {text: "b) Dúlang", correct: false},
+            {text: "c) Hudyóng", correct: true},
+            {text: "d) Kapisanán", correct: false}
         ]
-    }
+    },
+    {
+        question: "Ano ang tawag sa relihiyosong parada na makikita sa ilang bahagi ng nobela?",
+        answers: [
+            {text: "a) Sapantahâ", correct: false},
+            {text: "b) Prusisyón", correct: true},
+            {text: "c) Makiyás", correct: false},
+            {text: "d) Hinánakit", correct: false}
+        ]
+    },
+    {
+        question: "Anong lugar ang kilala bilang unibersidad sa nobela at sa kasaysayan ng Pilipinas?",
+        answers: [
+            {text: "a) Baláo", correct: true},
+            {text: "b) Ateneo", correct: false},
+            {text: "c) Babayàa", correct: false},
+            {text: "d) Santos Madre Iglesia", correct: false}
+        ]
+    },
+    {
+        question: "Sa El Filibusterismo, sino ang nagtataglay ng damdamin ng hinánakit laban sa mga mapang-abuso?",
+        answers: [
+            {text: "a) Simoun", correct: false},
+            {text: "b) Basilio", correct: false},
+            {text: "c) Kabesang Tales", correct: false},
+            {text: "d) Padre Salvi", correct: true}
+        ]
+    },
+    {
+        question: "Anong salitang ginamit upang ipakita ang paulit-ulit na tunog na naririnig sa isang malayong lugar?",
+        answers: [
+            {text: "a) Alíngawngaw", correct: false},
+            {text: "b) Kalawít", correct: true},
+            {text: "c) Babayàa", correct: false},
+            {text: "d) Katwâán", correct: false}
+        ]
+    },
+    {
+        question: "Ano ang ibig sabihin ng kabuktután na madalas na iniuugnay sa mga prayle sa nobela?",
+        answers: [
+            {text: "a) Kabastusan", correct: false},
+            {text: "b) Kalokohan", correct: false},
+            {text: "c) Kabutihan", correct: true},
+            {text: "d) Kasamaan", correct: false}
+        ]
+    },
+    {
+        question: "Ano ang mapaglaláng na layunin ni Simoun sa kaniyang paghihiganti?",
+        answers: [
+            {text: "a) Pagpapabagsak sa mga prayle", correct: false},
+            {text: "b) Pagsasaayos ng pamahalaan", correct: false},
+            {text: "c) Pagtulong sa mahihirap", correct: false},
+            {text: "d) Pagkakaisa ng bayan", correct: false}
+        ]
+    },
 
 ];
 
