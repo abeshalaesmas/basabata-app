@@ -25,20 +25,9 @@
       <i class="fas fa-bell text-white text-2xl"></i>
     </header>
     <main class="grid grid-cols-2 gap-8">
-      <section class="bg-yellow-500 rounded-xl shadow-lg p-6 flex items-center">
-        <div>
-          <img src="https://placehold.co/100x150" alt="Dr. Jose Rizal Illustration" class="rounded-lg mb-4 shadow-xl">
-          <h2 class="text-2xl font-bold text-gray-800">El Filibusterismo</h2>
-          <p class="text-gray-700">Dr. Jose Rizal<br>Tagalog</p>
-          <div class="flex space-x-1 mt-4">
-            <i class="fas fa-star text-black"></i>
-            <i class="fas fa-star text-black"></i>
-            <i class="fas fa-star text-black"></i>
-            <i class="fas fa-star text-black"></i>
-            <i class="fas fa-star text-black"></i>
-          </div>
-        </div>
-      </section>
+     
+        <img class="rounded-l shadow-lg p-6 flex items-center" src="{{ asset('/images/El Fili.png') }}" alt="Library" id="left-game-img"/>
+    
       <section class="bg-yellow-200 rounded-xl shadow-lg p-6">
         <h3 class="text-xl font-bold text-gray-800 mb-4">Kabanata</h3>
         <ul class="space-y-2 max-h-64 overflow-y-auto">
