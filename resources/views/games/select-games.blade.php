@@ -25,19 +25,16 @@
       <i class="fas fa-bell text-white text-2xl"></i>
     </header>
     <main class="grid grid-cols-2 gap-8">
-      <section class="bg-yellow-500 rounded-xl shadow-lg p-6 flex items-center">
-        <div>
-            <h3 class="text-xl font-bold text-gray-800 mb-4">PILIIN MO AKO!</h3>
-            <img src="https://placehold.co/100x150" alt="quiz" class="rounded-lg mb-4 shadow-xl">
-         
-        </div>
-      </section>
-
-      <section class="bg-yellow-200 rounded-xl shadow-lg p-6">
-            <h3 class="text-xl font-bold text-gray-800 mb-4">IBALASA MO!</h3>
-            <img src="https://placehold.co/100x150" alt="quiz" class="rounded-lg mb-4 shadow-xl">
-      </section>
-
+        <a href="{{route('showQuiz')}}">
+            <img class="rounded-l shadow-lg p-6 flex items-center" src="{{ asset('/images/Quiz.png') }}" alt="game" id="left-game-img"/>
+        </a>
+        
+        <a href="{{route('showShuffle')}}">
+            <img class="rounded-l shadow-lg p-6 flex items-center" src="{{ asset('/images/Shuffle.png') }}" alt="game" id="right-game-img"/>
+        </a>
+        
+        
+    
     </main>
 
     <footer class="mt-6 flex justify-center space-x-8">@include('components.navbar')</footer>

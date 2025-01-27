@@ -55,11 +55,42 @@ Route::get('/', function () {
         Route::get('/games', [GameController::class, 'showGames'])->name('showGames');
 
             //SHUFFL SEN
-             Route::get('/shuffle', [GameController::class, 'showShuffle'])->name('showShuffle');
+            Route::get('/shuffle', [GameController::class, 'showShuffle'])->name('showShuffle');
+            Route::get('/shuffle/1', [GameController::class, 'shuffle1'])->name('shuffle1');
+            Route::get('/shuffle/2', [GameController::class, 'shuffle2'])->name('shuffle2');
+            Route::get('/shuffle/3', [GameController::class, 'shuffle3'])->name('shuffle3');
+            Route::get('/shuffle/4', [GameController::class, 'shuffle4'])->name('shuffle4');
+            Route::get('/shuffle/5', [GameController::class, 'shuffle5'])->name('shuffle5');
+            Route::get('/shuffle/6', [GameController::class, 'shuffle6'])->name('shuffle6');
+            Route::get('/shuffle/7', [GameController::class, 'shuffle7'])->name('shuffle7');
+            Route::get('/shuffle/8', [GameController::class, 'shuffle8'])->name('shuffle8');
+            Route::get('/shuffle/9', [GameController::class, 'shuffle9'])->name('shuffle9');
+            Route::get('/shuffle/10', [GameController::class, 'shuffle10'])->name('shuffle10');
+            Route::get('/shuffle/11', [GameController::class, 'shuffle11'])->name('shuffle11');
+            Route::get('/shuffle/12', [GameController::class, 'shuffle12'])->name('shuffle12');
+            Route::get('/shuffle/13', [GameController::class, 'shuffle13'])->name('shuffle13');
+            Route::get('/shuffle/14', [GameController::class, 'shuffle14'])->name('shuffle14');
+            Route::get('/shuffle/15', [GameController::class, 'shuffle15'])->name('shuffle15');
+
 
             //QUIZZES
             Route::get('/quiz', [GameController::class, 'showQuiz'])->name('showQuiz');
             Route::get('/quiz/1', [GameController::class, 'quiz1'])->name('quiz1');
+            Route::get('/quiz/2', [GameController::class, 'quiz2'])->name('quiz2');
+            Route::get('/quiz/3', [GameController::class, 'quiz3'])->name('quiz3');
+            Route::get('/quiz/4', [GameController::class, 'quiz4'])->name('quiz4');
+            Route::get('/quiz/5', [GameController::class, 'quiz5'])->name('quiz5');
+            Route::get('/quiz/6', [GameController::class, 'quiz6'])->name('quiz6');
+            Route::get('/quiz/7', [GameController::class, 'quiz7'])->name('quiz7');
+            Route::get('/quiz/8', [GameController::class, 'quiz8'])->name('quiz8');
+            Route::get('/quiz/9', [GameController::class, 'quiz9'])->name('quiz9');
+            Route::get('/quiz/10', [GameController::class, 'quiz10'])->name('quiz10');
+            Route::get('/quiz/11', [GameController::class, 'quiz11'])->name('quiz11');
+            Route::get('/quiz/12', [GameController::class, 'quiz12'])->name('quiz12');
+            Route::get('/quiz/13', [GameController::class, 'quiz13'])->name('quiz13');
+            Route::get('/quiz/14', [GameController::class, 'quiz14'])->name('quiz14');
+            Route::get('/quiz/15', [GameController::class, 'quiz15'])->name('quiz15');
+
 
         //SCORE INCREMENT
         Route::post('/increment-score', [ScoreController::class, 'incrementScore'])->name('increment.score');
