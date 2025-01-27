@@ -88,6 +88,7 @@
         @endif
 
         <form method="POST" action="{{ url('/login') }}">
+            @method('POST')
             @csrf
             <label for="email">Email</label>
             <input type="email" id="email" name="email" placeholder="Enter your email" required>

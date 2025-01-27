@@ -12,6 +12,16 @@ const words = [
         "meaning": "Sa gitna ng ilog Pasig, ang bapor tabo ay unti-unting umuusad, habang ang usok mula sa tsimenea nito ay tumataas at nagdudulot ng pangamba sa mga naninirahan sa pampang dahil sa polusyong dulot nito."
     },
     {
+<<<<<<< HEAD
+        "word": "tulisan",
+        "meaning": "Isang tao na magnanakaw o malupit"
+    },
+    {
+        "word": "tulisan",
+        "meaning": "Isang tao na magnanakaw o malupit"
+    }
+
+=======
         "word": "Burak",
         "meaning": "Sa kabila ng makapal na burak sa daan, patuloy pa rin ang mga magsasaka sa pagtatanim ng palay sa bukid."
     },
@@ -59,6 +69,7 @@ const words = [
         "word": "Sumasalunga ",
         "meaning": "Ang batang si Miguel ay sumasalunga sa mga pagsubok sa buhay, hindi nagpapatalo sa kahit anong hamon na dumarating."
     },
+>>>>>>> 8015a2c11b6f57f2e5e47ba670492b7e6a8d504d
 
 ];
 
