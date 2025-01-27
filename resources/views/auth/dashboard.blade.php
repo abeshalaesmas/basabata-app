@@ -9,14 +9,14 @@
 </head>
 <body > 
 
-  <div class="app">
+  <div class="app-container">
 
     <header class="header">
       <div class="logo"><img src="{{ asset('/images/logo-w.png') }}" alt=""></div>
       <div class="notification"><i class="si-bell"></i></div>
     </header>
 
-    <div class="app-ui">
+    <div class="app-items-container">
 
       <!-- Header Section -->
  
@@ -46,8 +46,8 @@
           <h2>Kategorya</h2>
           <div class="category-grid"> 
             <div class="category"><a href="{{route('show')}}">Nobela</a></div>
-            <div class="category">Maikling Kwento</div>
-            <div class="category">Pabula</div>
+            <div class="category">Maikling Kwento🔒</div>
+            <div class="category">Pabula🔒</div>
             <div class="category">Kuwentong Bayan🔒</div>
             <div class="category">Alamat🔒</div>
             <div class="category">Tula🔒</div>
