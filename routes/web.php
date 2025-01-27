@@ -56,21 +56,21 @@ Route::get('/', function () {
 
             //SHUFFL SEN
             Route::get('/shuffle', [GameController::class, 'showShuffle'])->name('showShuffle');
-            Route::get('/shuffle/1', [GameController::class, 'shuffle1'])->name('shuffle1');
-            Route::get('/shuffle/2', [GameController::class, 'shuffle2'])->name('shuffle2');
-            Route::get('/shuffle/3', [GameController::class, 'shuffle3'])->name('shuffle3');
-            Route::get('/shuffle/4', [GameController::class, 'shuffle4'])->name('shuffle4');
-            Route::get('/shuffle/5', [GameController::class, 'shuffle5'])->name('shuffle5');
-            Route::get('/shuffle/6', [GameController::class, 'shuffle6'])->name('shuffle6');
-            Route::get('/shuffle/7', [GameController::class, 'shuffle7'])->name('shuffle7');
-            Route::get('/shuffle/8', [GameController::class, 'shuffle8'])->name('shuffle8');
-            Route::get('/shuffle/9', [GameController::class, 'shuffle9'])->name('shuffle9');
-            Route::get('/shuffle/10', [GameController::class, 'shuffle10'])->name('shuffle10');
-            Route::get('/shuffle/11', [GameController::class, 'shuffle11'])->name('shuffle11');
-            Route::get('/shuffle/12', [GameController::class, 'shuffle12'])->name('shuffle12');
-            Route::get('/shuffle/13', [GameController::class, 'shuffle13'])->name('shuffle13');
-            Route::get('/shuffle/14', [GameController::class, 'shuffle14'])->name('shuffle14');
-            Route::get('/shuffle/15', [GameController::class, 'shuffle15'])->name('shuffle15');
+            Route::get('/shuffle/1', [GameController::class, 'shuffleOne'])->name('shuffle1');
+            Route::get('/shuffle/2', [GameController::class, 'shuffleTwo'])->name('shuffle2');
+            Route::get('/shuffle/3', [GameController::class, 'shuffleThree'])->name('shuffle3');
+            Route::get('/shuffle/4', [GameController::class, 'shuffleFour'])->name('shuffle4');
+            Route::get('/shuffle/5', [GameController::class, 'shuffleFive'])->name('shuffle5');
+            Route::get('/shuffle/6', [GameController::class, 'shuffleSix'])->name('shuffle6');
+            Route::get('/shuffle/7', [GameController::class, 'shuffleSeven'])->name('shuffle7');
+            Route::get('/shuffle/8', [GameController::class, 'shuffleEight'])->name('shuffle8');
+            Route::get('/shuffle/9', [GameController::class, 'shuffleNine'])->name('shuffle9');
+            Route::get('/shuffle/10', [GameController::class, 'shuffleTen'])->name('shuffle10');
+            Route::get('/shuffle/11', [GameController::class, 'shuffleEleven'])->name('shuffle11');
+            Route::get('/shuffle/12', [GameController::class, 'shuffleTwelve'])->name('shuffle12');
+            Route::get('/shuffle/13', [GameController::class, 'shuffleThirteen'])->name('shuffle13');
+            Route::get('/shuffle/14', [GameController::class, 'shuffleFourteen'])->name('shuffle14');
+            Route::get('/shuffle/15', [GameController::class, 'shuffleFifteen'])->name('shuffle15');
 
 
             //QUIZZES
