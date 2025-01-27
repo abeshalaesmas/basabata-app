@@ -31,7 +31,7 @@ const questions = [
             {text: "c) Isang tao na magnanakaw o malupit", correct: true},
         ]
     }
-    
+
 ];
 
 const questionElement = document.getElementById("question");
