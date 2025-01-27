@@ -149,9 +149,10 @@
             At idinugtóng pagkatapos:
 
             —¡Kaawàawàng binatà!.... Kung ang lahát sana’y nag-iisip at gumágawâ ng̃ gaya niyá, ay hindî ko sinasabing hindî.... ¡Kaawàawàng binatà! ¡Kaawàawàng Florentino!
-
-
         </p>
     </main>
+    <div>
+        <a href="{{Route('quiz15')}}">Next</a>
+    </div>
 </body>
 </html>
