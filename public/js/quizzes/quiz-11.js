@@ -1,36 +1,84 @@
 const questions = [
     {
-        question: "Ano ang ibig sabihin ng salitang 'pinakahigan'?",
+        question: "Ano ang kahulugan ng salitang Nang̃aso?",
         answers: [
-            {text: "a) Gawin nang walang kahusayan", correct: false},
-            {text: "b) Gawin nang may kahusayan at pagsisikap", correct: true},
-            {text: "c) Gawin nang walang ayos", correct: false},
+            {text: "a) Pagtatanim ng mga puno", correct: false},
+            {text: "b) Pagtugis at paghuli sa mga hayop", correct: true},
+            {text: "c) Pag-aalaga ng mga hayop", correct: false}
         ]
     },
     {
-        question: "Ano ang kasingkahulugan ng 'kasawian'?",
+        question: "Ano ang kasingkahulugan ng salitang Ipinagpuprusisyón?",
         answers: [
-            {text: "a) Kaligayahan", correct: false},
-            {text: "b) Pagpapala", correct: false},
-            {text: "c) Hindi kanais-nais na kalagayan", correct: true},
+            {text: "a) Martsa", correct: true},
+            {text: "b) Pag-awit", correct: false},
+            {text: "c) Pag-kanta", correct: false}
         ]
     },
     {
-        question: "Ano ang kahulugan ng salitang 'tunggak'?",
+        question: "Ano ang tawag sa isang tao na nagtatrabaho sa isang opisina, negosyo, o gobyerno?",
         answers: [
-            {text: "a) Matalino at may kaalaman", correct: false},
-            {text: "b) Kulang sa kaalaman at hindi nagpapakita ng matalinong pag-iisip", correct: true},
-            {text: "c)  May mataas na antas ng pag-unawa", correct: false},
+            {text: "a) Manggagawa", correct: false},
+            {text: "b) Kawani", correct: true},
+            {text: "c) Magtatanim", correct: false}
         ]
     },
     {
-        question: "Alin sa mga sumusunod ang katangian ng isang 'tulisan'?",
+        question: "Ano ang ibig sabihin ng salitang Manudlâ?",
         answers: [
-            {text: "a) Isang mang-uusap nang maayos", correct: false},
-            {text: "b) Isang tao na may mabuting ugali", correct: false},
-            {text: "c) Isang tao na magnanakaw o malupit", correct: true},
+            {text: "a) Gumamit ng baril upang magpaputok", correct: true},
+            {text: "b) Magtanim ng puno", correct: false},
+            {text: "c) Magsimula ng isang negosyo", correct: false}
         ]
-    }
+    },
+    {
+        question: "Ano ang kasingkahulugan ng salitang Kagiting̃an?",
+        answers: [
+            {text: "a) Kabayanihan", correct: true},
+            {text: "b) Pagkatalo", correct: false},
+            {text: "c) Kaligayahan", correct: false}
+        ]
+    },
+    {
+        question: "Ano ang ginagamit sa pandayan para sa pag-ihip ng hangin at pagpapalakas ng apoy?",
+        answers: [
+            {text: "a) Pamaypay", correct: false},
+            {text: "b) Binubulusan", correct: true},
+            {text: "c) Hapak", correct: true}
+        ]
+    },
+    {
+        question: "Ano ang ibig sabihin ng salitang Pinupunyagi?",
+        answers: [
+            {text: "a) Pagbibigay ng tulong", correct: false},
+            {text: "b) Matibay na pagsusumikap", correct: true},
+            {text: "c) Pagpaplano", correct: false}
+        ]
+    },
+    {
+        question: "Ano ang kahulugan ng salitang Nagng̃íng̃itng̃ít?",
+        answers: [
+            {text: "a) Pagkagalit", correct: true},
+            {text: "b) Pagtawa", correct: false},
+            {text: "c) Pagkalungkot", correct: false}
+        ]
+    },
+    {
+        question: "Ano ang ibig sabihin ng salitang Kabuhalhalan?",
+        answers: [
+            {text: "a) Kaayusan", correct: false},
+            {text: "b) Kalokohan", correct: true},
+            {text: "c) Pagkakasal", correct: false}
+        ]
+    },
+    {
+        question: "Ano ang ibig sabihin ng salitang Hinihimas?",
+        answers: [
+            {text: "a) Pinapahiran", correct: false},
+            {text: "b) Hinahaplos", correct: true},
+            {text: "c) Binubuhos", correct: false}
+        ]
+    },
 
 ];
 

@@ -1,36 +1,84 @@
 const questions = [
     {
-        question: "Ano ang ibig sabihin ng salitang 'pinakahigan'?",
+        question: "Ano ang kahulugan ng 'Lona'?",
         answers: [
-            {text: "a) Gawin nang walang kahusayan", correct: false},
-            {text: "b) Gawin nang may kahusayan at pagsisikap", correct: true},
-            {text: "c) Gawin nang walang ayos", correct: false},
+            {text: "a) Tela na ginagamit sa mga damit", correct: false},
+            {text: "b) Matibay at magaspang na tela para sa proteksyon", correct: true},
+            {text: "c) Tela na ginagamit sa mga sapatos", correct: false}
         ]
     },
     {
-        question: "Ano ang kasingkahulugan ng 'kasawian'?",
+        question: "Anong kasingkahulugan ang tumutukoy sa isang kilalang tao?",
         answers: [
-            {text: "a) Kaligayahan", correct: false},
-            {text: "b) Pagpapala", correct: false},
-            {text: "c) Hindi kanais-nais na kalagayan", correct: true},
+            {text: "a) Kabantugan", correct: true},
+            {text: "b) Mag-aalahas", correct: false},
+            {text: "c) Manugang", correct: false}
         ]
     },
     {
-        question: "Ano ang kahulugan ng salitang 'tunggak'?",
+        question: "Ano ang ibig sabihin ng 'Mag-aalahas'?",
         answers: [
-            {text: "a) Matalino at may kaalaman", correct: false},
-            {text: "b) Kulang sa kaalaman at hindi nagpapakita ng matalinong pag-iisip", correct: true},
-            {text: "c)  May mataas na antas ng pag-unawa", correct: false},
+            {text: "a) Isang uri ng damit", correct: false},
+            {text: "b) Isa pang tawag sa isang pari", correct: false},
+            {text: "c) Eksperto sa paggawa ng alahas", correct: true}
         ]
     },
     {
-        question: "Alin sa mga sumusunod ang katangian ng isang 'tulisan'?",
+        question: "Sino ang tinutukoy ng salitang 'Manugang'?",
         answers: [
-            {text: "a) Isang mang-uusap nang maayos", correct: false},
-            {text: "b) Isang tao na may mabuting ugali", correct: false},
-            {text: "c) Isang tao na magnanakaw o malupit", correct: true},
+            {text: "a) Asawa ng anak", correct: true},
+            {text: "b) Kapatid ng asawa", correct: false},
+            {text: "c) Anak ng magulang", correct: false}
         ]
-    }
+    },
+    {
+        question: "Ano ang tawag sa mataas na ranggo ng pari sa Simbahang Katoliko?",
+        answers: [
+            {text: "a) Liwaliwan", correct: false},
+            {text: "b) Buslo", correct: false},
+            {text: "c) Arsobispo", correct: true}
+        ]
+    },
+    {
+        question: "Ano ang 'Buslo'?",
+        answers: [
+            {text: "a) Isang uri ng hayop", correct: false},
+            {text: "b) Isang lalagyan na gawa sa yantok", correct: true},
+            {text: "c) Isang uri ng pagkain", correct: false}
+        ]
+    },
+    {
+        question: "Anong ibig sabihin ng 'Liwaliwan'?",
+        answers: [
+            {text: "a) Pagtatrabaho sa bukid", correct: false},
+            {text: "b) Mataas na bundok", correct: false},
+            {text: "c) Pook na may kasiyahan at relaksasyon", correct: true}
+        ]
+    },
+    {
+        question: "Ano ang 'Liluk'?",
+        answers: [
+            {text: "a) Paghahanda ng pagkain", correct: false},
+            {text: "b) Sining ng pag-ukit o pagbawas ng mga bahagi", correct: true},
+            {text: "c) Isang uri ng hayop", correct: fals}
+        ]
+    },
+    {
+        question: "Ano ang kahulugan ng 'Kudya'?",
+        answers: [
+            {text: "a) Uri ng masarap na inumin", correct: false},
+            {text: "b) Pagkain na niluluto sa baho", correct: false},
+            {text: "c) Instrumento pangmusika ng Pilipinas", correct: true}
+        ]
+    },
+    {
+        question: "Ano ang ibig sabihin ng 'Agnos?'",
+        answers: [
+            {text: "a) Isang sagrado na anting-anting", correct: true},
+            {text: "b) Uri ng pagkain sa mga seremonya", correct: false},
+            {text: "c) Isang makinarya para sa paggawa ng tela", correct: false}
+        ]
+    },
 
 ];
 

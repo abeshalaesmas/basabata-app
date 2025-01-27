@@ -1,36 +1,94 @@
 const questions = [
     {
-        question: "Ano ang ibig sabihin ng salitang 'pinakahigan'?",
+        question: "Ano ang kahulugan ng salitang 'Adsúm'?",
         answers: [
-            {text: "a) Gawin nang walang kahusayan", correct: false},
-            {text: "b) Gawin nang may kahusayan at pagsisikap", correct: true},
-            {text: "c) Gawin nang walang ayos", correct: false},
+            {text: "a) Narito o Naroroon", correct: true},
+            {text: "b) Alipin o Katulong", correct: false},
+            {text: "c) Mataas na gusali", correct: false},
+            {text: "d) Listahan ng mga bagay", correct: false}
         ]
     },
     {
-        question: "Ano ang kasingkahulugan ng 'kasawian'?",
+        question: "Ano ang ibig sabihin ng 'Carabineros Celestiales'?",
         answers: [
-            {text: "a) Kaligayahan", correct: false},
-            {text: "b) Pagpapala", correct: false},
-            {text: "c) Hindi kanais-nais na kalagayan", correct: true},
+            {text: "a) Mga guro o tagapagturo", correct: false},
+            {text: "b) Grupo ng mga celestial na sundalo", correct: true},
+            {text: "c) Isang uri ng sining o komedya", correct: false},
+            {text: "d) Malupit na pagmumura", correct: false}
         ]
     },
     {
-        question: "Ano ang kahulugan ng salitang 'tunggak'?",
+        question: "Ano ang 'Contrabando herético'?",
         answers: [
-            {text: "a) Matalino at may kaalaman", correct: false},
-            {text: "b) Kulang sa kaalaman at hindi nagpapakita ng matalinong pag-iisip", correct: true},
-            {text: "c)  May mataas na antas ng pag-unawa", correct: false},
+            {text: "a) Isang klase ng kurso sa kolehiyo", correct: false},
+            {text: "b) Ilegal na kalakal na laban sa relihiyon", correct: true},
+            {text: "c) Listahan ng mga pangalan o bagay", correct: false},
+            {text: "d) Monumento para sa alaala ng yumaong bayani", correct: false}
         ]
     },
     {
-        question: "Alin sa mga sumusunod ang katangian ng isang 'tulisan'?",
+        question: "Ano ang salitang tumutukoy sa 'mga guro o tagapagturo'?",
         answers: [
-            {text: "a) Isang mang-uusap nang maayos", correct: false},
-            {text: "b) Isang tao na may mabuting ugali", correct: false},
-            {text: "c) Isang tao na magnanakaw o malupit", correct: true},
+            {text: "a) Alila", correct: false},
+            {text: "b) Gurus", correct: true},
+            {text: "c) Mecachis", correct: false},
+            {text: "d) Zarzuela", correct: false}
         ]
-    }
+    },
+    {
+        question: " Ano ang ibig sabihin ng 'Lagdâ'?",
+        answers: [
+            {text: "a) Isang aksyon ng pagpaparusa o pagpapalo", correct: true},
+            {text: "b) Isang uri ng pamana o alaala", correct: false},
+            {text: "c) Pagsuot ng damit o kasuotan", correct: false},
+            {text: "d) Isang grupo ng mga sundalo", correct: false}
+        ]
+    },
+    {
+        question: "Ano ang kahulugan ng 'Pulutóng'?",
+        answers: [
+            {text: "a) Pagkuha ng ari-arian mula sa iba", correct: false},
+            {text: "b) Grupo ng tao na nagtutulungan", correct: true},
+            {text: "c) Isang monumento na pampublikong alaala", correct: false},
+            {text: "d) Malupit na pagmumura", correct: false}
+        ]
+    },
+    {
+        question: "Ano ang 'Katedrátiko'?",
+        answers: [
+            {text: "a) Isang uri ng dramatikong pagtatanghal", correct: false},
+            {text: "b) Guro sa kolehiyo o propesor", correct: true},
+            {text: "c) Aksyon ng paghalik o pagpapakita ng pagmamahal", correct: false},
+            {text: "d) Isang ekspresyon ng pagkabigla", correct: false}
+        ]
+    },
+    {
+        question: "Ano ang ibig sabihin ng 'Zarzuela'?",
+        answers: [
+            {text: "a) Komedya na may kasamang awit", correct: true},
+            {text: "b) Ilegal na kalakal na laban sa relihiyon", correct: false},
+            {text: "c) Aksyon ng pagkuha ng kasuotan", correct: false},
+            {text: "d) Isang uri ng monumento", correct: false}
+        ]
+    },
+    {
+        question: "Ano ang 'Samsám'?",
+        answers: [
+            {text: "a) Pagsuway sa utos ng Diyos", correct: false},
+            {text: "b) Pagkuha o pagkumpiska ng bagay", correct: true},
+            {text: "c) Pagbibigay ng malakas na palo", correct: false},
+            {text: "d) Pagiging bahagi ng celestial na hukbo", correct: false}
+        ]
+    },
+    {
+        question: "Ano ang 'Tálàan'?",
+        answers: [
+            {text: "a) Listahan ng pangalan o impormasyon", correct: true},
+            {text: "b) Lugar ng pagpaparusa", correct: false},
+            {text: "c) Isang uri ng kasabihan o anekdota", correct: false},
+            {text: "d) Pagsuot ng kasuotan", correct: false}
+        ]
+    },
 
 ];
 

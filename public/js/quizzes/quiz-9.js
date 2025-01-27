@@ -1,26 +1,18 @@
 const questions = [
     {
-        question: "Ano ang ibig sabihin ng salitang 'pinakahigan'?",
+        question: "Ano ang ibig sabihin ng salitang 'pinakaigihan'?",
         answers: [
             {text: "a) Gawin nang walang kahusayan", correct: false},
             {text: "b) Gawin nang may kahusayan at pagsisikap", correct: true},
-            {text: "c) Gawin nang walang ayos", correct: false},
+            {text: "c) Gawin nang walang ayos", correct: false}
         ]
     },
     {
         question: "Ano ang kasingkahulugan ng 'kasawian'?",
         answers: [
-            {text: "a) Kaligayahan", correct: false},
-            {text: "b) Pagpapala", correct: false},
-            {text: "c) Hindi kanais-nais na kalagayan", correct: true},
-        ]
-    },
-    {
-        question: "Ano ang kahulugan ng salitang 'tunggak'?",
-        answers: [
-            {text: "a) Matalino at may kaalaman", correct: false},
-            {text: "b) Kulang sa kaalaman at hindi nagpapakita ng matalinong pag-iisip", correct: true},
-            {text: "c)  May mataas na antas ng pag-unawa", correct: false},
+            {text: "a) ", correct: false},
+            {text: "b) ", correct: false},
+            {text: "c) ", correct: true}
         ]
     },
     {
@@ -28,9 +20,65 @@ const questions = [
         answers: [
             {text: "a) Isang mang-uusap nang maayos", correct: false},
             {text: "b) Isang tao na may mabuting ugali", correct: false},
-            {text: "c) Isang tao na magnanakaw o malupit", correct: true},
+            {text: "c)  Isang tao na magnanakaw o malupit", correct: true}
         ]
-    }
+    },
+    {
+        question: "Ano ang kahulugan ng salitang 'tunggak'?",
+        answers: [
+            {text: "a) Matalino at may kaalaman", correct: false},
+            {text: "b) Kulang sa kaalaman at hindi nagpapakita ng matalinong pag-iisip", correct: true},
+            {text: "c) May mataas na antas ng pag-unawa", correct: false}
+        ]
+    },
+    {
+        question: "Ano ang ibig sabihin ng salitang 'nang̃aliligáw'?",
+        answers: [
+            {text: "a) Laging nasa tamang direksyon", correct: false},
+            {text: "b) Nawawala o naliligaw", correct: true},
+            {text: "c) Mabilis maglakbay", correct: false}
+        ]
+    },
+    {
+        question: "Ano ang kasingkahulugan ng salitang 'pipi'?",
+        answers: [
+            {text: "a) Isang taong hindi makapagsalita", correct: true},
+            {text: "b) Isang taong malakas magsalita", correct: false},
+            {text: "c) Isang taong may mataas na boses", correct: false}
+        ]
+    },
+    {
+        question: "Ano ang kahulugan ng salitang 'alilà'?",
+        answers: [
+            {text: "a) Magaling magturo", correct: false},
+            {text: "b) Nagdadala ng panganib sa lipunan", correct: true},
+            {text: "c) Matalino sa mga negosyo", correct: false}
+        ]
+    },
+    {
+        question: "Alin sa mga sumusunod ang isang katangian ng isang 'tulisan'",
+        answers: [
+            {text: "a) Pagpapaalala", correct: false},
+            {text: "b) Pagsasagawa ng isang gawain nang may pinakamataas na antas ng kasanayan", correct: true},
+            {text: "c) Pagpapahinga pagkatapos magtrabaho", correct: false}
+        ]
+    },
+    {
+        question: "Ano ang kahulugan ng 'pinakaigihan'",
+        answers: [
+            {text: "a) Pagpapaalala", correct: false},
+            {text: "b) Pagsasagawa ng isang gawain nang may pinakamataas na antas ng kasanayan", correct: true},
+            {text: "c) Pagpapahinga pagkatapos magtrabaho", correct: false}
+        ]
+    },
+    {
+        question: "Alin sa mga ito ang kasingkahulugan ng 'kasawian'?",
+        answers: [
+            {text: "a) Pagkatalo", correct: true},
+            {text: "b) Tagumpay", correct: false},
+            {text: "c) Pagka-kasiyahan", correct: true}
+        ]
+    },
 
 ];
 
