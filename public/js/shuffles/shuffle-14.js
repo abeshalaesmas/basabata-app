@@ -1,20 +1,66 @@
 const words = [
     {
-        "word": "pinakahigan",
-        "meaning": "Gawin nang may kahusayan at pagsisikap"
+        "word": "Academia de dibujo",
+        "meaning": "Ang mga estudyante sa academia de dibujo ay nagpakita ng kanilang mga obra sa art exhibit."
     },
     {
-        "word": "kasawian",
-        "meaning": "Hindi kanais-nais na kalagayan"
+        "word": "Alíngawngaw",
+        "meaning": " Narinig namin ang alíngawngaw ng sigawan mula sa kabilang bundok."
     },
     {
-        "word": "tunggak",
-        "meaning": "Kulang sa kaalaman at hindi nagpapakita ng matalinong pag-iisip"
+        "word": "Araña",
+        "meaning": "Dumating ang donya sakay ng isang marangyang araña."
     },
     {
-        "word": "tulisan",
-        "meaning": "Isang tao na magnanakaw o malupit"
-    }
+        "word": "Ateneo",
+        "meaning": "Nag-aral siya ng literatura sa Ateneo at nagtapos nang may karangalan."
+    },
+    {
+        "word": "Babayàa",
+        "meaning": " Mahirap akyatin ang babayàa dahil sa matarik nitong daan."
+    },
+    {
+        "word": "Balabal",
+        "meaning": " Gumamit siya ng makapal na balabal upang protektahan ang sarili mula sa lamig."
+    },
+    {
+        "word": "Baláo",
+        "meaning": " Ang tindera sa kanto ay may dalang baláo ng iba't ibang kakanin."
+    },
+    {
+        "word": "Bâlang",
+        "meaning": " Ang magsasaka ay nagsuot ng bâlang upang hindi maarawan habang nagtatrabaho."
+    },
+    {
+        "word": "Bastón",
+        "meaning": "Ginagamit niya ang kanyang bastón bilang suporta habang naglalakad."
+    },
+    {
+        "word": "Bíguelâ",
+        "meaning": "Ang tunog ng bíguelâ ay nagbibigay-buhay sa pista ng baryo."
+    },
+    {
+        "word": "Birò",
+        "meaning": "Ang kanyang birò ay ikinatawa ng lahat sa mesa."
+    },
+    {
+        "word": "Dalawán",
+        "meaning": "Binili niya ang dalawán ng hikaw bilang regalo sa kanyang kapatid."
+    },
+    {
+        "word": "Dambaná",
+        "meaning": "Nag-alay sila ng mga bulaklak sa dambaná ng kanilang patron."
+    },
+    {
+        "word": "Dugtóng",
+        "meaning": " Ang bagong kabanata ng nobela ay isang nakakapanabik na dugtóng sa kwento."
+    },
+    {
+        "word": "Dúlang",
+        "meaning": "Ang malaking dúlang ay punong-puno ng pagkain para sa pista."
+    },
+
+
 ];
 
 function shuffleWord() {
