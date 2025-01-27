@@ -11,7 +11,8 @@
             margin: 0;
             padding: 0;
         }
-        header h1 {
+        header {
+            display:flex;
             margin: 0;
             color: black;
             font-size: 24px;
@@ -66,11 +67,10 @@
             padding: 25px 0px 0px 15px;
             
         }
-        #Logout {
+        .logout {
             background-color: #ff4757;
             color: #fff;
-            border: none;
-            margin: 25px 0px 0px 800px;
+            
             border-radius: 5px;
             cursor: pointer;
         }
@@ -82,7 +82,10 @@
         <form action="/logout" method="POST" style="margin: 0;">
             <!-- Add CSRF Token for Laravel -->
             <input type="hidden" name="_token" value="{{ csrf_token() }}">
-            <button id="Logout" type="submit">Logout</button>
+            <span class="logout">
+                <button id="Logout" type="submit">Logout</button>
+            </span>
+            
         </form>
     </header>
     <section>

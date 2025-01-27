@@ -35,6 +35,7 @@
         }
 
         .hover-this{
+            width:50%;
             position: relative;
             display: inline;
             font-weight: bold;
@@ -42,18 +43,18 @@
         }
 
         .hover-text{
+            background-color: yellow;
             display: none;
             position: absolute;
             font-weight: normal;
             font-style: normal;
-            top: -50px;
-            left: 50px;
+            top: 100%; /* Position below the word */
             background-color: #f1f1f1;
             color: black;
             padding: 5px;
             border: 1px solid #ccc;
             z-index: 1;
-            width: 200px;
+            white-space: normal; /* Use normal spacing */
         }
 
         .hover-this:hover .hover-text{
