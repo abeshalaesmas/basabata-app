@@ -5,22 +5,25 @@ const questions = [
             {text: "a) Gawin nang walang kahusayan", correct: false},
             {text: "b) Gawin nang may kahusayan at pagsisikap", correct: true},
             {text: "c) Gawin nang walang ayos", correct: false},
+            {text: "d) Gawin nang walang ayos", correct: false},
         ]
     },
     {
         question: "Ano ang kasingkahulugan ng 'kasawian'?",
         answers: [
             {text: "a) Kaligayahan", correct: false},
-            {text: "b) Pagpapala", correct: false},
-            {text: "c) Hindi kanais-nais na kalagayan", correct: true},
+            {text: "b) Kaligayahan", correct: false},
+            {text: "c) Pagpapala", correct: false},
+            {text: "d) Hindi kanais-nais na kalagayan", correct: true},
         ]
     },
     {
         question: "Ano ang kahulugan ng salitang 'tunggak'?",
         answers: [
             {text: "a) Matalino at may kaalaman", correct: false},
-            {text: "b) Kulang sa kaalaman at hindi nagpapakita ng matalinong pag-iisip", correct: true},
-            {text: "c)  May mataas na antas ng pag-unawa", correct: false},
+            {text: "b) Kaligayahan", correct: false},
+            {text: "c) Kulang sa kaalaman at hindi nagpapakita ng matalinong pag-iisip", correct: true},
+            {text: "d)  May mataas na antas ng pag-unawa", correct: false},
         ]
     },
     {

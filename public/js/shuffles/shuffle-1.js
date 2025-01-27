@@ -14,7 +14,13 @@ const words = [
     {
         "word": "tulisan",
         "meaning": "Isang tao na magnanakaw o malupit"
+    },
+    {
+        "word": "tulisan",
+        "meaning": "Isang tao na magnanakaw o malupit"
     }
+
+
 ];
 
 function shuffleWord() {

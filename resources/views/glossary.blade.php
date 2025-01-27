@@ -65,7 +65,7 @@
             text-decoration: none;
         }
         #logo{
-            width: 100px;
+            width: 70px;
             padding-left:35px;
             padding-top:30px;
         }
@@ -140,6 +140,17 @@
             <p><strong>Uri ng Salita:</strong> Pangngalan</p>
         </div>
     </div>
+
+    <div class="card">
+        <div class="card-title">Bapor Tabò</div>
+        <div class="card-content">
+            <p><strong>Kahulugan:</strong> tumutukoy sa isang barkong pandagat na bilog o mataba ang anyo</p>
+            <p><strong>Kasingkahulugan:</strong> barko, sasakyang-dagat, bapor</p>
+            <p><strong>Uri ng Salita:</strong> Pangngalan</p>
+        </div>
+    </div>
+
+    
 
     @include('components.navbar')
     
