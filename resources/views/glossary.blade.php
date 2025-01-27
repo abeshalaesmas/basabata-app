@@ -8,9 +8,7 @@
         body {
             margin: 0;
             font-family: Arial, sans-serif;
-            
         }
-
         .header {
             display: flex;
             align-items: center;
@@ -18,10 +16,8 @@
             padding: 10px 15px;
             
         }
-
-
         .search-bar {
-            margin: 20px;
+            margin: 18px;
         }
 
         .search-bar input {
@@ -29,12 +25,12 @@
             padding: 10px;
             font-size: 16px;
             border: 1px solid #ccc;
-            border-radius: 2px;
+            border-radius: 1px;
         }
 
         .card {
             background-color: #fff;
-            margin: 10px 20px;
+            margin: 5px 40px;
             padding: 15px;
             border-radius: 8px;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -69,8 +65,8 @@
             text-decoration: none;
         }
         #logo{
-            width: 80px;
-            padding-left:30px;
+            width: 100px;
+            padding-left:35px;
             padding-top:30px;
         }
         
