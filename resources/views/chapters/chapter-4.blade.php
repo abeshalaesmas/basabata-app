@@ -7,14 +7,17 @@
     <title>CHAPTER IV</title>
     <style>
         body {
+            background-color: #EEE9D1;
             margin: 50px; /* Adjust the margin size as needed */
-            font-family: 'Times New Roman', Times, serif;
+            font-family: 'Poppins', sans-serif; /* Changed font style */
+            font-size: 18px; /* Increased font size */
             line-height: 1.6;
         }
 
         header {
             background-color: #f3f4f6;
             padding: 1rem;
+            border-radius:15px;
             text-align: center;
         }
 
@@ -24,13 +27,45 @@
             gap: 1rem;
             padding: 1rem;
             margin-bottom: 40px;
+
         }
 
         p {
             text-align: justify;
             text-indent: 30px;
             white-space: pre-wrap;
+            cursor: default;
         }
+
+        .hover-this{
+            width:50%;
+            position: relative;
+            display: inline;
+            font-weight: bold;
+            font-style: italic;
+
+        }
+
+        .hover-text{
+            display: none;
+            position: absolute;
+            font-weight: normal;
+            font-style: normal;
+            text-align: center;
+            top: 100%; /* Position below the word */
+            background-color: yellow;
+            color: black;
+            padding: 5px;
+            border: 1px solid black;
+            border-radius: 5px;
+            z-index: 1;
+            white-space: normal; /* Use normal spacing */
+        }
+
+        .hover-this:hover .hover-text{
+            display: block;
+        }
+
     </style>
 </head>
 <body>
@@ -117,7 +152,7 @@
 
             Nangyari din ang kinatatakutan. Sa dahiláng ang bukid ay malayò sa pook ng̃ mg̃a bahay, kahì’t na may palakól si kabisang Tales ay nabihag ng̃ mg̃a tulisán, na may mg̃a <span class="hover-this">rebolber <span class="hover-text">Isang uri ng baril na may umiikot na silindro para sa bala.</span></span> at baríl. Sinabi sa kaniyá ng̃ mg̃a tulisán na yamang mayroon siyáng náibabayad sa mg̃a hukóm at tagatanggol-usap ay dapat din namán siyáng magkaroon ng̃ máibibigay sa mg̃a náwawakawak sa kabuhayan at mg̃a pinag-uusig. Dahil doon ay hining̃án siyá ng̃ limáng daang pisong tubós sa pamag-itan ng̃ isáng tagabukid at pinatibayan pang pag may nangyari sa utusán ay itítimbáng ang búhay ng̃ dakíp. Dalawáng araw ang ibinigáy na taning.
 
-            Ikinasindák na lubhâ ng̃ mag-anak ang balità at lalò pa mandíng naragdagán ang gayón, ng̃ mabatíd na lálabás ang Guardia sibil upang usigin ang mg̃a tulisán. Kung magkátagpô at magkálabanán ay alám ng̃ lahát na ang unang mápapatáy ay ang dakíp. Nang tanggapín ang balità’y hindî nakatinag ang matandâ, at ang anák na babai, sa gitnâ ng̃ pamumutlâ’t pagkasindák, ay makáilàng nagnasàng mang̃usap, ng̃unì’t hindî nangyari. Datapwâ’y isáng hinalàng lalòng mabigát ang nakapagpabalík sa kaniláng diwà. Ang sabi ng̃ tagabukid na inutusan ng̃ mg̃a tulisán, ay marahil magsisilayô silá, kayâ’t kung magluluwát sa pagbibigáy ng̃ tubós ay lalawig ang araw at si kabisang Tales ay pupugutan ng̃ ulo. Ang sabing itó’y <span class="hover-this">nakatulíg <span class="hover-text">Kalagayan ng pagkabingi dahil sa ingay.</span></span> sa dalawá, na kapuwâ mahihinà at kapuwâ walâng magawâ. Si tandâng Selo ay mápaupô’t mapatindíg, akyát <span class="hover-this">manaog <span lang="hover-text">Pagbaba mula sa mataas na lugar o sasakyan.</span></span>, hindî malaman ang tung̃uhin, hindî malaman ang lapitan. Si Hulî’y padulógdulóg sa kaniyáng mg̃a larawan ng̃ santó, ulî’t ulîng binilang ang salapî, ng̃unì’t ang dalawáng daang piso’y hindî nararagdagán, ayaw dumami, bigláng magbibihis, iipunin ang lahát ng̃ kaniyáng hiyás, hihing̃îng sangunì sa matandâ, tatangkâíng makipagkita sa Kapitán, sa hukóm, sa tagasulat, at sa teniente ng̃ Guardia sibil. Oo ang sagót ng̃ matandâ sa lahát, at pag sinabi ng̃ batàng huwag ay huwag dín namán siyá. Dumatíng ang iláng babaing kapitbahay na kamag-anakan at kakilala, mg̃a marálitâ, at may maralitâ pa kay sa ibá, mg̃a walâng malay na tao at minámalakí ang lahát ng̃ bagáy. Ang pinakamatalas sa lahát ay ang pusakál na <span class="hover-this">pagingera <span class="hover-text">Isang taong mahilig makialam sa usapan o gawain ng iba.</span></span> na si Hermana Balî na nanirahan sa Maynilà upang mag ejercicio sa <span class="hover-this">beaterio <span class="hover-text">Isang bahay o lugar kung saan naninirahan ang mga madre.</span></span> ng̃ La Compañía.
+            Ikinasindák na lubhâ ng̃ mag-anak ang balità at lalò pa mandíng naragdagán ang gayón, ng̃ mabatíd na lálabás ang Guardia sibil upang usigin ang mg̃a tulisán. Kung magkátagpô at magkálabanán ay alám ng̃ lahát na ang unang mápapatáy ay ang dakíp. Nang tanggapín ang balità’y hindî nakatinag ang matandâ, at ang anák na babai, sa gitnâ ng̃ pamumutlâ’t pagkasindák, ay makáilàng nagnasàng mang̃usap, ng̃unì’t hindî nangyari. Datapwâ’y isáng hinalàng lalòng mabigát ang nakapagpabalík sa kaniláng diwà. Ang sabi ng̃ tagabukid na inutusan ng̃ mg̃a tulisán, ay marahil magsisilayô silá, kayâ’t kung magluluwát sa pagbibigáy ng̃ tubós ay lalawig ang araw at si kabisang Tales ay pupugutan ng̃ ulo. Ang sabing itó’y <span class="hover-this">nakatulíg <span class="hover-text">Kalagayan ng pagkabingi dahil sa ingay.</span></span> sa dalawá, na kapuwâ mahihinà at kapuwâ walâng magawâ. Si tandâng Selo ay mápaupô’t mapatindíg, akyát <span class="hover-this">manaog <span class="hover-text">Pagbaba mula sa mataas na lugar o sasakyan.</span></span>, hindî malaman ang tung̃uhin, hindî malaman ang lapitan. Si Hulî’y padulógdulóg sa kaniyáng mg̃a larawan ng̃ santó, ulî’t ulîng binilang ang salapî, ng̃unì’t ang dalawáng daang piso’y hindî nararagdagán, ayaw dumami, bigláng magbibihis, iipunin ang lahát ng̃ kaniyáng hiyás, hihing̃îng sangunì sa matandâ, tatangkâíng makipagkita sa Kapitán, sa hukóm, sa tagasulat, at sa teniente ng̃ Guardia sibil. Oo ang sagót ng̃ matandâ sa lahát, at pag sinabi ng̃ batàng huwag ay huwag dín namán siyá. Dumatíng ang iláng babaing kapitbahay na kamag-anakan at kakilala, mg̃a marálitâ, at may maralitâ pa kay sa ibá, mg̃a walâng malay na tao at minámalakí ang lahát ng̃ bagáy. Ang pinakamatalas sa lahát ay ang pusakál na <span class="hover-this">pagingera <span class="hover-text">Isang taong mahilig makialam sa usapan o gawain ng iba.</span></span> na si Hermana Balî na nanirahan sa Maynilà upang mag ejercicio sa <span class="hover-this">beaterio <span class="hover-text">Isang bahay o lugar kung saan naninirahan ang mga madre.</span></span> ng̃ La Compañía.
 
             Ipagbibilí ni Hulî ang lahát ng̃ kaniyáng mg̃a hiyás liban lamang ang isáng <span class="hover-this"><span class="hover-this">agnós <span class="hover-text">Isang relikya o bagay na may kaugnayan sa relihiyon.</span></span> <span class="hover-text">isang gamit na isinusuong para sa panlabas na gamit, katulad ng alahas o mga gamit na may mahalagang halaga, ginagamit sa pagpapakita o prusisyon.</span></span> na may brillante at <span class="hover-this">esmeralda <span class="hover-text">Isang uri ng mamahaling bato o hiyas na kulay berde.</span></span> na bigáy ni Basilio. Ang agnós na iyon ay may kasaysayan; ibinigáy ng̃ <span class="hover-this">monja <span class="hover-text">Madre o babaeng relihiyoso.</span></span> na anák ni kapitáng Tiago sa isáng ketong̃in, dahil sa pagkakagamót ni Basilio sa may sakít ay ibinigáy nitó na parang isáng handóg. Hindî niyá máipagbilí hanggáng hindî maalaman ng̃ nagbigáy.
 
@@ -146,5 +181,8 @@
             Ang pagkukuròng itó’y nakapagpalubág ng̃ kauntî sa kaniyáng samâ ng̃ loob at nagpang̃aráp na siyá ng̃ sarìsarì. ¿Sino ang makapagsasabi? maaarìng mangyari ang kababalagháng makakuha siya ng̃ dalawáng daán at limáng pûng piso sa ilalim ng̃ larawan ng̃ Birhen; marami na siyáng nábasang kababalaghán na gayón ang pangyayari! Maaarìng huwag sumilang ang araw at samantalà’y mapanalo ang usap bago mag-umaga. Maaarìng makabalík ang kaniyáng amá; makapupulot siya sa bakuran ng̃ isáng <span class="hover-this">gusì <span class="hover-text">Isang uri ng lalagyan na gawa sa porselana o seramika.</span></span>, ang mg̃a tulisán ang siyáng may padalá sa kaniyá ng̃ gusì; ang kura, si P. Camorra na nagbíbirô sa kaniyáng parati, ay mangyayaring dumatíng na kasama ng̃ mg̃a tulisán.... lumalaon lumalaon ay untî-untîng naguguló ang kaniyáng mg̃a pag-íisip hanggáng, sa, dahil sa pagkapatâ at pagdadalamhatì ay nákatulog, na pinapang̃arap ang kaniyáng kabatàan doon sa gitnâ ng̃ kagubatan: siyá’y naliligò sa batis na kasama ang dalawá niyáng kapatíd, may mg̃a isdâng sarìsarì ang kulay na napahuhuling warì’y tang̃á, at nayayamót siyá sapagkâ’t hindî siyá masiyahang loob sa panghuhuli niyóng mg̃a isdâng nápakaamò: si Basilio ay nasa ilalim ng̃ tubig, ng̃unì’t hindî niyá maalaman kung bakit ang mukhâ ni Basilio ay ang sa kaniyáng kapatíd na si Tanò. Silá’y minamatyagán mulâ sa pangpáng ng̃ kaniyáng bagong pinaglilingkuráng babai.
         </p>
     </main>
+    <div>
+        <a href="{{Route('quiz4')}}">QUIZ</a>
+    </div>
 </body>
 </html>

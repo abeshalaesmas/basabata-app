@@ -7,14 +7,17 @@
     <title>CHAPTER XXIII</title>
     <style>
         body {
+            background-color: #EEE9D1;
             margin: 50px; /* Adjust the margin size as needed */
-            font-family: 'Times New Roman', Times, serif;
+            font-family: 'Poppins', sans-serif; /* Changed font style */
+            font-size: 18px; /* Increased font size */
             line-height: 1.6;
         }
 
         header {
             background-color: #f3f4f6;
             padding: 1rem;
+            border-radius:15px;
             text-align: center;
         }
 
@@ -40,19 +43,21 @@
             display: inline;
             font-weight: bold;
             font-style: italic;
+
         }
 
         .hover-text{
-            background-color: yellow;
             display: none;
             position: absolute;
             font-weight: normal;
             font-style: normal;
+            text-align: center;
             top: 100%; /* Position below the word */
-            background-color: #f1f1f1;
+            background-color: yellow;
             color: black;
             padding: 5px;
-            border: 1px solid #ccc;
+            border: 1px solid black;
+            border-radius: 5px;
             z-index: 1;
             white-space: normal; /* Use normal spacing */
         }
@@ -182,9 +187,5 @@ At hindî na naalaala ang pag-aaral, at ang ting̃ín ay sa malayò, ay iniisip-
 ¡Humimbíng kang mapayapà, sawîng anák ng̃ aking walâng kapalarang bayan! ¡Dalhín mo sa libing̃an ang kariktán ng̃ iyong kabatàan, na linantá sa gitnâ ng̃ paglusog! Kapag ang isáng bayan ay hindî makapaghandóg sa kaniyang malilinis na dalaga ng̃ isáng payapàng tahanan, sa pagkupkóp ng̃ banal na kalayàan; kapag ang tang̃ìng maipamamana ng̃ lalaki sa kaniyang balo ay kahihiyán, pag-luhà sa iná at kaalipinán sa mg̃a anák, mabuti ng̃â ang kusàin ninyó ang huwag nang magbung̃a, at lunurin na sa inyóng tiyan ang binhî ng̃ mg̃a kalaitlait na iaanák. Ah, mabuti ka na, na hindî ka mang̃ing̃ilabot sa iyóng libing̃an sa pagkáding̃íg ng̃ sigáw ng̃ mg̃a naghihing̃alô sa kadilimán, ng̃ mg̃a nakababatíd na silá’y may pakpák ng̃unì’t nang̃akagapos, ng̃ mg̃a naiinis dahil sa walâng kalayàan. Tumung̃o ka na kaakbáy ng̃ mg̃a pang̃arap ng̃ makatà sa kalang̃itang walâng hangan, anino ng̃ babaing nábanaag sa isáng sinag ng̃ buwan, na ibinúbulong ng̃ maigkás na kawayanán.... ¡Mapalad ang mamatáy ng̃ mayroong umiiyak, ng̃ nag-iiwan sa pusò ng̃ sa kaniyá’y umiibig ng̃ malinis na gunitâ, isáng banal na alaala, na hindî nadung̃isan ng̃ karumaldumal na sigabó ng̃ kalooban na lalòng lumálakí sa katagaláng panahón! ¡Sumulong ka, aalalahanin ka namin! Sa malinis na simuy ng̃ ating bayan, sa ilalim ng̃ kaniyáng lang̃it na bugháw, sa ibabaw ng̃ alon ng̃ lawàng nakukulóng ng̃ bulubunduking kulay sápiro at baybaying esmeralda; sa kaniyáng malilinaw na batisan na nilililiman ng̃ mg̃a punòng kawayan, hinihiyasan ng̃ mg̃a bulaklák at binibigyáng buhay ng̃ mg̃a tutubí’t paróparó sa kaniláng walâng tung̃o at malikót na pagliliparan na warìng nang̃agsisipaglarô sa hang̃in; sa katahimikan ng̃ ating mg̃a gubat, sa awit ng̃ ating mg̃a batisan, sa buhos na brillante ng̃ ating mg̃a talón ng̃ tubig, sa maningníng na liwanag ng̃ ating buwán, sa mg̃a buntóng hining̃á ng̃ hang̃in sa gabí, sa isáng sabi, sa lahát ng̃ bagay, na makapagpapaalala sa larawan ng̃ ginigiliw, ay makikita ka naming gaya ng̃ pinang̃arap naming anyô mo na marilág, magandá, nakang̃itîng gaya ng̃ pag-asa, kasinglinis ng̃ liwanag, dátapwâ’y malungkót at mapighatîng tinátanáw ang aming karumaldumal na kalagayan.
         </p>
     </main>
-
-    <div>
-        <a href="{{Route('quiz23')}}">Next</a>
-    </div>
 </body>
 </html>

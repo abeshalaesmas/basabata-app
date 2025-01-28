@@ -7,14 +7,17 @@
     <title>CHAPTER V</title>
     <style>
         body {
+            background-color: #EEE9D1;
             margin: 50px; /* Adjust the margin size as needed */
-            font-family: 'Times New Roman', Times, serif;
+            font-family: 'Poppins', sans-serif; /* Changed font style */
+            font-size: 18px; /* Increased font size */
             line-height: 1.6;
         }
 
         header {
             background-color: #f3f4f6;
             padding: 1rem;
+            border-radius:15px;
             text-align: center;
         }
 
@@ -24,13 +27,45 @@
             gap: 1rem;
             padding: 1rem;
             margin-bottom: 40px;
+
         }
 
         p {
             text-align: justify;
             text-indent: 30px;
             white-space: pre-wrap;
+            cursor: default;
         }
+
+        .hover-this{
+            width:50%;
+            position: relative;
+            display: inline;
+            font-weight: bold;
+            font-style: italic;
+
+        }
+
+        .hover-text{
+            display: none;
+            position: absolute;
+            font-weight: normal;
+            font-style: normal;
+            text-align: center;
+            top: 100%; /* Position below the word */
+            background-color: yellow;
+            color: black;
+            padding: 5px;
+            border: 1px solid black;
+            border-radius: 5px;
+            z-index: 1;
+            white-space: normal; /* Use normal spacing */
+        }
+
+        .hover-this:hover .hover-text{
+            display: block;
+        }
+
     </style>
 </head>
 <body>
@@ -131,5 +166,8 @@
             Isinalaysáy ng̃ matandâ ang pagkakabihag kay kabisang Tales. Si Basilio ay napahintông nágmumunimuní at hindî umimík. Hindî na nakakain.
         </p>
     </main>
+    <div>
+        <a href="{{Route('quiz5')}}">QUIZ</a>
+    </div>
 </body>
 </html>

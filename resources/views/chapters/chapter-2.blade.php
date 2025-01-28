@@ -7,14 +7,17 @@
     <title>CHAPTER II</title>
     <style>
         body {
+            background-color: #EEE9D1;
             margin: 50px; /* Adjust the margin size as needed */
-            font-family: 'Times New Roman', Times, serif;
+            font-family: 'Poppins', sans-serif; /* Changed font style */
+            font-size: 18px; /* Increased font size */
             line-height: 1.6;
         }
 
         header {
             background-color: #f3f4f6;
             padding: 1rem;
+            border-radius:15px;
             text-align: center;
         }
 
@@ -24,13 +27,45 @@
             gap: 1rem;
             padding: 1rem;
             margin-bottom: 40px;
+
         }
 
         p {
             text-align: justify;
             text-indent: 30px;
             white-space: pre-wrap;
+            cursor: default;
         }
+
+        .hover-this{
+            width:50%;
+            position: relative;
+            display: inline;
+            font-weight: bold;
+            font-style: italic;
+
+        }
+
+        .hover-text{
+            display: none;
+            position: absolute;
+            font-weight: normal;
+            font-style: normal;
+            text-align: center;
+            top: 100%; /* Position below the word */
+            background-color: yellow;
+            color: black;
+            padding: 5px;
+            border: 1px solid black;
+            border-radius: 5px;
+            z-index: 1;
+            white-space: normal; /* Use normal spacing */
+        }
+
+        .hover-this:hover .hover-text{
+            display: block;
+        }
+
     </style>
 </head>
 <body>
@@ -40,11 +75,9 @@
 
     <main>
         <p>
-            Sa silong ay ibá namán ang nangyayari. Nang̃akaupô sa bangkô at sa maliliít na <span class="hover-this">luklukang <span class="hover-text"> Isang lugar na inuupuan o kinauupuan, maaaring literal (upuan) o simboliko (kapangyarihan o posisyon).
-            </span></span> kahoy, kasalamuhà ng̃ mg̃a maleta, bakol at <span class="hover-this">tampipì, <span class="hover-text">Isang lalagyan na gawa sa hinabing kawayan o nipa, kadalasang ginagamit upang maglagay ng damit o iba pang gamit.</span></span> sa kalapít ng̃ mákina, init ng̃ kaldera, sing̃áw ng̃ katawáng tao at mabahòng amóy ng̃ lang̃ís, ay naroon ang lalòng makapál na taong sakáy.
+            Sa silong ay ibá namán ang nangyayari. Nang̃akaupô sa bangkô at sa maliliít na <span class=hover-this>luklukang <span class=hover-text>Isang lugar na inuupuan o kinauupuan, maaaring literal (upuan) o simboliko (kapangyarihan o posisyon).</span></span>kahoy, kasalamuhà ng̃ mg̃a maleta, bakol at <span class="hover-this">tampipì, <span class="hover-text">Isang lalagyan na gawa sa hinabing kawayan o nipa, kadalasang ginagamit upang maglagay ng damit o iba pang gamit.</span></span>sa kalapít ng̃ mákina, init ng̃ kaldera, sing̃áw ng̃ katawáng tao at mabahòng amóy ng̃ lang̃ís, ay naroon ang lalòng makapál na taong sakáy.
 
-            Tinátanáw na matahimik ng̃ ilán ang sarìsarìng anyô ng̃ mg̃a pangpang̃in sa gitnâ ng̃ dagundóng ng̃ mg̃a pala, ing̃ay ng̃ mákina, <span class="hover-this">sagitsít <span class="hover-text">tunog o ingay mula sa bagay na mabilis na dumadaan o gumagalaw sa hangin.</span></span> ng̃ nakatatanang sing̃áw, buluwák ng̃ tubig na nahahalò, <spanc class="hover-this">pasuwít <span class="hover-text">Tumutukoy sa tunog ng isang hayop o ng isang bagay.</span></span> ng̃ pakakak. Sa isáng súlok, nagkakapipisang warì’y bangkáy, ay natutulog ó nagtátangkâng [19]matulog ang iláng insík na mámimili, mg̃a <span class="hover-this">liyó, <span class="hover-text">Pakiramdam ng pagkahilo o kawalan ng balanse na maaaring sinasabayan ng pagduduwal.
-            </span></span> nang̃amumutlâ, sumasago ang laway sa mg̃a nakang̃ang̃áng bibíg, at naliligò sa malagkít na pawis ng̃ kaniláng katawán. Ang iláng binatà lamang, na ang karamihan ay nang̃ag-aaral, madalîng makilala dahil sa kaniláng kagayakang lubhâng maputî at sa maayos na kiyas, ang nang̃ang̃ahás <span class="hover-this">magyao’t <span class="hover-text">Umalis mula sa isang lugar o magtungo sa ibang dako.
+            Tinátanáw na matahimik ng̃ ilán ang sarìsarìng anyô ng̃ mg̃a pangpang̃in sa gitnâ ng̃ dagundóng ng̃ mg̃a pala, ing̃ay ng̃ mákina, <span class="hover-this">sagitsít <span class="hover-text">tunog o ingay mula sa bagay na mabilis na dumadaan o gumagalaw sa hangin.</span></span>ng̃ nakatatanang sing̃áw, buluwák ng̃ tubig na nahahalò, <span class="hover-this">pasuwít <span class="hover-text">Tumutukoy sa tunog ng isang hayop o ng isang bagay.</span></span>ng̃ pakakak. Sa isáng súlok, nagkakapipisang warì’y bangkáy, ay natutulog ó nagtátangkâng matulog ang iláng insík na mámimili, mg̃a <span class="hover-this">liyó, <span class="hover-text">Pakiramdam ng pagkahilo o kawalan ng balanse na maaaring sinasabayan ng pagduduwal.</span></span> nang̃amumutlâ, sumasago ang laway sa mg̃a nakang̃ang̃áng bibíg, at naliligò sa malagkít na pawis ng̃ kaniláng katawán. Ang iláng binatà lamang, na ang karamihan ay nang̃ag-aaral, madalîng makilala dahil sa kaniláng kagayakang lubhâng maputî at sa maayos na kiyas, ang nang̃ang̃ahás <span class="hover-this">magyao’t <span class="hover-text">Umalis mula sa isang lugar o magtungo sa ibang dako.
             </span></span> dito sa popa at proa, na palundáglundág sa mg̃a bakol at kaha, masasayá dahil sa nálalapit na pagpapahing̃á sa pag-aaral. Mayâmayâ’y pinagtatalunan ang mg̃a galáw ng̃ mákina, na inaalaala ang napag-aralan, at mayâmayâ’y nang̃agpapaligidligid sa mg̃a binibining kolehiala, sa <span class="hover-this">maghihitsóng <span class="hover-text">Magpapakita ng anyong kahawig o magiging katulad ng isang bagay o tao.
             </span></span> may mapupuláng labì at may kuwintás na sampaga, at inaapung̃utan ang mg̃a dalaga ng̃ mg̃a salitâng nagpapatawa ó ikipinagtátakíp sa mukhâ ng̃ mg̃a pamaypáy na may pintá.
 
@@ -197,21 +230,21 @@
 
             Ng̃unì’t sa pagtutunggalìang iyón ay tumangáp si Florentino ng̃ isáng sugat na hindî na gumalíng kailán man; mg̃a iláng linggó muna bago ganapín ang una niyáng pagmimisa, ang babaing kaniyang <span class="hover-this">pinakagigiliw <span class="hover-text">Ito ay tumutukoy sa taong lubos na minamahal o tinitingala ng isang tao.</span></span> ay nag-asawa ng̃ walâ nang pilìpilì dahil sa samâ ng̃ loob; ang dagok na iyon ay siyang pinakamahapdîng tinanggáp niyá; nanghilambót ang kaniyang budhî at ang kabuhayan ay nagíng isá niyang kinamuhîan at mabigát na dalahin. Kung dî man ang kabaitan at pagbibigáy dang̃ál sa kaniyang kalagayan ay ang pag-ibig na iyon ang nagligtás sa kaniya sa bang̃íng kinahuhulugan ng̃ parìng prayle at hindî prayle dito sa Pilipinas. Hinaráp ang kaniyáng mg̃a nasasakóp dahil sa kaniyang pagtupád sa katungkulan at pagkakahilig sa mg̃a likás na karunung̃an.
 
-            Nang mangyari ang mg̃a kaguluhan noong 72 ay ipinang̃anib ni P. Florentino na siya’y mápuna dahil sa kalakihán ng̃ kinikita ng̃ kaniyang kurato, at sa dahiláng siya’y payapàng tao, ay huming̃î ng̃ pagpapahing̃á at mulâ na noon ay nanirahan nang warì’y isáng táong karaniwan sa mg̃a lupaín niláng mag-aának na nasa baybayin ng̃ dagat Pacífico. Doo’y inarugâ ang isá niyang pamangking lalaki, si Isagani, na alinsunod sa mg̃a masasamâng dilà ay anák niyá sa kaniyáng dating iniibig, ng̃ mabáo, anák sa pagkadalaga ng̃ isáng pinsan niyáng tagá Maynilà, alinsunod namán sa mg̃a lalóng <span class="hover-this">nakabábatíd <span class="hover-text"></span></span> at hindî bulàan.
+            Nang mangyari ang mg̃a kaguluhan noong 72 ay ipinang̃anib ni P. Florentino na siya’y mápuna dahil sa kalakihán ng̃ kinikita ng̃ kaniyang kurato, at sa dahiláng siya’y payapàng tao, ay huming̃î ng̃ pagpapahing̃á at mulâ na noon ay nanirahan nang warì’y isáng táong karaniwan sa mg̃a lupaín niláng mag-aának na nasa baybayin ng̃ dagat Pacífico. Doo’y inarugâ ang isá niyang pamangking lalaki, si Isagani, na alinsunod sa mg̃a masasamâng dilà ay anák niyá sa kaniyáng dating iniibig, ng̃ mabáo, anák sa pagkadalaga ng̃ isáng pinsan niyáng tagá Maynilà, alinsunod namán sa mg̃a lalóng <span class="hover-this">nakabábatíd<span class="hover-text">may kaalaman o pagkaunawa sa mga nangyayari o sa kalagayan ng paligid</span></span> at hindî bulàan.
 
-            Nang makita ng̃ Kapitán ng̃ bapor ang klérigo ay pinilitpilit na pumasok sa kámara at umakyát sa kubierta. Upang <span class="hover-this">mapahinuhod <span class="hover-text">Madaling mapapayag o madaling makumbinsi sa isang bagay.
-            </span></span> lamang siya’y nagsabing:
+            Nang makita ng̃ Kapitán ng̃ bapor ang klérigo ay pinilitpilit na pumasok sa kámara at umakyát sa kubierta. Upang <span class="hover-this">mapahinuhod <span class="hover-text">Madaling mapapayag o madaling makumbinsi sa isang bagay.</span></span> lamang siya’y nagsabing:
 
             —Kung hindî kayó paparoon ay aakalàin ng̃ mg̃a prayle na áayaw kayóng makisama sa kanilá.
 
             Walâ nang nagawâ si P. Florentino kundî ang sumunód at ipinatawag ang kaniyang pamangkín upang pagsabihan ng̃ nangyayari at ipagbilin na huwag lalapit sa kámara samantalang siya’y nároroon.
 
-            —Kung mákikita ka ng̃ Kapitán ay aanyayahan ka at <span class="hover-this">magpapakalabis <span class="hover-text">- Gumawa ng higit pa sa nararapat o akma.
-                - Pagbibigay-diin o pagpapakita ng sobra kaysa sa tunay na kalagayan o nararapat.
-                </span></span> namán táyo.
+            —Kung mákikita ka ng̃ Kapitán ay aanyayahan ka at <span class="hover-this">magpapakalabis <span class="hover-text">Gumawa ng higit pa sa nararapat o akma. Pagbibigay-diin o pagpapakita ng sobra kaysa sa tunay na kalagayan o nararapat.</span></span> namán táyo.
 
             —Paraan ng̃ aking amaín!—aní ni Isagani sa sarili—walâ namáng dahilán kung dî upang huwag lamang akóng mákausap ni aling Victorina.
         </p>
     </main>
+    <div>
+        <a href="{{Route('quiz2')}}">QUIZ</a>
+    </div>
 </body>
 </html>

@@ -7,14 +7,17 @@
     <title>CHAPTER XXXVIII</title>
     <style>
         body {
+            background-color: #EEE9D1;
             margin: 50px; /* Adjust the margin size as needed */
-            font-family: 'Times New Roman', Times, serif;
+            font-family: 'Poppins', sans-serif; /* Changed font style */
+            font-size: 18px; /* Increased font size */
             line-height: 1.6;
         }
 
         header {
             background-color: #f3f4f6;
             padding: 1rem;
+            border-radius:15px;
             text-align: center;
         }
 
@@ -40,19 +43,21 @@
             display: inline;
             font-weight: bold;
             font-style: italic;
+
         }
 
         .hover-text{
-            background-color: yellow;
             display: none;
             position: absolute;
             font-weight: normal;
             font-style: normal;
+            text-align: center;
             top: 100%; /* Position below the word */
-            background-color: #f1f1f1;
+            background-color: yellow;
             color: black;
             padding: 5px;
-            border: 1px solid #ccc;
+            border: 1px solid black;
+            border-radius: 5px;
             z-index: 1;
             white-space: normal; /* Use normal spacing */
         }
@@ -154,9 +159,5 @@ Matuling nang̃agsipang̃unyapít ang mg̃a sundalo, na inilagáy sa dulo ng̃ b
 Ang mg̃a sundalo’y nang̃ápaling̃ón at nákitang si Carolino ay maputlâng maputlâ, nakang̃ang̃á at sa paning̃ín ay naglalarawan ng̃ hulíng kisláp ng̃ pag-iisip. Nákilala ng̃ Carolino, na dilì ibá’t si Tanò, ang anák ni kabisang Tales, na galing sa Carolinas, na ang naghihing̃alô ay ang kaniyáng lelong, si matandâng Selo, na, dahil sa hindî siya makausap ay naghahayág sa kaniyá, sa tulong ng̃ mg̃a naghihing̃alông matá, ng̃ isáng kabuhayang lipús ng̃ sákit. At nang bangkáy na ay patuloy din sa pagtuturò ng̃ isáng bagay na nasa likód ng̃ mg̃a bató......
         </p>
     </main>
-
-    <div>
-        <a href="{{Route('quiz38')}}">Next</a>
-    </div>
 </body>
 </html>

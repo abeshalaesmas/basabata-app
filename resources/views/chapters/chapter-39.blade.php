@@ -7,14 +7,17 @@
     <title>CHAPTER XXXIX</title>
     <style>
         body {
+            background-color: #EEE9D1;
             margin: 50px; /* Adjust the margin size as needed */
-            font-family: 'Times New Roman', Times, serif;
+            font-family: 'Poppins', sans-serif; /* Changed font style */
+            font-size: 18px; /* Increased font size */
             line-height: 1.6;
         }
 
         header {
             background-color: #f3f4f6;
             padding: 1rem;
+            border-radius:15px;
             text-align: center;
         }
 
@@ -40,19 +43,21 @@
             display: inline;
             font-weight: bold;
             font-style: italic;
+
         }
 
         .hover-text{
-            background-color: yellow;
             display: none;
             position: absolute;
             font-weight: normal;
             font-style: normal;
+            text-align: center;
             top: 100%; /* Position below the word */
-            background-color: #f1f1f1;
+            background-color: yellow;
             color: black;
             padding: 5px;
-            border: 1px solid #ccc;
+            border: 1px solid black;
+            border-radius: 5px;
             z-index: 1;
             white-space: normal; /* Use normal spacing */
         }
@@ -186,9 +191,5 @@ Tuming̃ín si P. Florentino sa dako ng̃ kaniyáng paanan. Sa ibabâ’y nákik
 —¡Itagò ka ng̃ Kalikasán sa kailaliman na kasama ng̃ mg̃a korales at mg̃a perlas ng̃ kaniyáng walâng pagkapawìng mg̃a dagat!—ang sabi ng̃ klerigo na iniunat ang kamáy.—Kapag sa isáng banal at mataás na layon ay kakailang̃anin ka ng̃ mg̃a tao, ay mátututuhan kang kunin ng̃ Dios sa sinapupunan ng̃ mg̃a alon.... Samantala, diyán ay hindî ka makagagawâ ng̃ kasamâán, hindî mo ililikô ang katwiran, hindî ka mag-uudyók sa kasakimán!....
         </p>
     </main>
-
-    <div>
-        <a href="{{Route('quiz39')}}">Next</a>
-    </div>
 </body>
 </html>

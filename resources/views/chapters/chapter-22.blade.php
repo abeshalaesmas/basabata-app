@@ -7,14 +7,17 @@
     <title>CHAPTER XXII</title>
     <style>
         body {
+            background-color: #EEE9D1;
             margin: 50px; /* Adjust the margin size as needed */
-            font-family: 'Times New Roman', Times, serif;
+            font-family: 'Poppins', sans-serif; /* Changed font style */
+            font-size: 18px; /* Increased font size */
             line-height: 1.6;
         }
 
         header {
             background-color: #f3f4f6;
             padding: 1rem;
+            border-radius:15px;
             text-align: center;
         }
 
@@ -40,19 +43,21 @@
             display: inline;
             font-weight: bold;
             font-style: italic;
+
         }
 
         .hover-text{
-            background-color: yellow;
             display: none;
             position: absolute;
             font-weight: normal;
             font-style: normal;
+            text-align: center;
             top: 100%; /* Position below the word */
-            background-color: #f1f1f1;
+            background-color: yellow;
             color: black;
             padding: 5px;
-            border: 1px solid #ccc;
+            border: 1px solid black;
+            border-radius: 5px;
             z-index: 1;
             white-space: normal; /* Use normal spacing */
         }
@@ -329,9 +334,5 @@
             At ang tumutugtóg pa namán nang orkesta upang simulán ang pang̃alawáng bahagi nang tumindíg ang ating mg̃a binatà na iniwan ang dulàan sa gitnâ ng̃ pagkakamanghâ ng̃ lahát ng̃ nároroon.
         </p>
     </main>
-
-    <div>
-        <a href="{{Route('quiz22')}}">Next</a>
-    </div>
 </body>
 </html>

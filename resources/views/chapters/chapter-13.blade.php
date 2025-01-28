@@ -7,14 +7,17 @@
     <title>CHAPTER XIII</title>
     <style>
         body {
+            background-color: #EEE9D1;
             margin: 50px; /* Adjust the margin size as needed */
-            font-family: 'Times New Roman', Times, serif;
+            font-family: 'Poppins', sans-serif; /* Changed font style */
+            font-size: 18px; /* Increased font size */
             line-height: 1.6;
         }
 
         header {
             background-color: #f3f4f6;
             padding: 1rem;
+            border-radius:15px;
             text-align: center;
         }
 
@@ -24,6 +27,7 @@
             gap: 1rem;
             padding: 1rem;
             margin-bottom: 40px;
+
         }
 
         p {
@@ -39,19 +43,21 @@
             display: inline;
             font-weight: bold;
             font-style: italic;
+
         }
 
         .hover-text{
-            background-color: yellow;
             display: none;
             position: absolute;
             font-weight: normal;
             font-style: normal;
+            text-align: center;
             top: 100%; /* Position below the word */
-            background-color: #f1f1f1;
+            background-color: yellow;
             color: black;
             padding: 5px;
-            border: 1px solid #ccc;
+            border: 1px solid black;
+            border-radius: 5px;
             z-index: 1;
             white-space: normal; /* Use normal spacing */
         }
@@ -59,6 +65,7 @@
         .hover-this:hover .hover-text{
             display: block;
         }
+
     </style>
 </head>
 <body>
@@ -255,5 +262,8 @@
             At gaya rin ng̃ dalawáng daa’t tatlóng pû’t apat na itó’y dinaán ang mg̃a oras ng̃ kaniláng klase ng̃ libo at libong nag-aral na náuna sa kanilá, at, kung hindî maaayos ang mg̃a bagaybagay, ay dáraan ding gayón ang mg̃a súsunod at magiging mg̃a bating̃ól, at ang karang̃alang sinugatan at ang sigabóng ligáw ng̃ kabatàan ay magiging pagtataním at katamaran, na gaya ng̃ mg̃a alon, na nagiging maputik sa iláng poók ng̃ dalampasigan, na sa pagsusunuran ay lalò’t lalò pang lumalapad ang naiiwanan ng̃ yagít. Datapwâ’y, Yaóng mulâ sa walâng katapusan ay nakakikita sa mg̃a ibubung̃a ng̃ isáng kagagawán na nakakalás na warì’y sinulid, Yaóng tumitimbang ng̃ mg̃a sandalî at nagtakdâ sa kaniyáng mg̃a nilaláng na ang unang batás ay ang paghanap ng̃ ikasusulong at ng̃ kawastûán, Yaóng, kung tapát, ay híhing̃î ng̃ pagtutuús sa dapat hing̃án, ng̃ dahil sa mg̃a yutàyutàng pag-iisip na pinalabò at binulag, ng̃ dahil sa karang̃alang pinawì sa yutàyutàng tao at ng̃ dahil sa dî mabilang na panahóng lumipas at gawâng nawalân ng̃ kabuluhán! At kung ang mg̃a turò sa Ebanhelio ay may tining na katotohanan, ay mananagót dín ang mg̃a yutàyutàng hindî nang̃atutong itagò ang liwanag ng̃ kaniyáng pag-iisip at ang karang̃alan ng̃ kaniyáng budhî, gaya rin namán ng̃ pag-uusisà ng̃ pang̃inoon sa alipin nang salapîng ipinanakaw niyá dahil sa karuwagan!
         </p>
     </main>
+    <div>
+        <a href="{{Route('quiz13')}}">QUIZ</a>
+    </div>
 </body>
 </html>

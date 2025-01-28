@@ -7,14 +7,17 @@
     <title>CHAPTER VI</title>
     <style>
         body {
+            background-color: #EEE9D1;
             margin: 50px; /* Adjust the margin size as needed */
-            font-family: 'Times New Roman', Times, serif;
+            font-family: 'Poppins', sans-serif; /* Changed font style */
+            font-size: 18px; /* Increased font size */
             line-height: 1.6;
         }
 
         header {
             background-color: #f3f4f6;
             padding: 1rem;
+            border-radius:15px;
             text-align: center;
         }
 
@@ -24,13 +27,45 @@
             gap: 1rem;
             padding: 1rem;
             margin-bottom: 40px;
+
         }
 
         p {
             text-align: justify;
             text-indent: 30px;
             white-space: pre-wrap;
+            cursor: default;
         }
+
+        .hover-this{
+            width:50%;
+            position: relative;
+            display: inline;
+            font-weight: bold;
+            font-style: italic;
+
+        }
+
+        .hover-text{
+            display: none;
+            position: absolute;
+            font-weight: normal;
+            font-style: normal;
+            text-align: center;
+            top: 100%; /* Position below the word */
+            background-color: yellow;
+            color: black;
+            padding: 5px;
+            border: 1px solid black;
+            border-radius: 5px;
+            z-index: 1;
+            white-space: normal; /* Use normal spacing */
+        }
+
+        .hover-this:hover .hover-text{
+            display: block;
+        }
+
     </style>
 </head>
 <body>
@@ -52,7 +87,7 @@
 
             Naupô sa isáng bató at warìng nag-iisíp. Sumipót sa kanyáng pagbubulaybulay ang mg̃a panahóng nakaraán na warìng isáng maitîm at mahabàng badhâ na mapulápulá sa simulâ, matapos ay nakapang̃ing̃ilabot, may bahid na dugô, at sa hulí’y maitím, maitím, abuhíng malinaw at untîuntîng lumiliwanag. Ang dakong dulo ay hindî mámalas sapagkâ’t nákakanlóng sa isáng ulap na nagbabanaag ng̃ liwanag at pagbubukáng liwaywáy......
 
-            May labíng tatlóng taón nang ganáp na ganáp na namatáy doón ang kanyáng iná, sa gitnâ ng̃ karalitàan, nang isáng magandáng gabí na ang buwan ay maliwanag at ang mg̃a kristiano sa bóong mundó ay naggagalák. Sugatín at pípiláy-piláy siyáng nakaratíng doon sa pagsunód sa kanyáng iná, at itó namán ay balíw at lipus katakutang lumalayô na warì’y anino sa kaniyáng anák. Doón namatáy; dumatíng ang isáng taong hindî niyá kilalá at ipinag-utos sa kanyáng magbuntón ng̃ kahoy, biglâ siyáng umalinsunod at ng̃ siyà’y bumalík ay isá pang hindî rin kilalá ang nátagpûán sa piling ng̃ bangkáy ng̃ una. ¡Anóng araw at gabí iyon! Tinulung̃an siyá noóng taong hindî kilalá sa <span class="hover-this">pagbubuntón <span class="hover-text"></span>̃</span> kahoy na pinagsunugan sa bangkáy ng̃ lalaki, hinukay ang pinagbaunan sa kanyáng iná at matapos abután siya ng̃ kauntîng <span class="hover-this">kuwalta <span class="hover-text">Pera o salapi.</span></span> ay ipinag-utos sa kaniyáng umalís sa pook na iyon. Noon lamang niyá nákita ang lalaking iyon; matangkád, mapupulá ang matá, mapuputlâ ang labì, matang̃os ang ilóng....
+            May labíng tatlóng taón nang ganáp na ganáp na namatáy doón ang kanyáng iná, sa gitnâ ng̃ karalitàan, nang isáng magandáng gabí na ang buwan ay maliwanag at ang mg̃a kristiano sa bóong mundó ay naggagalák. Sugatín at pípiláy-piláy siyáng nakaratíng doon sa pagsunód sa kanyáng iná, at itó namán ay balíw at lipus katakutang lumalayô na warì’y anino sa kaniyáng anák. Doón namatáy; dumatíng ang isáng taong hindî niyá kilalá at ipinag-utos sa kanyáng magbuntón ng̃ kahoy, biglâ siyáng umalinsunod at ng̃ siyà’y bumalík ay isá pang hindî rin kilalá ang nátagpûán sa piling ng̃ bangkáy ng̃ una. ¡Anóng araw at gabí iyon! Tinulung̃an siyá noóng taong hindî kilalá sa <span class="hover-this">pagbubuntón <span class="hover-text">pagtutok o pagpapahayag ng matinding galit o pagkabigo</span>̃</span> kahoy na pinagsunugan sa bangkáy ng̃ lalaki, hinukay ang pinagbaunan sa kanyáng iná at matapos abután siya ng̃ kauntîng <span class="hover-this">kuwalta <span class="hover-text">Pera o salapi.</span></span> ay ipinag-utos sa kaniyáng umalís sa pook na iyon. Noon lamang niyá nákita ang lalaking iyon; matangkád, mapupulá ang matá, mapuputlâ ang labì, matang̃os ang ilóng....
 
             Ulila ng̃ lubós, walâng magulang at kapatíd, ay iniwan niyá ang bayang iyon na mayroong mg̃a may kapangyarihang <span class="hover-this">kinasisindakán <span class="hover-text">Ang salitang "kinasisindakan" ay nangangahulugang isang bagay o sitwasyon na nagdudulot ng takot, pangamba, o kaba sa isang tao.</span></span> niyá at tumung̃o sa Maynilà upang pumasok na alilà sa isáng mayaman at mag-aral, na gaya ng̃ ginagawâ ng̃ ilán. Ang kaniyáng paglalakbáy ay isáng paglalagalág, punô ng̃ pagpupuyát at pag-aagam-agam, na ang gutom ay inaalintana. Ang ipinangtatawíd kagutuman niyá ay mg̃a bung̃ang kahoy ng̃ mg̃a kagubatang kaniyáng pinagtatagùan kailan ma’t nakakatanáw ng̃ suot guardia sibil, kasuotang nakapagpapaalaala ng̃ pinagbuhatan ng̃ kaniyáng mg̃a kasawîán. Nang nasa sa Maynilà na siyá, <span class="hover-this">gulágulanít <span class="hover-text">Magulo o magkasunod-sunod na kalat o aberya, madalas na ginagamit upang ilarawan ang isang sitwasyon na puno ng kalituhan o hindi maayos.</span></span> ang damít at may sakít pá ay dumulóg sa mg̃a baháybaháy at pumapasok na alilà. ¡Isáng batàng taga lalawigan na hindî marunong ng̃ ano mang wikàng kastilà at masasaktín pá! ¡Walâng pag-asa, dayukdók at hapís na gumalàgalà sa mg̃a lansang̃an na nápupuna ng̃ mg̃a táo dahil sa ayos na karumaldumal ng̃ kaniyang damít! ¡Makáilang tinangkâ ang payurak na sa mg̃a kabayo, na nang̃agdaraáng parang kidlát na hila ang mg̃a sasakyáng nagkikinang̃an sa pilak at barnís, upang matapos na ang kaniyáng mg̃a paghihirap! Salamat at nakitang nagdaán si kapitáng Tiago na kasama si tia Isabel; kilalá niyá ang mg̃a taong iyón mulâ sa San Diego at sa kaniyáng kagalakán ay inakalàng warì mg̃a kababayan níyáng mistulà. [53]Sinundan ang <span class="hover-this">karuahe, <span class="hover-text">Isang uri ng sasakyan na hinihila ng kabayo, karaniwang ginagamit sa mga pribilehiyadong tao o sa okasyon.</span></span> nawalâ sa kaniyáng paning̃ín, ipinagtanóng ang bahay, at sa dahiláng noóng araw na iyón pumasok si María Clara sa kombento at si kapitáng Tiago ay nalulungkót, ay nátanggáp siyáng alilà, na walâng upa, ng̃unì’t sa isáng dako namán ay may pahintulot siyáng makapag-aral, kung kailán niyá ibig, sa San Juan de Letrán.
 
@@ -79,7 +114,7 @@
             Dinalá siyáng galák na galák ng̃ mg̃a nag-aaral at iniharáp sa propesor; mulâ niyon ay nákilala siyá at kinagiliwan. Dahil sa pangyayaring itó at dahil din namán sa kaniyáng pagsusumigasig sa pag-aaral ay nagtamó siyá ng̃ mg̃a sobresaliente at medalla pá ng̃ taóng iyon. Sa nákitang itó, si kapitáng Tiago, na mulâ nang magmonha ang anák ay may pagkamuhî na sa mg̃a praile, sa isáng sandalîng masayá, ay inudyukán siyang lumipat sa Ateneo Municipal, na noon ay lubhâng nábabantóg.
 
             Isáng bagong mundó ang náhayág sa kaniyáng mg̃a matá, isáng paraan sa pag-aaral na hindî man niyá nahinalà na mákikita sa paaralang iyon. Líban sa iláng bagay na walâng malakíng kabuluhán at iláng bagay na walâng <span class="hover-this">kapararakan <span class="hover-text"> Ang "kapararakan" ay tumutukoy sa isang malupit na kalagayan o kaparusahan, karaniwan ito ay isang mabigat na kahihinatnan mula sa isang masamang gawain.</span></span> ay hinang̃àan ang pátakarang sinusunód doon sa pagtuturò at lubós ang kaniyáng pagkilala ng̃ utang na loob sa pagsusumakit ng̃ mg̃a gurô. Nápapaluhâ siyá kung minsán at naáalaala ang apat na taóng nakaraan na dahil sa kakulang̃án sa mágugugol ay hindî siyá nakapasok doon. Kinailang̃an niyáng gamitin ang lahát ng̃ pagsusumikap upang mapantayán ang nang̃agkaroon ng̃ mabuting pasimulâ at nasabi niyá sa sarili na nang taón lamang na iyón napagaralan niyá ang limáng taón ng̃ “segunda enseñanza”. Dinaan ang <span class="hover-this">bachillerato <span class="hover-text">Ang salitang "bachillerato" ay tumutukoy sa antas ng sekondaryang edukasyon sa maraming bansang nagsasalita ng Espanyol, katumbas ng high school diploma o pre-university education.
-            </span></span> sa gitnâ ng̃ kagalakán ng̃ kaniyáng mg̃a propesor at sa <span class="hover-this">paglilitis<span class="hover-text">Pormal na pagsusuri at pagdinig ng kaso sa hukuman.</span></span>ay ipinagmalakí siyá sa haráp ng̃ mg̃a hahatol na dominiko na pinaparoon upang makibatyág. Upáng mapawì ng̃ bahagyâ ang kagalakán ay tinanóng ang nililitis kung saan nag-aral ng̃ mg̃a unang taón sa latín.
+            </span></span> sa gitnâ ng̃ kagalakán ng̃ kaniyáng mg̃a propesor at sa <span class="hover-this">paglilitis<span class="hover-text">Pormal na pagsusuri at pagdinig ng kaso sa hukuman.</span></span> ay ipinagmalakí siyá sa haráp ng̃ mg̃a hahatol na dominiko na pinaparoon upang makibatyág. Upáng mapawì ng̃ bahagyâ ang kagalakán ay tinanóng ang nililitis kung saan nag-aral ng̃ mg̃a unang taón sa latín.
 
             —Sa San Juan de Letrán, Padre—ang sagot ni Basilio.
 
@@ -92,5 +127,8 @@
             Ang taóng itó’y siyáng hulíng taón ng̃ kaniyáng pag-aaral at sa loób ng̃ dalawáng buwan na lamang ay “médico” na siyá, uuwî na sa kaniyáng bayan, pakákasal kay Juliana at mamumúhay siláng maligaya. Ang pagtatamó niyá ng̃ “licenciatura” ay hindî lamang tiwasáy niyáng ináantáy kun dî ináasahan pá niyáng magigíng maningníng na pinakaputong ng̃ kaniyáng kabuhayan sa pag-aaral. Siyá ang nátakdâáng bibigkás ng̃ talumpatìng pagpapasalamat sa pagsusuót ng̃ “muceta”, at nákikiníkinitá na niyáng siyá’y nasa gitnâ ng̃ Paraninfo, sa haráp ng̃ lahát ng̃ nang̃agtuturò, at siyá ang pinagtiting̃inanan at pinakikinggan ng̃ madlâ. Lahát ng̃ ulong iyón na bantóg sa karunung̃an sa Maynilà na nang̃akalubóg halos sa kaniláng mg̃a muceta na ibá’t ibáng kulay, ang lahát ng̃ babaing dumaló dahil sa hang̃ád na makapanoód lamang, na noóng mg̃a taóng nakaraán ay hindî mán siyá nápuna, kundî mán nátingnan siyá na may pagwawalâng bahalà, ang lahát ng̃ kaginoóhang iyón na noóng siyá’y batà ay kauntî ng̃ pagulung̃an siyá sa karuaheng sinásakyan sa gitnâ ng̃ lusakán na warì áso lamang, sa mg̃a sandalíng iyón ay siyá ang pakikinggan, at ang mg̃a tuturan namán niyá ay mg̃a maiínam na bagay, yaóng hindî pá nádiding̃íg sa poók na iyón; lilimutin ang sarili upang alalahanin ang mg̃a kaawàawàng mag-aaral sa haharapín, at siyá’y papasok sa sosyedad sa pamagitan ng̃ talumpatìng yaón.
         </p>
     </main>
+    <div>
+        <a href="{{Route('quiz6')}}">QUIZ</a>
+    </div>
 </body>
 </html>

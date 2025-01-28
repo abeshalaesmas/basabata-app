@@ -259,7 +259,7 @@
     </main>
 
     <div>
-        <a href="{{Route('quiz1')}}">Next</a>
+        <a href="{{Route('quiz1')}}">QUIZ</a>
     </div>
 </body>
 </html>

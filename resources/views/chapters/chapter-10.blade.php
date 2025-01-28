@@ -7,14 +7,17 @@
     <title>CHAPTER X</title>
     <style>
         body {
+            background-color: #EEE9D1;
             margin: 50px; /* Adjust the margin size as needed */
-            font-family: 'Times New Roman', Times, serif;
+            font-family: 'Poppins', sans-serif; /* Changed font style */
+            font-size: 18px; /* Increased font size */
             line-height: 1.6;
         }
 
         header {
             background-color: #f3f4f6;
             padding: 1rem;
+            border-radius:15px;
             text-align: center;
         }
 
@@ -24,13 +27,45 @@
             gap: 1rem;
             padding: 1rem;
             margin-bottom: 40px;
+
         }
 
         p {
             text-align: justify;
             text-indent: 30px;
             white-space: pre-wrap;
+            cursor: default;
         }
+
+        .hover-this{
+            width:50%;
+            position: relative;
+            display: inline;
+            font-weight: bold;
+            font-style: italic;
+
+        }
+
+        .hover-text{
+            display: none;
+            position: absolute;
+            font-weight: normal;
+            font-style: normal;
+            text-align: center;
+            top: 100%; /* Position below the word */
+            background-color: yellow;
+            color: black;
+            padding: 5px;
+            border: 1px solid black;
+            border-radius: 5px;
+            z-index: 1;
+            white-space: normal; /* Use normal spacing */
+        }
+
+        .hover-this:hover .hover-text{
+            display: block;
+        }
+
     </style>
 </head>
 <body>
@@ -96,7 +131,7 @@
 
             Punôngpunô ng̃ mg̃a orasán, kalupì, lalagyán ng̃ pósporo at mg̃a agnós na pinamutihan ng̃ brillante at maninipís na mumuntîng larawang esmalte.
 
-            Ang pang-apat ay siyáng kinalalagyán ng̃ mg̃a lagás na bató, at ng̃ buksán, ay isáng paghang̃à ang kumalat sa bahay; nápapalaták na mulî si Sinang, kayâ’t kinurút siyá ng̃ [80]kaniyáng iná, ng̃unì’t itó mán ay nakabitíw din ng̃ isáng pahang̃àng ¡Sus María!
+            Ang pang-apat ay siyáng kinalalagyán ng̃ mg̃a lagás na bató, at ng̃ buksán, ay isáng paghang̃à ang kumalat sa bahay; nápapalaták na mulî si Sinang, kayâ’t kinurút siyá ng̃ kaniyáng iná, ng̃unì’t itó mán ay nakabitíw din ng̃ isáng pahang̃àng ¡Sus María!
 
             Hanggáng sa mg̃a sandalîng iyón ay walâ pang nakákikita ng̃ gayóng karaming kayamanan. Sa kahóng iyon, na may balot na tersiopelong bugháw na mang̃itímng̃itím, na may mg̃a halang, ay namamakás ang katunayan ng̃ mg̃a pang̃arap sa “Isáng libo’t isáng gabí”, ang pang̃arap ng̃ mg̃a salamisim sa kasilang̃anan. Mg̃a brillanteng kasinglakí ng̃ mg̃a garbansos na nagkikinang̃ang nagtatapon ng̃ kisláp na nakasisirà ng̃ matá, na warìng ibig matunaw ó mag-alab sa kintáb; mg̃a esmeraldang galing sa Perú na ibá’t ibá ang tapyás at ayos, mg̃a rubí sa India na mapupuláng warì’y paták ng̃ dugô, mg̃a sápiro sa Ceylán na bugháw at putî, mg̃a turkesa sa Persia, perlas na makinis ang balát, na ang ilan sa kanilá’y namúmulámulá, mang̃abóng̃abó at maitím. Ang makabubulay ng̃ anyô ng̃ sisidláng iyon, ay yaóng nakakita lamang sa gabí ng̃ isáng kuwitis na nagsabog ng̃ mumuntîng liwanag na sarìsarìng kulay, na ang kináng ay nakapagpapalamlám sa mg̃a walâng kupas na bituwin.
 
@@ -126,7 +161,7 @@
 
             —Ang pamuting itó sa liig ay kay Cleopatra—ang sabi ni Simoun at maing̃at na kinuha ang isáng kahang lapád na ang ayos ay kalahatìng buwán—isáng hiyás na hindî mahahalagahán, isáng bagay na nárarapat lamang ilagáy sa mg̃a museo, sa mg̃a pamahalàang mayayaman lamang nauúkol.
 
-            Yaón ay isáng warì’y kolyar na binúbuô ng̃ ibá’t ibáng palawít na gintô na mg̃a ayos anitong uwang na kulay dahon at bugháw, at sa gitnâ’y may isáng ulo ng̃ <span class="hover-this">buitre<span class="hover-text"> isang malaking ibon na may mahabang pakpak at matulis na tuka, kilala sa pagkain ng patay na hayop, karaniwang matatagpuan sa disyerto o bukas na kaparangan.</span><span>na gawâ sa bató, na ang kilabot ay katang̃ìtang̃ì, na nápapagitnâ sa dalawáng pakpák na nakabuká, sagisag at hiyas ng̃ mg̃a harìng babai sa Ehipto.
+            Yaón ay isáng warì’y kolyar na binúbuô ng̃ ibá’t ibáng palawít na gintô na mg̃a ayos anitong uwang na kulay dahon at bugháw, at sa gitnâ’y may isáng ulo ng̃ <span class="hover-this">buitre <span class="hover-text"> isang malaking ibon na may mahabang pakpak at matulis na tuka, kilala sa pagkain ng patay na hayop, karaniwang matatagpuan sa disyerto o bukas na kaparangan.</span></span>na gawâ sa bató, na ang kilabot ay katang̃ìtang̃ì, na nápapagitnâ sa dalawáng pakpák na nakabuká, sagisag at hiyas ng̃ mg̃a harìng babai sa Ehipto.
 
             Nang makita ni Sinang ay ikinimbót ang ilóng at ng̃umuwîng paalipustâ na warì’y batà, at si kapitang Basilio kahi’t na may malakíng hilig sa mg̃a lumàng arì ay hindî nakapigil ng̃ isáng ¡abá! na anák ng̃ hindî kasiyaháng loób sa nákita.
 
@@ -229,5 +264,8 @@
                 Kasingkahulugan: Litisin, kasuhan, magsakdal</span></span>, inilayô kayó sa yakap ng̃ inyóng mg̃a asawa at sa halík ng̃ inyóng mg̃a anák.... Mahigít sa tiniís ni kabisang Tales ang tiniís ng̃ bawà’t isá sa inyó, ng̃unì’t gayón man, ay walâ sa inyóng naghigantí. Hindî nagkaroón sa inyó ng̃ ling̃ap ni kaawàan at pinag-usig pa kayó hangáng sa kabilâng buhay, gaya ng̃ ginawâ kay Mariano Herbosa.... ¡Lumuhà kayó ó matuwâ sa mg̃a liblíb na pulông iyóng linálagalág nang hindî alám ang sasapitin! <span class="hover-this">Kinakandili <span class="hover-text">ang pagbibigay suporta at malasakit sa isang tao, lalo na sa pangangailangan, upang makatulong sa kanilang pag-unlad o pagbangon sa mga pagsubok.</span></span>kayó ng̃ España, at sa málao’t mádalî ay tatamuhín ninyó ang katwiran!
         </p>
     </main>
+    <div>
+        <a href="{{Route('quiz10')}}">QUIZ</a>
+    </div>
 </body>
 </html>
