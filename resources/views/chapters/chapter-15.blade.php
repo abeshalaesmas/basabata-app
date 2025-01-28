@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>SI G. PASTA</title>
     <style>
         body {
             margin: 50px; /* Adjust the margin size as needed */
@@ -30,6 +30,34 @@
             text-align: justify;
             text-indent: 30px;
             white-space: pre-wrap;
+            cursor: default;
+        }
+
+        .hover-this{
+            width:50%;
+            position: relative;
+            display: inline;
+            font-weight: bold;
+            font-style: italic;
+        }
+
+        .hover-text{
+            background-color: yellow;
+            display: none;
+            position: absolute;
+            font-weight: normal;
+            font-style: normal;
+            top: 100%; /* Position below the word */
+            background-color: #f1f1f1;
+            color: black;
+            padding: 5px;
+            border: 1px solid #ccc;
+            z-index: 1;
+            white-space: normal; /* Use normal spacing */
+        }
+
+        .hover-this:hover .hover-text{
+            display: block;
         }
     </style>
 </head>

@@ -60,7 +60,6 @@
         .hover-this:hover .hover-text{
             display: block;
         }
-
     </style>
 </head>
 <body>
