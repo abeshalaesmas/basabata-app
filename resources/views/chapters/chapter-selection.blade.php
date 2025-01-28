@@ -7,10 +7,9 @@
   <title>El Filibusterismo</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
   <style>
     body {
-      
       font-family: 'Poppins', sans-serif; 
     }
     /* Custom scrollbar styles */
@@ -27,21 +26,21 @@
     ::-webkit-scrollbar-thumb:hover {
       background: #555;
     }
+    
   </style>
 </head>
 
 
-<body>
+<body class="font-poppins">
   @include('components.header')
 
 
-    <main class="grid grid-cols-2 gap-8">
+    <main class="grid grid-cols-2 gap-8 ">
      
         <img class="rounded-l shadow-lg p-6 flex items-center" src="{{ asset('/images/El Fili.png') }}" alt="Library" id="left-game-img"/>
     
       <section class="bg-yellow-200 rounded-xl shadow-lg p-6">
-        <h3 class="text-xl font-bold  mb-4">Kabanata</h3>
-        <ul class="space-y-2 max-h-64 overflow-y-auto">
+        <ul class="space-y-2 max-h-[400px] overflow-y-auto">
             <li class="bg-yellow-300 p-2 rounded"><a href="{{route('chapter1')}}" class=" text-gray-900">Kabanata 1</a></li>
             <li class="bg-yellow-300 p-2 rounded"><a href="{{route('chapter2')}}" class=" text-gray-900">Kabanata 2</a></li>
             <li class="bg-yellow-300 p-2 rounded"><a href="{{route('chapter3')}}" class=" text-gray-900">Kabanata 3</a></li>

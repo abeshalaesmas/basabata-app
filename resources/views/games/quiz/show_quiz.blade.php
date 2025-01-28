@@ -15,7 +15,7 @@
     <div class="container mx-auto p-4">
         <h1 class="text-3xl font-bold mb-4 text-yellow-500">QUIZZES</h1>
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-            <a href="{{ route('quiz1') }}" class="flex items-center justify-center p-4 bg-white shadow-md rounded-lg text-yellow-500 hover:bg-yellow-100">Quiz 1</a>
+            <a href="{{ route('quiz1') }}" class="flex items-center justify-center p-4 bg-white shadow-md rounded-lg text-black-500 hover:bg-yellow-100">Quiz 1</a>
             <a href="{{ route('quiz2') }}" class="flex items-center justify-center p-4 bg-white shadow-md rounded-lg text-yellow-500 hover:bg-yellow-100">Quiz 2</a>
             <a href="{{ route('quiz3') }}" class="flex items-center justify-center p-4 bg-white shadow-md rounded-lg text-yellow-500 hover:bg-yellow-100">Quiz 3</a>
             <a href="{{ route('quiz4') }}" class="flex items-center justify-center p-4 bg-white shadow-md rounded-lg text-yellow-500 hover:bg-yellow-100">Quiz 4</a>

@@ -61,6 +61,11 @@
                         <p class="mb-2"><strong>Email:</strong> {{ Auth::user()->email }}</p>
                         <p><strong>Bio:</strong> {{ Auth::user()->profile->bio ?? 'Create your motto now!' }}</p>
                     </div>
+                    <form action="/logout" method="POST" class="m-0">
+                        <!-- Add CSRF Token for Laravel -->
+                        <input type="hidden" name="_token" value="{{ csrf_token() }}">
+                        <button id="Logout" type="submit" class="bg-red-500 text-white px-4 py-2 rounded hover:bg-red-600 left-0">Logout</button>
+                    </form>
                 </div>
             </div>
         </div>
