@@ -113,7 +113,7 @@
 
         Si Sandoval, dahil sa kaniyáng pagkakastilà at pagkamalayà, ay nag-iinit:
 
-        —¡Ng̃unì’t p....!—aniyá—ang ganiyán ay isáng paghihinalà ng̃ masamâ sa General! ¡Alám ko ng̃âng nápakamakaprayle, [129]ng̃unì’t sa mg̃a ganiyáng bagay ay hindî napasúsulsol sa mg̃a prayle! ¿Ibig bagá ninyóng turan sa akin, Pecson, kung anó ang pinanunulayán ninyó sa pagsasabing walâng sariling pasiyá ang General?
+        —¡Ng̃unì’t p....!—aniyá—ang ganiyán ay isáng paghihinalà ng̃ masamâ sa General! ¡Alám ko ng̃âng nápakamakaprayle, ng̃unì’t sa mg̃a ganiyáng bagay ay hindî napasúsulsol sa mg̃a prayle! ¿Ibig bagá ninyóng turan sa akin, Pecson, kung anó ang pinanunulayán ninyó sa pagsasabing walâng sariling pasiyá ang General?
 
         —Hindî iyán ang sinasabi ko, Sandoval—ang sagót ni Pecson na sa pagtawa’y ipinatátanáw halos ang kaniyáng hulíng bagáng—sa ganáng akin, ang General, ay may sariling kapasiyahán, itó ng̃â, ang kápasiyahán sa lahát ng̃ nasa abót ng̃ kaniyang kamáy...... ¡Itó’y lubhâng maliwanag!
 

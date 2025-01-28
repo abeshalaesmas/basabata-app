@@ -2,39 +2,24 @@ const questions = [
     {
         question: "Paano ginamit ang salitang 'alapot' sa pangungusap mula sa akdang El Filibusterismo? 'Nakatayông ang paa’y nakabikakâ upáng makapanimbang warî, ang mg̃a kamáy ay nakapasok sa mg̃a alapót ng̃ kaniyáng chaqueta. 'Nakatayông ang paa’y nakabikakâ upáng makapanimbang warî, ang mg̃a kamáy ay nakapasok sa mg̃a alapót ng̃ kaniyáng chaqueta.'",
         answers: [
-<<<<<<< HEAD
             {text: "a) Bilang dekorasyon ng chaqueta", correct: false},
             {text: "b) Bilang bulsa ng chaqueta", correct: true},
             {text: "c) Bilang tela ng chaqueta", correct: false},
             {text: "d) Bilang bahagi ng disenyo ng chaqueta", correct: false}
-=======
-            {text: "a) Gawin nang walang kahusayan", correct: false},
-            {text: "b) Gawin nang may kahusayan at pagsisikap", correct: true},
-            {text: "c) Gawin nang walang ayos", correct: false},
-            {text: "d) Gawin nang walang ayos", correct: false},
->>>>>>> 7bae98628b1c724a1a4e9becd5a5f732efd3f8a5
         ]
     },
     {
         question: "Sa pangungusap mula sa akdang El Filibusterismo, paano ginamit ang salitang 'cubierta'? 'Sa ilalim ng̃ cubierta ay nang̃agdung̃aw ang mg̃a mukhâng kayumanggí at maiitim ng̃ mg̃a taga rito, mg̃a insík at mestiso na nagkakasiksikang kasama ng̃ mg̃a lulang kalakal at mg̃a kabán, samantalang sa itaás, sa ibabaw ng̃ cubierta at sa lilim ng̃ isáng panambil na nagtatanggol sa kanilá sa init ng̃ araw, ay nang̃akaupô sa maginhawang luklukan ang iláng sakáy na suot taga Europa.'",
         answers: [
-<<<<<<< HEAD
             {text: "a) Bahagi ng bangka o barko na nagsisilbing silungan para sa mga pasahero at kargamento", correct: true},
             {text: "b) Isang uri ng kasuotan ng mga taga-Europa", correct: false},
             {text: "c) Bahagi ng kagubatan na nagtatakip sa sikat ng araw", correct: false},
             {text: "d) Isang pamagat ng aklat na binanggit sa akda", correct: false}
-=======
-            {text: "a) Kaligayahan", correct: false},
-            {text: "b) Kaligayahan", correct: false},
-            {text: "c) Pagpapala", correct: false},
-            {text: "d) Hindi kanais-nais na kalagayan", correct: true},
->>>>>>> 7bae98628b1c724a1a4e9becd5a5f732efd3f8a5
         ]
     },
     {
         question: "Paano ginamit sa pangungusap sa akdang El Filibusterismo ang salitang 'ikinabuwal'? 'Minsa’y sa pagsunód sa daáng itinuturò ng̃ iláng kawayang nakatirik sa ilog ay lumalakad ng̃ boông kasiyahang loób ang bapor; ng̃unì’t ang isáng biglâng pagkakabagók ay kauntî nang ikinabuwal ng̃ mg̃a sakáy.'",
         answers: [
-<<<<<<< HEAD
             {text: "a) a. Ginamit ito upang ipakita ang malubhang epekto ng pagkakabagok sa mga sakay ng bapor.", correct: false},
             {text: "b) Inilalarawan nito ang pagkawala ng balanse ang mga sakay ng bapor dahil sa biglaang sagabal.", correct: true},
             {text: "c) Tumutukoy ito sa damdamin ng mga sakay matapos maapektuhan ng pagkakabagok.", correct: false},
@@ -104,16 +89,6 @@ const questions = [
             {text: "d) Ang bapor Tabò ay isang makabagong sasakyang-pandagat na simbolo ng progreso sa Pilipinas.", correct: false}
         ]
     },
-=======
-            {text: "a) Matalino at may kaalaman", correct: false},
-            {text: "b) Kaligayahan", correct: false},
-            {text: "c) Kulang sa kaalaman at hindi nagpapakita ng matalinong pag-iisip", correct: true},
-            {text: "d)  May mataas na antas ng pag-unawa", correct: false},
-        ]
-    },
-    
-   
->>>>>>> 7bae98628b1c724a1a4e9becd5a5f732efd3f8a5
 
 ];
 
