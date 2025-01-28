@@ -10,6 +10,7 @@
     <meta name="user-id" content="{{ auth()->user()->id }}">
 </head>
 <body>
+
     <div class="app">
         <h1>Quiz 1</h1>
         <div class="quiz">
@@ -22,6 +23,6 @@
         </div>
     </div>
     <script src="{{asset('js/quizzes/quiz-1.js')}}"></script>
-    @include('components.navbar')
+    
 </body>
 </html>

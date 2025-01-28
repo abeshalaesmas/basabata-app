@@ -44,5 +44,6 @@
         <div class="meaning" id="meaning"></div>
     </div>
     <button onclick="shuffleWord()">Shuffle</button>
+    @include('components.navbar')
 </body>
 </html>
