@@ -59,7 +59,7 @@
         .hover-this:hover .hover-text{
             display: block;
         }
-        
+
     </style>
 </head>
 <body>
@@ -69,31 +69,31 @@
 
     <main>
         <p>
-            Ang kataastaasang Capitan General at Namamahalà sa Kapulùang Pilipinas ay nang̃aso sa Busóbusó.—Ng̃unì’t sa dahiláng may abay na isáng bandang músika (sapagka’t ang gayóng kataás na tao’y hindî dapat máhulí sa mg̃a santóng kahoy na ipinagpuprusisyón) at sa dahiláng ang pagkagiliw sa dî matingkalâng arte ni Sta. Cecilia ay hindî pa laganap sa ugalì ng̃ mg̃a usá at baboy-damó sa Busóbusó, ay walâng nahuli ni isá mang dagâ, ni ibon, ang General na may kasamang banda ng̃ músika at kaalakbáy na mg̃a prayle, mg̃a militar at mg̃a kawaní.
+            Ang kataastaasang Capitan General at Namamahalà sa Kapulùang Pilipinas ay nang̃aso sa Busóbusó.—Ng̃unì’t sa dahiláng may abay na isáng bandang músika (sapagka’t ang gayóng kataás na tao’y hindî dapat máhulí sa mg̃a santóng kahoy na <span class=hover-this>ipinagpuprusisyón) <span class=hover-text>isang bagay na may labis na pagsusumikap o pagpapagal, na kadalasan ay may kasamang sakripisyo, upang makamit ang isang layunin.</span></span>at sa dahiláng ang pagkagiliw sa dî matingkalâng arte ni Sta. Cecilia ay hindî pa laganap sa ugalì ng̃ mg̃a usá at baboy-damó sa Busóbusó, ay walâng nahuli ni isá mang dagâ, ni ibon, ang General na may kasamang banda ng̃ músika at kaalakbáy na mg̃a prayle, mg̃a militar at mg̃a kawaní.
 
-            Inakalà na ng̃ mg̃a may kapangyarihan sa lalawigan na may maaalis sa katungkulan ó kayâ’y malilipat; ang mg̃a kaawàawàng kapitán sa bayan at mg̃a kabisa ay hindî nang̃ápalagáy at hindî nang̃ákatulóg sa pang̃ang̃anib na baká masumpung̃án ng̃ maalindog na máng̃ang̃asó ang ipalít silá sa mg̃a hayop sa gubat na hindî marunong umalinsunod, gaya ng̃ ginawâ na ng̃ isáng alcalde noóng mg̃a nakaraáng araw na napapasán sa tao, sa boô niyáng paglalakbáy, sapagkâ’t walâng mabaít na kabayong maaásahang hindî magbabagsák sa kaniyá. May isáng balitàng kumalat na mayroón ng̃âng gagawín ang General sapagka’t ang gayóng pangyayari umanó ay isáng simulâ ng̃ paghihimagsík na dapat sugpûín kaagád: na ang isáng pang̃ang̃asong walâng náhuli ay makasisirâ sa karang̃alan ng̃ mg̃a kastilà, at ibp., at humanap na tuloy ng̃ isáng kahabaghabág na taong papagsusuutín ng̃ suot usá, nang sinabi ng̃ General (sa udyók ng̃ isáng pagkahabág na [89]hindî natimbang̃án ni Ben Zayb ng̃ salitâng pagpuri) at pinawì ang lahát ng̃ pang̃ambá at sinabi, na siyá’y naaawàng pumatáy ng̃ mg̃a hayop sa gubat.
+            Inakalà na ng̃ mg̃a may kapangyarihan sa lalawigan na may maaalis sa katungkulan ó kayâ’y malilipat; ang mg̃a kaawàawàng kapitán sa bayan at mg̃a kabisa ay hindî nang̃ápalagáy at hindî nang̃ákatulóg sa pang̃ang̃anib na baká masumpung̃án ng̃ maalindog na máng̃ang̃asó ang ipalít silá sa mg̃a hayop sa gubat na hindî marunong umalinsunod, gaya ng̃ ginawâ na ng̃ isáng alcalde noóng mg̃a nakaraáng araw na napapasán sa tao, sa boô niyáng paglalakbáy, sapagkâ’t walâng mabaít na kabayong maaásahang hindî magbabagsák sa kaniyá. May isáng balitàng kumalat na mayroón ng̃âng gagawín ang General sapagka’t ang gayóng pangyayari umanó ay isáng simulâ ng̃ paghihimagsík na dapat sugpûín kaagád: na ang isáng pang̃ang̃asong walâng náhuli ay makasisirâ sa karang̃alan ng̃ mg̃a kastilà, at ibp., at humanap na tuloy ng̃ isáng kahabaghabág na taong papagsusuutín ng̃ suot usá, nang sinabi ng̃ General (sa udyók ng̃ isáng pagkahabág na hindî natimbang̃án ni Ben Zayb ng̃ salitâng pagpuri) at pinawì ang lahát ng̃ pang̃ambá at sinabi, na siyá’y naaawàng pumatáy ng̃ mg̃a hayop sa gubat.
 
-            Kung ipagtatapát ay sadyâ ng̃âng nasisiyahang loob ang General at inter se ay nalulugód siyá, sa dahiláng ¿anó ang nangyari sana kung hindî tumamà sa pagtudlâ sa isáng usá na hindî nakababatíd ng̃ ugalìng dapat ipamalas sa mg̃a gayóng kaparaanan? ¿saán masasadlák ang karang̃alan ng̃ nakapamamahalà? ¿Bákit? ¡Isá ba namáng Capitang General ang hindî tumamà na warì’y bagong nang̃ang̃aso! ¿anó na lamang ang wiwikàin ng̃ mg̃a indio, na, sa kanilá’y mayroón din namáng iláng mabuting manudlâ? Málalagáy sa kapang̃aniban ang tíbay ng̃ Inang bayan.....
+            Kung ipagtatapát ay sadyâ ng̃âng nasisiyahang loob ang General at inter se ay nalulugód siyá, sa dahiláng ¿anó ang nangyari sana kung hindî tumamà sa pagtudlâ sa isáng usá na hindî nakababatíd ng̃ ugalìng dapat ipamalas sa mg̃a gayóng kaparaanan? ¿saán <span class=hover-this>masasadlák <span class=hover-text>isang tao na malulugmok sa isang mahirap o malupit na kalagayan</span></span>ang karang̃alan ng̃ nakapamamahalà? ¿Bákit? ¡Isá ba namáng Capitang General ang hindî tumamà na warì’y bagong nang̃ang̃aso! ¿anó na lamang ang wiwikàin ng̃ mg̃a indio, na, sa kanilá’y mayroón din namáng iláng mabuting <span class=hover-this>manudlâ? <span class=hover-text>gumamit ng baril o anumang paraan upang tumpak na maghatid o magpaputok patungo sa tinutukoy na layunin o lokasyon</span></span> Málalagáy sa kapang̃aniban ang tíbay ng̃ Inang bayan.....
 
-            Yaón ang sanhî kung kayâ’t ipinag-utos ng̃ General (na nakatawa ng̃ tawang koneho at anyông mang̃ang̃asong masamâ ang loób) ang pagbabalík kaagád sa Los Baños, at ipinaghambóg, sa paglalakbáy, ang kaniyáng kagiting̃an sa pang̃ang̃aso sa ganitó ó gayóng páng̃asuhán sa España at warìng ibig ipahiwatig ang pag-alipustâ niyá sa mg̃a pang̃ang̃aso sa Pilipinas, bagay na inaakalàng kapit sabihin dahil sa nangyari; ¡psé! ang paliligò sa Dampalít (daáng paliit), ang sigang̃an sa baybay ng̃ lawà, ang paglalarô ng̃ tresillo sa palasyo at pagdayo sa gayón ó ganitong kalapít na binúbulusán ng̃ tubig ó sa lawàng kinalalagyán ng̃ mg̃a buwaya ay mainam pá kay sa roón at hindî pá mápapará ang karang̃alan ng̃ inang bayan.
+            Yaón ang sanhî kung kayâ’t ipinag-utos ng̃ General (na nakatawa ng̃ tawang koneho at anyông mang̃ang̃asong masamâ ang loób) ang pagbabalík kaagád sa Los Baños, at ipinaghambóg, sa paglalakbáy, ang kaniyáng kagiting̃an sa pang̃ang̃aso sa ganitó ó gayóng páng̃asuhán sa España at warìng ibig ipahiwatig ang pag-alipustâ niyá sa mg̃a pang̃ang̃aso sa Pilipinas, bagay na inaakalàng kapit sabihin dahil sa nangyari; ¡psé! ang paliligò sa Dampalít (daáng paliit), ang sigang̃an sa baybay ng̃ lawà, ang paglalarô ng̃ tresillo sa palasyo at pagdayo sa gayón ó ganitong kalapít na binúbulusán ng̃ tubig ó sa lawàng kinalalagyán ng̃ mg̃a buwaya ay mainam pá kay sa roón at hindî pá <span class="hover-this">mápapará <span class="hover-text">magiging sanhi o magiging dahilan ng isang bagay, karaniwang tumutukoy sa mga aksyon o pangyayari na magdudulot ng masamang resulta o epekto</span></span> ang karang̃alan ng̃ inang bayan.
 
-            Nang isá sa mg̃a hulíng araw ng̃ buwan ng̃ Disiembre ay nakikipaglarô ng̃ tresillo ang Capitang General samantalang inaantáy ang oras ng̃ pananghalìan. Katatapos pá lamang niyáng maligò at pag-inom ng̃ isáng basong sabáw at lamán ng̃ buko, kayâ’t ang mg̃a sandalîng iyón ay siyáng bagay samantalahín sa paghing̃î ng̃ mg̃a biyayà. Isá pang nakapagpaparagdág sa kaniyang katuwâan ang pananalo, sapagkâ’t pinupunyagî ni P. Irene at ni P. Sibyla, na kaniyang mg̃a kalaban, ang lihim na pagpapataló, samantala namáng si P. Camorra ay nagng̃íng̃itng̃ít sapagkâ’t, sa dahiláng karáratíng pa lamang ng̃ umagang yaón ay hindî niyá batíd ang mg̃a pakanáng iyón. Sa dahiláng pinagbubuti ng̃ parìng-artillero ang pakikipaglarô ay namúmulá at nápapakagát labì sa tuwîng malilibáng ó mámamalî sa pagsugál [90]si P. Sibyla, ng̃unì’t hindî siyá makaimík dahil sa malakí niyáng pag-aalang-alang sa dominiko; datapwâ’y si P. Irene namán ang pinagbubuntuhán niyá ng̃ galit, sapagkâ’t ipinagpápalagáy niyáng mapagpusà at sa gitnâ ng̃ kaniyáng kabuhalhalan ay dî binibigyáng halagá. Hindî man lamang siyá tinitingnán ni P. Sibyla: binabayàan siyáng mag-uung̃ól; datapwâ si P. Irene, sa dahiláng mapakumbabâ, ay humihing̃îng tawad samantalang hinihimas ang tungkil ng̃ mahabà niyáng ilóng. Ang General namán ay nagagalák at sinasamantalá ang pagkakámalî ng̃ kaniyáng mg̃a kalaban, sapagkâ’t siyá’y mabuting magparaán, alinsunod sa payo ng̃ kanónigo. Hindî batíd ni P. Camorra na ang pinaglalaruán sa ibabaw ng̃ dulang na iyón ay ang ikalulusog ng̃ pag-iisip ng̃ mg̃a pilipino, ang pagtuturò ng̃ wikàng kastilà, sapagkâ’t kung nalalaman niyá, ay malugód sanang nakihalò sa láruan.
+            Nang isá sa mg̃a hulíng araw ng̃ buwan ng̃ Disiembre ay nakikipaglarô ng̃ <span class="hover-this">tresillo <span class="hover-text">isang uri ng laro o isang instrumentong pang-musika</span></span>ang Capitang General samantalang inaantáy ang oras ng̃ pananghalìan. Katatapos pá lamang niyáng maligò at pag-inom ng̃ isáng basong sabáw at lamán ng̃ buko, kayâ’t ang mg̃a sandalîng iyón ay siyáng bagay samantalahín sa paghing̃î ng̃ mg̃a biyayà. Isá pang nakapagpaparagdág sa kaniyang katuwâan ang pananalo, sapagkâ’t pinupunyagî ni P. Irene at ni P. Sibyla, na kaniyang mg̃a kalaban, ang lihim na pagpapataló, samantala namáng si P. Camorra ay <span class="hover-this">nagng̃íng̃itng̃ít <span class="hover-text">Matinding galit o inis na nararamdaman dahil sa labis na pagkadismaya o pagkagalit sa isang sitwasyon o tao, na may sobrang intensidad ng emosyon. </span> </span> sapagkâ’t, sa dahiláng karáratíng pa lamang ng̃ umagang yaón ay hindî niyá batíd ang mg̃a pakanáng iyón. Sa dahiláng pinagbubuti ng̃ parìng-artillero ang pakikipaglarô ay namúmulá at nápapakagát labì sa tuwîng malilibáng ó mámamalî sa pagsugál si P. Sibyla, ng̃unì’t hindî siyá makaimík dahil sa malakí niyáng pag-aalang-alang sa dominiko; datapwâ’y si P. Irene namán ang pinagbubuntuhán niyá ng̃ galit, sapagkâ’t ipinagpápalagáy niyáng <span class="hover-this">mapagpusà <span class="hover-text">isang tao na may likas na kagustuhan o pananabik sa mga bagay na hindi maiiwasan o hindi nararapat</span></span>at sa gitnâ ng̃ kaniyáng <span class="hover-this">kabuhalhalan <span class="hover-text">pagiging magulo, maingay, at walang preno sa kilos at pananalita, madalas ay labag sa kaugalian</span></span> ay dî binibigyáng halagá. Hindî man lamang siyá tinitingnán ni P. Sibyla: binabayàan siyáng mag-uung̃ól; datapwâ si P. Irene, sa dahiláng mapakumbabâ, ay humihing̃îng tawad samantalang hinihimas ang tungkil ng̃ mahabà niyáng ilóng. Ang General namán ay nagagalák at sinasamantalá ang pagkakámalî ng̃ kaniyáng mg̃a kalaban, sapagkâ’t siyá’y mabuting magparaán, alinsunod sa payo ng̃ kanónigo. Hindî batíd ni P. Camorra na ang pinaglalaruán sa ibabaw ng̃ dulang na iyón ay ang ikalulusog ng̃ pag-iisip ng̃ mg̃a pilipino, ang pagtuturò ng̃ wikàng kastilà, sapagkâ’t kung nalalaman niyá, ay malugód sanang nakihalò sa láruan.
 
-            Sa mg̃a durung̃awáng bukás ay pumapasok ang malinis at masaráp na simoy at nátatanaw ang lawà, na ang kaniyáng tubig ay mahinhíng bumúbulong, sa paanan ng̃ bahay, na warìng nang̃ang̃ayumpapà. Sa dakong kanan, sa malayò, ay nátatanáw ang pulông Talím na lubhâng bugháw; sa gitnâ ng̃ lawà at halos katapát lamang ay may isáng pulông kulay dahon, ang pulô sa Kalambâ, na walâng tao at ang ayos ay warìng kabiyak na buan; sa kaliwâ, ang magandáng pángpang̃in na nahihiyasán ng̃ kakawayanán, isáng bundók bundukang tanáw ang boong lawà, malalawak na bukirín, sa dako pá roon ay bubóng na sagà sa mg̃a pagitan ng̃ kulay na berdeng maitímitím ng̃ mg̃a dahon, pagkatapos ay ang bayang Kalambâ at sa hulíng dakong abót ng̃ tanáw ay warìng bumábabâ ang lang̃it sa tubig ng̃ lawà na anyông dagat, na siyáng sanhîng tawagin siyáng “dagat na tabáng” ng̃ mg̃a taga roon.
+            Sa mg̃a durung̃awáng bukás ay pumapasok ang malinis at masaráp na simoy at nátatanaw ang lawà, na ang kaniyáng tubig ay mahinhíng bumúbulong, sa paanan ng̃ bahay, na warìng <span class="hover-this">nang̃ang̃ayumpapà <span class="hover-text">isang tao na mahina, tila nalulumbay o napapagod.</span></span> Sa dakong kanan, sa malayò, ay nátatanáw ang pulông Talím na lubhâng bugháw; sa gitnâ ng̃ lawà at halos katapát lamang ay may isáng pulông kulay dahon, ang pulô sa Kalambâ, na walâng tao at ang ayos ay warìng kabiyak na buan; sa kaliwâ, ang magandáng pángpang̃in na nahihiyasán ng̃ kakawayanán, isáng bundók bundukang tanáw ang boong lawà, malalawak na bukirín, sa dako pá roon ay bubóng na sagà sa mg̃a pagitan ng̃ kulay na berdeng maitímitím ng̃ mg̃a dahon, pagkatapos ay ang bayang Kalambâ at sa hulíng dakong abót ng̃ tanáw ay warìng bumábabâ ang lang̃it sa tubig ng̃ lawà na anyông dagat, na siyáng sanhîng tawagin siyáng “dagat na tabáng” ng̃ mg̃a taga roon.
 
             Sa isáng dulo ng̃ salas ay nároroon ang kalihim na nakaupô sa haráp ng̃ isáng mesa na kinapapatung̃an ng̃ iláng putol na papel. Ang General ay masipag at hindî niya ibig ang mag-aksayá ng̃ panahón, kayâ’t tinatapos ang iláng gáwàin samantalang nag-aalkalde sa tresillo ó samantalang namimigáy ng̃ baraha.
 
-            Samantala namáng naglalarùan ay naghihikáb at nabubugnót ang kalihim. Ang ginágawâ sa umagang iyon ay ang pagpapalitpalit ng̃ bayang dapat kalagyán ng̃ mg̃a kawaní, [91]mg̃a pag-aalís sa katungkulan, pagpapatapon sa malayòng lupà, pagbibigáy ng̃ biyayà at ibp., ng̃unì’t hindî pá dumárating sa malakíng usapang inaantáy ng̃ lahát, ang ukol sa kahiling̃an ng̃ mg̃a nag-aaral na pahintulutan siláng makapagtayô ng̃ isáng Academia ng̃ wikàng kastilà.
+            Samantala namáng naglalarùan ay naghihikáb at <span class= hover-this>nabubugnót <span class= hover-text>pakiramdam ng pagkapagod, pagkabigo, o kalungkutan. pakiramdam ng pagkapagod, pagkabigo, o kalungkutan</span></span>ang kalihim. Ang ginágawâ sa umagang iyon ay ang pagpapalitpalit ng̃ bayang dapat kalagyán ng̃ mg̃a kawaní, mg̃a pag-aalís sa katungkulan, pagpapatapon sa malayòng lupà, pagbibigáy ng̃ biyayà at ibp., ng̃unì’t hindî pá dumárating sa malakíng usapang inaantáy ng̃ lahát, ang ukol sa kahiling̃an ng̃ mg̃a nag-aaral na pahintulutan siláng makapagtayô ng̃ isáng Academia ng̃ wikàng kastilà.
 
             Ang isáng kawaníng may mataas na katungkulan, si don Custodio at isáng prayleng nakatung̃ó at warìng may iniisip ó may kabigatan ang loob (P. Fernandéz ang kaniyáng pang̃alan) ay nang̃agtatalong marahan ang usapan, samantalang payao’t dito silá sa dalawáng dulo ng̃ salas. Sa isáng silíd na kalapít ay nádiding̃íg ang tunóg ng̃ mg̃a bola ng̃ billar, tawanan, halakhakan, ang boses ni Simoun; itó’y nakikipagbillar kay Ben Zayb.
 
             Si P. Camorra ay bigláng nagtindíg.
 
-            —¡Si Cristo na ang makisugal sa inyó, puñales!—ang pabulalás na sabing kasabáy ang paghahagis ng̃ mg̃a barahang nálalabí sa kaniyá, sa ulo ni P. Irene—¡puñales! ang tayâ ay sigurong siguro na, kundî man ang codillo, at natalo pá dahil sa tawag! ¡Puñales! si Cristo na ang makisugal!
+            —¡Si Cristo na ang makisugal sa inyó, puñales!—ang pabulalás na sabing kasabáy ang paghahagis ng̃ mg̃a barahang nálalabí sa kaniyá, sa ulo ni P. Irene—¡ <span class=hover-this>puñales! <span class=hover-text>isang exclamation na tumutukoy sa "mga punyal!" o "mga kutsilyo!" sa Filipino</span></span>ang tayâ ay sigurong siguro na, kundî man ang codillo, at natalo pá dahil sa tawag! ¡Puñales! si Cristo na ang makisugal!
 
             At galít na galít na isinasalaysáy sa lahát ng̃ naroroon ang pangyayari, lalòng lalò na sa tatlóng naglalakád, na warìng siyáng ibig niyang pahatulin. Sumúsugal ang General, siyá ay laban, may tiklóp na si P. Irene: humatak siyá sa espada at ¡puñales! hindî pinasunód ng̃ kamoteng si P. Irene ang kaniyáng masamâng baraha. ¡Si Cristo na ang makilarô! Siya’y hindî naparoon doon upáng magpatalo ng̃ salapî at durugin ang kaniyáng ulo sa walâng kapararakan.
 
-            —Ang akalà marahil ng̃ neneng itó—ang patuloy na námumulá—ay kinikita ko ang salapî ng̃ papalikwatlikwat lamang. ¡Ng̃ayón pá namáng ang aking mg̃a tao’y nang̃agsisitawad na!
+            —Ang akalà marahil ng̃ neneng itó—ang patuloy na námumulá—ay kinikita ko ang salapî ng̃ <span class=hover-this>papalikwatlikwat <span class=hover-text>isang tao na walang direksyon o lakas, parang paikot-ikot o naglalakad nang walang tiyak na layunin</span></span> lamang. ¡Ng̃ayón pá namáng ang aking mg̃a tao’y nang̃agsisitawad na!
 
             At umuung̃ol na tumung̃o sa kinalalagyán ng̃ billar, na, hindî na pinakinggán ang mg̃a hing̃îng ipagpaumanhín ni P. Irene na nagtatangkâng mang̃atwiran sa tulong ng̃ paghaplós ng̃ ilóng.
 
@@ -101,9 +101,9 @@
 
             —Masamâng manglalarò akó ng̃ tresillo—ang sagót ng̃ prayle.
 
-            —Kung gayó’y paparituhin si Simoun—ang sabi ng̃ General[92]—¡eh! Simoun, eh, mister! ¿ibig bagá ninyóng makilahók sa isáng larô?
+            —Kung gayó’y paparituhin si Simoun—ang sabi ng̃ General—¡eh! Simoun, eh, mister! ¿ibig bagá ninyóng makilahók sa isáng larô?
 
-            —¿Anó ang ipasisiyá tungkól sa mg̃a “armas de salón”?—ang tanóng ng̃ kalihim na sinamantalá ang pagkakáhintô.
+            —¿Anó ang ipasisiyá tungkól sa mg̃a <span class=hover-this>“armas de salón”? <span class=hover-text>isang pariralang Kastila na tumutukoy sa mga "armas na pang-salón" o "mga sandatang pampalakas-loob" na ginagamit sa mga sosyal na pagtitipon o sa mga saloon</span></span>—ang tanóng ng̃ kalihim na sinamantalá ang pagkakáhintô.
 
             Dumung̃aw si Simoun.
 
@@ -121,7 +121,7 @@
 
             —¡Nápakatang̃ìng tao itóng si Simoun, kung anó anó ang iniisip!—ang sabing tumatawa ni P. Irene.
 
-            —At itó,—ang patuloy ni Simoun na tinangkî sa balikat ang General—ang ibabayad nitó sa akin sa bawà’t limáng tantós ay isáng vale na katimbáng ng̃ limáng araw na pagkakábilanggô, sa isang solo ay limáng buwan, sa isáng codillo ay isáng utos na pagpapatapon, na walâng nakatalâng pang̃alan, sa isáng bola.... ay isáng utos sa guardia sibil na [93]makabaríl sa daán sa taong parurusahan, samantalang ipinaghahatiran, at ibp.
+            —At itó,—ang patuloy ni Simoun na tinangkî sa balikat ang General—ang ibabayad nitó sa akin sa bawà’t limáng tantós ay isáng vale na katimbáng ng̃ limáng araw na pagkakábilanggô, sa isang solo ay limáng buwan, sa isáng <span class=hover-this>codillo <span class=hover-text>isang uri ng bahagi ng katawan, partikular sa elbow o siko</span></span>ay isáng utos na pagpapatapon, na walâng nakatalâng pang̃alan, sa isáng bola.... ay isáng utos sa guardia sibil na makabaríl sa daán sa taong parurusahan, samantalang ipinaghahatiran, at ibp.
 
             Ang hamon ay napakatang̃ì. Ang tatlóng lálakadlakád ay nang̃agsilapit.
 
@@ -141,7 +141,7 @@
 
             —¡Huwag, huwag!—ang tutol ni Simoun—sa ganáng akin, ang mg̃a tulisán, ay siyáng mg̃a taong lalòng may karang̃alan sa lupaíng itó; silá ang tang̃ìng kumikita ng̃ ikabubuhay sa mabuting kaparaanan...... ¿Inaakalà ba ninyóng kung akó’y nahulog sa mg̃a kamáy...... ninyó sa halimbawà, ay pakakawalán ba ninyó akó ng̃ hindî kukunin ang kalahatì man lamang ng̃ aking mg̃a hiyas?
 
-            [94]Tututol sana si Dn. Custodio; tunay ng̃âng isáng amerikanong mulato na walâng pinag-aralan ang Simoun na iyon, na sinásamantalá ang pakikipag-ibigan niyá sa Capitan General upang alimurahin si P. Irene. Tunay ng̃â kung sa bagay na kung si P. Irene ang nakádakíp sa kaniyá ay hindî siyá nakawalà ng̃ dahil sa gayóng kaliit na bagay.
+            Tututol sana si Dn. Custodio; tunay ng̃âng isáng amerikanong mulato na walâng pinag-aralan ang Simoun na iyon, na sinásamantalá ang pakikipag-ibigan niyá sa Capitan General upang alimurahin si P. Irene. Tunay ng̃â kung sa bagay na kung si P. Irene ang nakádakíp sa kaniyá ay hindî siyá nakawalà ng̃ dahil sa gayóng kaliit na bagay.
 
             —Sa ang kasamaán ay walâ sa pagkakaroon ng̃ tulisán sa mg̃a bundók at kaparang̃an—ang patuloy ni Simoun—ang kasamâan ay nasa sa mg̃a tulisáng bayan....
 
@@ -163,7 +163,7 @@
 
             —¡Ipinagbabawal mulâ ng̃ayón!
 
-            —Ipagpatawad pô ninyó, aking General,—ang sabi ng̃ mataás [95]na kawaní—Ipahintulot po sa akin ng̃ inyóng karang̃alan na sabihing sa alin mang bansâ sa Sangsinukob ay hindî ipinagbabawal ang mg̃a “armas de salón”.
+            —Ipagpatawad pô ninyó, aking General,—ang sabi ng̃ mataás na kawaní—Ipahintulot po sa akin ng̃ inyóng karang̃alan na sabihing sa alin mang bansâ sa Sangsinukob ay hindî ipinagbabawal ang mg̃a “armas de salón”.
 
             Ikinibít ng̃ General ang kaniyáng balikat.
 
@@ -195,7 +195,7 @@
 
             —Sirâ daw ang bubung̃án—ang sagót ng̃ kalihim—at sa dahiláng bumilí siyá ng̃ mg̃a mapa at cuadro, sa sariling gugol, ay hindî mapabayàang ulani’t arawin......
 
-            [96]—Ng̃unì’t walâ akóng pakialam sa mg̃a bagay na iyan—ang bulóng ng̃ General—sa Namamahalà sa Pang̃asiwàan huming̃î, sa Pang̃ulong Pulong lalawigan, sa Nuncio.....
+            —Ng̃unì’t walâ akóng pakialam sa mg̃a bagay na iyan—ang bulóng ng̃ General—sa Namamahalà sa Pang̃asiwàan huming̃î, sa Pang̃ulong Pulong lalawigan, sa Nuncio.....
 
             —Ang masasabi ko sa inyó—ang sabi ni P. Camorra—ang maestrillong iyan ay isáng filibusterillo na masamâ ang loob; akalain ba ninyóng ipinagsásabí ng̃ ereheng iyan na ang inilílibíng daw ng̃ mainam na paglilibíng at ang hindî ay magkaisá din kung mabulók! ¡Balàng araw ay pagkukukutusán ko iyán, eh!
 
@@ -219,7 +219,7 @@
 
             —¡Filibusterismo!....
 
-            —¡Una muna sa lahát ang Inang-bayan! ¡una muna ang ating pagkakastilà!—ang dugtóng ni Ben Zayb na ang [97]matá’y kumíkináng dahil sa busóg ng̃ pag-ibig sa tinubùang lupà, at námulá ng̃ kauntî dahil sa nákitang siya’y napag-isá.
+            —¡Una muna sa lahát ang Inang-bayan! ¡una muna ang ating pagkakastilà!—ang dugtóng ni Ben Zayb na ang matá’y kumíkináng dahil sa busóg ng̃ pag-ibig sa tinubùang lupà, at námulá ng̃ kauntî dahil sa nákitang siya’y napag-isá.
 
             —Magmulâ ng̃ayón—ang sabi ng̃ General—ay alisín sa tungkól ang bawà’t dumaíng.
 
@@ -251,7 +251,7 @@
 
             —¡Ang lahát ay nalulusután nitó!
 
-            —Ng̃unì’t mg̃a ginoo—ang sigáw ni D. Custodio ng̃ máding̃íg ang gayóng mg̃a pabulalás—magpakatinô ng̃â tayo, [98]¿alín pa ang bahay na lalòng agpáng kay sa sabung̃án? Malalakí, mabubuti ang pagkakayarì, at walâ namáng kapararakan sa loob ng̃ sanglinggó. At magíng sa dako man ng̃ maayos na ugalì tingnán, ang aking panukalà ay matatanggáp; magiging isáng panglinis at pagsisisi sa lingguhan ng̃ sabung̃án.
+            —Ng̃unì’t mg̃a ginoo—ang sigáw ni D. Custodio ng̃ máding̃íg ang gayóng mg̃a pabulalás—magpakatinô ng̃â tayo, ¿alín pa ang bahay na lalòng agpáng kay sa sabung̃án? Malalakí, mabubuti ang pagkakayarì, at walâ namáng kapararakan sa loob ng̃ sanglinggó. At magíng sa dako man ng̃ maayos na ugalì tingnán, ang aking panukalà ay matatanggáp; magiging isáng panglinis at pagsisisi sa lingguhan ng̃ sabung̃án.
 
             —Ng̃unì’t maminsánminsán ay may sabong sa boong sanglinggó—ang pahiwatig ni P. Camorra—at hindî dapat na yamang ang may pasabong ay nagbabayad sa Pamahalàan ay......
 
@@ -273,7 +273,7 @@
 
             Warì’y natatakot na tiningnán ng̃ kalihim si P. Sibyla at si P. Irene. Ang pinakamalakí’y lálabas na. Ang dalawá’y humandâ.
 
-            [99]—Ang kahiling̃an ng̃ mg̃a nag-aaral na humihing̃îng pahintulot upang magbukás ng̃ isáng Akademia ng̃ wikàng kastilà—ang sagót ng̃ kalihim.
+            —Ang kahiling̃an ng̃ mg̃a nag-aaral na humihing̃îng pahintulot upang magbukás ng̃ isáng Akademia ng̃ wikàng kastilà—ang sagót ng̃ kalihim.
 
             Nápuna sa lahát ng̃ nasa salas ang pagkaguló, at matapos siláng makapagting̃inan ay nápatitig sa General upang mákilala ang ipapasiya. May anim na buwan nang ang kahiling̃an ay nag-aantáy doon ng̃ isáng kapasiyahan at nagíng isáng warì’y casus belli na tulóy ng̃ iláng lupon. Ang General ay nakatung̃ó na warìng upang huwag mákilala ng̃ ibá ang kaniyáng iniisip.
 
@@ -299,7 +299,7 @@
 
             —¿Pagbabang̃on, pagtakwíl?—ang tanóng ng̃ mataás na kawaní, na nápating̃ín sa madlâ na warìng walâng maantiluhan.
 
-            —Ang nang̃ung̃ulo ay mg̃a binatàng kilalá sa pagkamakabago [100]at napakalalò, kundî pang̃ang̃anlán ng̃ ibá pang tawag;—ang dugtóng ng̃ kalihim sa dominiko—ang isá sa kanilá’y nagng̃ang̃alang Isagani, ulong hindî matinô...... pamangkín ng̃ isáng klérigo......
+            —Ang nang̃ung̃ulo ay mg̃a binatàng kilalá sa pagkamakabago at napakalalò, kundî pang̃ang̃anlán ng̃ ibá pang tawag;—ang dugtóng ng̃ kalihim sa dominiko—ang isá sa kanilá’y nagng̃ang̃alang Isagani, ulong hindî matinô...... pamangkín ng̃ isáng klérigo......
 
             —Isá sa mg̃a tinúturuàn ko—ang sagót ni P. Fernández—at akó’y nasisiyaháng loob sa kaniyá.
 
@@ -323,7 +323,7 @@
 
             —¡Ahá, ahá!—anáng General na tumang̃ô tang̃ô—¿gayón palá? ¡Italâ ninyó ang pang̃alang iyán!
 
-            —Ng̃unì, aking General,—ang sabi ng̃ mataás na kawaní ng̃ makitang masamâ ang tung̃o ng̃ salitâan—hanggáng sa ng̃ayón ay walâ pang nababatíd na bagay na laban sa mg̃a binatàng iyán; ang kaniláng kahiling̃an ay matuwid at walâ tayong karapatáng huwág dinggín dahil sa panunuláy lamang sa mg̃a hakàhakà. Sa akalà ko ay nárarapat na sang-ayunan [101]ng̃ Pamahalàan ang kahiling̃an at sa gayón ay magpapamalas ng̃ kaniyáng pagkakátiwalà sa bayan at ng̃ katibayan ng̃ kaniyáng pagkakatatag; at siya’y may kalayàang bawìing mulî ang pahintulot kung mákitang dahil sa kaniyáng mabuting kalooban ay nagpapakalabis. Mg̃a sanhî at paraán sa pagbawì ay hindî mawawalán, mababantayán natin silá.... ¿Anó’t pasasamâín ang loób ng̃ iláng binatà, na mangyayaring magdamdám pagkatapos, gayóng ang kaniláng hiníhilíng ay nálalagdâ sa mg̃a utos ng̃ harì?
+            —Ng̃unì, aking General,—ang sabi ng̃ mataás na kawaní ng̃ makitang masamâ ang tung̃o ng̃ salitâan—hanggáng sa ng̃ayón ay walâ pang nababatíd na bagay na laban sa mg̃a binatàng iyán; ang kaniláng kahiling̃an ay matuwid at walâ tayong karapatáng huwág dinggín dahil sa panunuláy lamang sa mg̃a hakàhakà. Sa akalà ko ay nárarapat na sang-ayunan ng̃ Pamahalàan ang kahiling̃an at sa gayón ay magpapamalas ng̃ kaniyáng pagkakátiwalà sa bayan at ng̃ katibayan ng̃ kaniyáng pagkakatatag; at siya’y may kalayàang bawìing mulî ang pahintulot kung mákitang dahil sa kaniyáng mabuting kalooban ay nagpapakalabis. Mg̃a sanhî at paraán sa pagbawì ay hindî mawawalán, mababantayán natin silá.... ¿Anó’t pasasamâín ang loób ng̃ iláng binatà, na mangyayaring magdamdám pagkatapos, gayóng ang kaniláng hiníhilíng ay nálalagdâ sa mg̃a utos ng̃ harì?
 
             Si P. Irene, si don Custodio at si P. Fernández ay nagpamalas ng̃ kaniláng pagsang-ayon sa pamagitan ng̃ tang̃ô ng̃ ulo.
 
@@ -341,7 +341,7 @@
 
             —Huwag sumamâ ang loób ninyó sa akin, P. Sibyla, kung hindî ninyó akó káisá sa paghuhulòng ukol sa bagay na itó, ng̃unì’t nápakatang̃ìng kapalaran ang sa akin, na kailán man halos, ay kasalung̃át akó ng̃ aking mg̃a kapatíd. Ang sabi ko ng̃â’y hindî tayo dapat mabaklá. Ang pagtuturò ng̃ wikàng kastilà ay mangyayaring pahintulutan ng̃ walâng anománg kapang̃aniban, at upang huwag lumabás na isáng pagdaíg sa Unibersidad, ay nárarapat na tayong mg̃a dominiko ay magpáuná sa pagkagalák ng̃ dahil sa bagay na iyan; iyan ang política. ¿Bakit tayo makikipaglabanán tuwî na sa bayan, sa tayo ay kakauntî at silá ay marami, sa kailang̃an natin silá at tayo’y hindî nilá kailang̃an?—¡Hintáy muna kayó, P. Camorra, hintáy muna kayó!—Payagan na nating ng̃ayón ay mahinà ang bayan at walâng maraming nálalaman, ako mán ay gayón din ang akalà ko, ng̃unì’t bukas ay hindî na gayón, ni sa makalawá. Bukas makalawá ay silá ang magiging malakás, mababatíd ang kaniláng mg̃a kailang̃an at hindî natin mapipigil, gaya rin namán ng̃ hindî mangyayaring mapigil, na, pagdatíng ng̃ batà sa iláng gulang ay makaalám ng̃ maraming bagay... Ang sinasabi ko ng̃â ay ¿bakit hindî natin samantalahín ang kalagayang itó sa kamangmang̃án upang magpalít ng̃ paraan sa pamamalakad at itatág sa matibay na batayán, na hindî mapapawì, sa batayáng katwiran, sa halimbawà, at huwag sa batayáng kamangmang̃án? Sapagkâ’t walâ nang kagaya ng̃ magíng makatwiran, gaya ng̃ sinabi ko sa tuwi na sa aking mg̃a kapatid, ng̃unì’t ayaw akóng dinggín. Ang indio, gaya rin ng̃ alín mang bayang batà pá ay mapag-usig ng̃ katwiran; humíhing̃î ng̃ parusa kung nagkasala, at námumuhî pag hindî kinamít ang gayón. ¿Marapat ang hinihing̃î? Ipagkaloob, ibigáy natin sa kanilá ang lahát ng̃ páaraláng kailang̃an, mapapagod din silá: ang kabatàan ay bulagbol na talagá, ang nag-uudyók lamang sa kanilá sa pag-uusig ay ang ating pagsalung̃át. Ang ating panilòng karang̃alan ay lumà na, P. Sibyla: gumawâ tayo ng̃ ibá, ang panilòng pagkilala ng̃ utang na loób, sa halimbawà. Huwag tayong magsamangmáng, gayahan natin ang mg̃a hesuita......
 
-            [103]—¡Oh, oh, P. Fernández!
+            —¡Oh, oh, P. Fernández!
 
             Hindîng hindî: matitiis na lahát ni P. Sibyla, liban na lamang sa pagayahan sa kaniyá ang mg̃a hesuita. Namumutlâ’t nang̃ing̃iníg na nagbubusá ng̃ mg̃a matalas na wikà.
 
@@ -351,7 +351,7 @@
 
             —¡Eh, eh! Padre P.....!!
 
-            Ang sumunód ay isáng pagtatalong panabáy ng̃ lahát, na nalimot na ang General; nagsasalitâng sabáysabáy, nagsisigáwan, hindî mang̃agkalinaw, nang̃agtatalo; si Ben Zayb ay kaharáp ni P. Camorra at nag-uumang̃án ng̃ suntók, binábanggit ng̃ isá ang mg̃a gansâ at ang isá’y ang mg̃a manghihitít ng̃ tintá, tinutukoy ni P. Sibyla ang kapítulo at si P. Fernández namán ay ang sa Summa ni Sto. Tomás, at ibp., hangáng sa pumasok ang kura sa Los Baños at sinabing nakahandâ na ang pananghalìan.
+            Ang sumunód ay isáng pagtatalong panabáy ng̃ lahát, na nalimot na ang General; nagsasalitâng sabáysabáy, nagsisigáwan, hindî mang̃agkalinaw, nang̃agtatalo; si Ben Zayb ay kaharáp ni P. Camorra at nag-uumang̃án ng̃ suntók, binábanggit ng̃ isá ang mg̃a gansâ at ang isá’y ang mg̃a manghihitít ng̃ tintá, tinutukoy ni P. Sibyla ang kapítulo at si P. Fernández namán ay ang sa Summa ni Sto. Tomás, at ibp., hangáng sa pumasok ang <span class=hover-this>kura <span class=hover-text>isang paring Katoliko na namumuno at nagsasagawa ng ritwal at misa bilang espiritwal na lider ng isang parokya sa lokal na lugar</span></span> sa Los Baños at sinabing nakahandâ na ang pananghalìan.
 
             Tumindíg ang Capitan General at sa gayó’y naputol ang pagtatalo.
 
@@ -371,7 +371,7 @@
 
             —Ikatlóng araw na ng̃ kaniyáng pagparito; isáng kaawàawàng dalaga...
 
-            —¡Ah, demonio!—ang bulalás ni P. Camorra—sinasabi ko na ng̃âng mayroón akóng bagay na sasabihin sa General; [104]kung kayâ ng̃â akó naparito ay...... upang katigan ang kahiling̃an ng̃ binibining iyán!
+            —¡Ah, demonio!—ang bulalás ni P. Camorra—sinasabi ko na ng̃âng mayroón akóng bagay na sasabihin sa General; kung kayâ ng̃â akó naparito ay...... upang katigan ang kahiling̃an ng̃ binibining iyán!
 
             Kinamot ng̃ General ang kaniyáng taing̃a.
 

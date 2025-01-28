@@ -46,13 +46,13 @@
 
             ¿Saán buhat ang pag-ayáw ni Penitente sa pag-aaral, gayóng siya’y isá sa mg̃a masumigasig at bantóg sa paaraláng pinamamahalàan ni P. Valerio sa Tanawan? Doon ay nábibilang si Penitente na isá sa mg̃a lalòng mabuti sa latin at matalas sa pakikipagkatwiranan, na marunong gumusót at maghanay ng̃ mg̃a paguusap na lalòng magàan at walâng kahirapan; siyá ang inaarìng lalòng pinakamatalas ng̃ kaniyáng mg̃a kababayan, at dahil sa kabantugang iyon, ay ibinibilang na siyáng pilibustero ng̃ kaniyáng kura, katunayang lubós na hindî siyá hang̃ál ni táong walâng namumuwang̃an. Hindî máwatasan ng̃ kanyáng mg̃a kasama ang gayóng nasàng pag-uwî at iwan ang pag-aaral; walâ namáng nililigawan, hindî mánunugal, bahagyâ ng̃ marunong ng̃ hungkìan at kapang̃ahasan na sa kaniya ang pakikilarô ng̃ isáng rebesino; hindî naniniwalà sa payo ng̃ mg̃a prayle, kinukutyâ ang tandáng Basio, may salapîng higít sa kailang̃an, may mahuhusay na damít; ng̃unì’t gayón man, ay masamâ ang loób kung pumasok at kinasusuklamán ang mg̃a aklát.
 
-            [105]Sa tuláy ng̃ España, na ang tang̃ìng bagay na tagláy na ukol sa España ay ang pang̃alan lamang, sapagkâ’t sampû ng̃ kaniyáng mg̃a bakal ay galing sa ibáng lupaín, ay nákatagpô ng̃ mahabàng hanay ng̃ mg̃a binatàng tung̃o sa loób ng̃ Maynilà upang pumasok sa kaníkaniláng páaraláng pinápasukan. Ang ilán ay suót tagá Europa, matutulin ang lakad, na dalá ang mg̃a aklát at kuaderno, may iniisip, inaalaala ang kaniláng mg̃a lisyón at mg̃a sinulat na iháharáp; ang mg̃a itó’y tagá Ateneo. Ang mg̃a tagá Letrán ay nápupuná sapagkâ’t lahát halos ay suot pilipino, silá ang lalòng makapál at walâng maraming aklát. Ang bihis ng̃ mg̃a tagá Universidad ay lalòng maayos at makisig, mararahan ang lakad at madalás pang tungkód ang dalá at hindî aklát. Ang kabatàang nag-aaral sa Pilipinas ay hindî mapangguló at mapag-ing̃áy; nang̃aglálakád na warì’y may iniisip; ang sino mang makakita sa kanilá ay magsasabing sa haráp ng̃ kaniláng mg̃a matá ay walâng anó mang pag-asang nátatanáw, ni magandáng kinábukasan. Kahi’t na sa mg̃a ilan iláng dako’y nakapagpapasayá sa hanay ang matalagháy at makulay na anyô ng̃ mg̃a nag-aaral na babai sa Escuela Municipal, na may mg̃a sintás sa balikat at bitbít ang kaniláng mg̃a pinag-aaralang aklát at kasunód ang kaniláng mg̃a alilà, ay bahagyâ nang máding̃ig ang isáng tawa, bahagyâ nang máding̃ig ang isáng aglahì; walâng mg̃a awitan; walâng masasayáng parunggít; kung bagá man ay mabibigát na birò, awayán ng̃ maliliit. Ang mg̃a malalakí ay karaniwan nang walâng kibô at maayos ang kagayakan na gaya ng̃ mg̃a nag-aaral na alemán.
+            Sa tuláy ng̃ España, na ang tang̃ìng bagay na tagláy na ukol sa España ay ang pang̃alan lamang, sapagkâ’t sampû ng̃ kaniyáng mg̃a bakal ay galing sa ibáng lupaín, ay nákatagpô ng̃ mahabàng hanay ng̃ mg̃a binatàng tung̃o sa loób ng̃ Maynilà upang pumasok sa kaníkaniláng páaraláng pinápasukan. Ang ilán ay suót tagá Europa, matutulin ang lakad, na dalá ang mg̃a aklát at kuaderno, may iniisip, inaalaala ang kaniláng mg̃a lisyón at mg̃a sinulat na iháharáp; ang mg̃a itó’y tagá Ateneo. Ang mg̃a tagá Letrán ay nápupuná sapagkâ’t lahát halos ay suot pilipino, silá ang lalòng makapál at walâng maraming aklát. Ang bihis ng̃ mg̃a tagá Universidad ay lalòng maayos at makisig, mararahan ang lakad at madalás pang tungkód ang dalá at hindî aklát. Ang kabatàang nag-aaral sa Pilipinas ay hindî mapangguló at mapag-ing̃áy; nang̃aglálakád na warì’y may iniisip; ang sino mang makakita sa kanilá ay magsasabing sa haráp ng̃ kaniláng mg̃a matá ay walâng anó mang pag-asang nátatanáw, ni magandáng kinábukasan. Kahi’t na sa mg̃a ilan iláng dako’y nakapagpapasayá sa hanay ang matalagháy at makulay na anyô ng̃ mg̃a nag-aaral na babai sa Escuela Municipal, na may mg̃a sintás sa balikat at bitbít ang kaniláng mg̃a pinag-aaralang aklát at kasunód ang kaniláng mg̃a alilà, ay bahagyâ nang máding̃ig ang isáng tawa, bahagyâ nang máding̃ig ang isáng aglahì; walâng mg̃a awitan; walâng masasayáng parunggít; kung bagá man ay mabibigát na birò, awayán ng̃ maliliit. Ang mg̃a malalakí ay karaniwan nang walâng kibô at maayos ang kagayakan na gaya ng̃ mg̃a nag-aaral na alemán.
 
             Si Plácido ay naglálakád sa liwasan ni Magallanes upang pumasok sa butas—dating pintô—ng̃ Sto. Domingo nang biglâng tumanggáp ng̃ isáng tampál sa balikat na siyáng nakapagpaling̃ón sa kaniyáng biglâ, na masamâ ang ulo.
 
             —¡Hoy, Penitente, hoy, Penitente!
 
-            Ang tumampál palá ay ang kasama niyáng si Juanito Pelaez, ang mapaglang̃ís at minámahal ng̃ mg̃a gurô, walâng kapara sa kasamâán at kalikután, may ting̃íng mapanuksó at ng̃itîng mapagbirô. Anák ng̃ isáng mestisong kastilà, mayamang máng̃ang̃alakál ng̃ isá sa mg̃a arrabal, na umaasa sa katalinuhan ng̃ binatà; dahil sa kaniyáng pagkamakulabíd ay hindî náhuhulí sa ibá, may ugalìng mapagbirô ng̃ masamâ sa lahát [106]at pagkatapos ay magkakanlóng sa likurán ng̃ mg̃a kasama at may katang̃ìtang̃ì siyáng kakubàan na lumálakí kailan ma’t may panunuksóng ginagawâ at nagtátawá.
+            Ang tumampál palá ay ang kasama niyáng si Juanito Pelaez, ang mapaglang̃ís at minámahal ng̃ mg̃a gurô, walâng kapara sa kasamâán at kalikután, may ting̃íng mapanuksó at ng̃itîng mapagbirô. Anák ng̃ isáng mestisong kastilà, mayamang máng̃ang̃alakál ng̃ isá sa mg̃a arrabal, na umaasa sa katalinuhan ng̃ binatà; dahil sa kaniyáng pagkamakulabíd ay hindî náhuhulí sa ibá, may ugalìng mapagbirô ng̃ masamâ sa lahát at pagkatapos ay magkakanlóng sa likurán ng̃ mg̃a kasama at may katang̃ìtang̃ì siyáng kakubàan na lumálakí kailan ma’t may panunuksóng ginagawâ at nagtátawá.
 
             —¿Nakapag-alíw ka bang mabuti, Penitente?—ang tanóng na kasabáy ang mg̃a malakás na pagtampál sa balikat.
 
@@ -74,7 +74,7 @@
 
             —¡Tao ka, Huebes, e!
 
-            [107]—Siyá ng̃â palá ¡napakahayóp akó! ¿Alám mo Plácido na nagíging hayop akó? At noong Miérkoles?
+            —Siyá ng̃â palá ¡napakahayóp akó! ¿Alám mo Plácido na nagíging hayop akó? At noong Miérkoles?
 
             —¿Noong Miérkoles? Hintáy ka.... niyóng Miérkoles ay umambón.
 
@@ -106,7 +106,7 @@
 
             Nang mg̃a sumandalîng iyón ay pumapasok silá sa butas ng̃ Sto. Domingo.
 
-            —Maalala ko palá—ang bulalás ni Juanito ng̃ mákita [108]ang liwasan sa haráp ng̃ bahay-aduana—¿alám mo bang akó ang nátungkuláng mang̃ilak ng̃ ambágan?
+            —Maalala ko palá—ang bulalás ni Juanito ng̃ mákita ang liwasan sa haráp ng̃ bahay-aduana—¿alám mo bang akó ang nátungkuláng mang̃ilak ng̃ ambágan?
 
             —¿Anóng ambagan?
 
@@ -140,7 +140,7 @@
 
             —Kung isasaulì mo rín ¿anó’t ibíbigay ko pá sa iyo? Sukat nang ilagáy mong apat.
 
-            [109]—¡Ah, siyá ng̃â palá! nápakahayop akó! ¿alám mong nagiging hayop akó ng̃ayón? Ng̃unì’t ibigáy mo na rin sa akin upang ipakita ko sa ibá.
+            —¡Ah, siyá ng̃â palá! nápakahayop akó! ¿alám mong nagiging hayop akó ng̃ayón? Ng̃unì’t ibigáy mo na rin sa akin upang ipakita ko sa ibá.
 
             Upang huwag pabulaanan ni Plácido ang kura na naglagáy sa kaniyá ng̃ pang̃alan, ay ibinigáy ang hiníhing̃î sa kaniyá.
 
@@ -154,7 +154,7 @@
 
             Ang lahát ay nápupuná, ang lahát ay nagiging sanhî ng̃ biruán at buhaybuhay.
 
-            Minsan ay isáng mainam na victoria na hihintô sa piling ng̃ pintùan upang iwan doon ang isáng mag-aanak na [110]mapanata; dadalaw sa Birhen del Rosario sa kaniyáng pinilìng araw: ang mg̃a matá ng̃ nanonood ay handâng lahát upang tanawín ang anyô at lakí ng̃ paa ng̃ mg̃a binibini sa pag-ibís sa sasakyán: minsán ay isáng nag-aaral na lumálabás sa pintúan na tagláy pá sa mukhâ ang pagkakapanalang̃in: dumaan sa simbahan upang idalang̃in sa Birhen na mangyaring maliwanagan niyá ang lisyón, upang tingnán kung nároroón ang kaniyáng nilalang̃it, makipagsulyapan at tumung̃o sa páaralán na tagláy sa alaala ang mg̃a matáng magiliw na iyon.
+            Minsan ay isáng mainam na victoria na hihintô sa piling ng̃ pintùan upang iwan doon ang isáng mag-aanak na mapanata; dadalaw sa Birhen del Rosario sa kaniyáng pinilìng araw: ang mg̃a matá ng̃ nanonood ay handâng lahát upang tanawín ang anyô at lakí ng̃ paa ng̃ mg̃a binibini sa pag-ibís sa sasakyán: minsán ay isáng nag-aaral na lumálabás sa pintúan na tagláy pá sa mukhâ ang pagkakapanalang̃in: dumaan sa simbahan upang idalang̃in sa Birhen na mangyaring maliwanagan niyá ang lisyón, upang tingnán kung nároroón ang kaniyáng nilalang̃it, makipagsulyapan at tumung̃o sa páaralán na tagláy sa alaala ang mg̃a matáng magiliw na iyon.
 
             Ng̃unì’t námatyág sa mg̃a pulutóng ang galawan, isáng warìng pagaantabáy, at si Isagani ay nápatigil at namutlâ. Isáng sasakyán ang humintô sa pintùan: ang magkaparis na kabayong putî ay kilaláng-kilalá. Yaon ang sasakyán ni Paulita Gómez na nakalundág na agád sa lupà, na mabilís na warì’y ibon, na hindî binigyáng panahóng mákita ng̃ mg̃a nanónoód ang kaniyáng paa. Sa isáng mainam na kilos at isáng haplós ng̃ kamáy ay naayos ang mg̃a tupî ng̃ kaniyáng saya, at sa isáng matuling sulyáp na warì’y hindî kinukusà ay nákita si Isagani, bumatì’t ng̃umitî. Bumabâ namán si aling Victorina, tuming̃ín ng̃ paimbabáw sa kanyáng salamin, nákita si Juanito Pelaez, ng̃umitî at binatì itó ng̃ magiliw.
 
@@ -164,7 +164,7 @@
 
             At si Tadeo, itó ang kaniyáng pang̃alan, ay pumasok sa simbahan upang sundán ang dalaga.
 
-            Si Tadeo ay pumaparoon araw araw sa Unibersidad upang itanóng kung may pasok at tuwî na’y nagtátaká kung bakit may pasok: mayroon siyáng hinalàng may isáng cuacha na panáy at walâng katapusán at ináantáy niyáng dumatíng sa bawà’t sandalî. At bawà’t umaga, matapos na hindî mangyari ang mungkahì niyáng magliwalíw, ay áalís na nagdádahiláng may malakíng kagipitan, ó gágawin, ó sakít, sa sandalî pa namáng ang kaniyáng mg̃a kasama ay papasok sa klase. Ng̃unì’t sa dî mabatíd na kaparaanan ay nakalálampás [111]si Tadeo sa mg̃a pagsusurì, ginigiliw ng̃ kaniyáng mg̃a propesor at náhaharáp sa isáng magandáng kinábukasan.
+            Si Tadeo ay pumaparoon araw araw sa Unibersidad upang itanóng kung may pasok at tuwî na’y nagtátaká kung bakit may pasok: mayroon siyáng hinalàng may isáng cuacha na panáy at walâng katapusán at ináantáy niyáng dumatíng sa bawà’t sandalî. At bawà’t umaga, matapos na hindî mangyari ang mungkahì niyáng magliwalíw, ay áalís na nagdádahiláng may malakíng kagipitan, ó gágawin, ó sakít, sa sandalî pa namáng ang kaniyáng mg̃a kasama ay papasok sa klase. Ng̃unì’t sa dî mabatíd na kaparaanan ay nakalálampás si Tadeo sa mg̃a pagsusurì, ginigiliw ng̃ kaniyáng mg̃a propesor at náhaharáp sa isáng magandáng kinábukasan.
 
             Samantala namán ay nagsísimulâ ang mg̃a kilusán at gumágaláw ang mg̃a pulúpulutóng; pumanaog na sa klase ang propesor sa Písika at Kímika.
 
@@ -188,7 +188,7 @@
 
             —¡Makatapos na ang klase! ibig ko munang mábasa.
 
-            —Napakahabà, ¿alám mo bá? ang bagay ay upang gumawâ ng̃ isáng kahiling̃ang laban, sa tuwid na sabi, isáng [112]tutol. ¿Alám mo bá? Si Makaraig at ilán pang kasama ay humihing̃îng magbukás ng̃ isáng akademia ng̃ wikàng kastilà, bagay na isáng malaking kaululán......
+            —Napakahabà, ¿alám mo bá? ang bagay ay upang gumawâ ng̃ isáng kahiling̃ang laban, sa tuwid na sabi, isáng tutol. ¿Alám mo bá? Si Makaraig at ilán pang kasama ay humihing̃îng magbukás ng̃ isáng akademia ng̃ wikàng kastilà, bagay na isáng malaking kaululán......
 
             —¡Siyá, siyá! kasama, mamayâ na sapagkâ’t nang̃agsisimulâ na—ang sabi ni Plácido na nagpupumiglás.
 
