@@ -22,5 +22,6 @@
         </div>
     </div>
     <script src="{{asset('js/quizzes/quiz-11.js')}}"></script>
+    
 </body>
 </html>

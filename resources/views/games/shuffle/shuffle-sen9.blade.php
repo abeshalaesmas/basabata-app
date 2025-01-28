@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+@include('components.navbar')<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -73,5 +73,6 @@
     <div style="text-align: center;">
         <button class="shuffle-button" onclick="shuffleWord()">Shuffle</button>
     </div>
+    @include('components.navbar')
 </body>
 </html>

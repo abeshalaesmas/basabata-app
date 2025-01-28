@@ -73,5 +73,6 @@
     <div style="text-align: center;">
         <button class="shuffle-button" onclick="shuffleWord()">Shuffle</button>
     </div>
+    @include('components.navbar')
 </body>
 </html>
