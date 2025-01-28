@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>ANG ARALÁN NG̃ PÍSIKA</title>
+    <title>Document</title>
     <style>
         body {
             margin: 50px; /* Adjust the margin size as needed */
@@ -92,7 +92,7 @@
 
             Hindî lamang hindî pinúpupô ni P. Millón ang lahát ng̃ nag-aaral, gaya ng̃ sino mang mabuting prayle, kundî kinákausap pa silá ng̃ wikàng tindá, bagay na nátutuhan sa katedrátiko sa Cánones. Kung sa gayóng pananalitâ ay inakalà ng̃ Reberendo ang kutyâin ang mg̃a nag-aaral ó ang mg̃a banál na takdâ ng̃ mg̃a <span class=hover-this>concilio,<span class=hover-text>[pangngalan/noun] Isang pagtitipon ng mga lider ng simbahan upang magpasiya sa mahahalagang usapin. [kasingkahulugan] Pagtitipon; konseho</span></span> ay bagay na hindî pa napasisiyahán, kahì’t pinagtalunan na ng̃ mahabà.
 
-            Ang pagkakatukoy ay hindî ikinamuhî ng̃ mg̃a nag-aaral kundî ikinagalák pa at marami ang nang̃agtawanan; yaón ay nangyayari sa araw araw. Gayón mán ay hindî nátawá ang matabâ; biglâng tumindíg, kinuskós ang mg̃a matá, at warìng mákina ng̃ bapor ang nagpagaláw sa <span class=hover-this>ponógrapo<span class=hover-text>[pangngalan/noun] Isang aparato na ginagamit sa pagrekord at pagpatugtog ng tunog. [kasingkahulugan] Gramopono; plaka=</span></span> at sinimulán ang pagsasabi ng̃:
+            Ang pagkakatukoy ay hindî ikinamuhî ng̃ mg̃a nag-aaral kundî ikinagalák pa at marami ang nang̃agtawanan; yaón ay nangyayari sa araw araw. Gayón mán ay hindî nátawá ang matabâ; biglâng tumindíg, kinuskós ang mg̃a matá, at warìng mákina ng̃ bapor ang nagpagaláw sa <span class=hover-this>ponógrapo<span class=hover-text>[pangngalan/noun] Isang aparato na ginagamit sa pagrekord at pagpatugtog ng tunog. [kasingkahulugan] Gramopono; plaka</span></span> at sinimulán ang pagsasabi ng̃:
 
             —“Tinatawag na salamín ang lahát ng̃ pamukhâng binuli at nálalaan upang malarawan sa kaniyá, dahil sa tamà ng̃ liwanag, ang mg̃a larawan ng̃ bagay na ilapít sa tinurang pamukhâ; dahil sa mg̃a bagay bagay na bumúbuô ng̃ mg̃a pamukhâng itó ay binabahagi sa salamíng metal at salamíng bubog......”
 
