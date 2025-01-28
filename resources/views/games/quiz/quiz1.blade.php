@@ -22,5 +22,6 @@
         </div>
     </div>
     <script src="{{asset('js/quizzes/quiz-1.js')}}"></script>
+    @include('components.navbar')
 </body>
 </html>
