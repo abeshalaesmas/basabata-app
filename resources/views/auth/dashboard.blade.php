@@ -37,7 +37,7 @@
         <section class="categories">
           <h2>Kategorya</h2>
           <div class="category-grid"> 
-            <div class="category"><a href="{{route('show')}}">Nobela</a></div>
+            <div class="category"><a href="{{route('showChapters')}}">Nobela</a></div>
             <div class="category locked">Maikling Kwento</div>
             <div class="category locked">Pabula</div>
             <div class="category locked">Kuwentong Bayan</div>

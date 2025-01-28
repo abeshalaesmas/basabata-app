@@ -4,140 +4,66 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f9fafb;
-            margin: 0;
-            padding: 0;
+    <script>
+        const previewImage = (event) => {
+            const reader = new FileReader();
+            reader.onload = () => {
+                const output = document.getElementById('profilePicturePreview');
+                output.src = reader.result;
+                output.style.display = 'block';
+            };
+            reader.readAsDataURL(event.target.files[0]);
         }
-        header {
-            display:flex;
-            margin: 0;
-            color: black;
-            font-size: 24px;
-        }
-        .lgout {
-            background-color: #ff4757;
-            color: #fff;
-            border: none;
-            padding: 10px 15px;
-            border-radius: 5px;
-            cursor: pointer;
-        }
-        .navbar button:hover {
-            background-color: #e84118;
-        }
-        .container {
-            display: flex;
-
-            justify-content: space-between;
-            padding: 20px;
-        }
-        .welcome {
-            font-size: 20px;
-            margin-bottom: 20px;
-        }
-        .card {
-            background-color: #fff;
-            border: 1px solid #ddd;
-            border-radius: 8px;
-            padding: 20px;
-            margin-bottom: 15px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-        .card h3 {
-            margin-top: 0;
-        }
-        .card p {
-            margin: 10px 0 0;
-        }
-        .footer {
-            text-align: center;
-            margin-top: 20px;
-            font-size: 14px;
-            color: #666;
-        }
-        .column {
-            flex: 1;
-            padding: 10px;
-        }
-        #logo{
-            width: 80px;
-            padding: 25px 0px 0px 15px;
-            
-        }
-        .logout {
-            background-color: #ff4757;
-            color: #fff;
-            
-            border-radius: 5px;
-            cursor: pointer;
-        }
-    </style>
+    </script>
 </head>
-<body>
-    <header>
-        <img id="logo" src="{{ asset('images/logo-w.png') }}" alt="Profile Image">
-        <form action="/logout" method="POST" style="margin: 0;">
+<body class="font-sans">
+    <header class="flex justify-between items-center  p-4">
+        <img id="logo" src="{{ asset('images/logo-w.png') }}" alt="Profile Image" class="w-20">
+        <form action="/logout" method="POST" class="m-0">
             <!-- Add CSRF Token for Laravel -->
             <input type="hidden" name="_token" value="{{ csrf_token() }}">
-            <span class="logout">
-                <button id="Logout" type="submit">Logout</button>
-            </span>
-            
+            <button id="Logout" type="submit" class="bg-red-500 text-white px-4 py-2 rounded hover:bg-red-600">Logout</button>
         </form>
     </header>
-    <section>
-        <div class="container">
 
-            <div class="card">
-                <div>
-                    @if(Auth::user()->profile && Auth::user()->profile->profile_picture)
-                        <img src="{{ asset('storage/app/private/public/profile_pictures/' . Auth::user()->profile->profile_picture) }}" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%;">
-                    @else
-                        <p>No profile picture uploaded.</p>
-                    @endif
-                </div>
-                <form id="profilePictureForm" action="{{ route('profile.upload') }}" method="POST" enctype="multipart/form-data">
-                    @csrf
-                    <label for="profile_picture">Change Profile Picture:</label>
-                    <input type="file" name="profile_picture" id="profile_picture" accept="image/*" onchange="previewImage(event)">
-                    <button type="submit">Upload</button>
-                </form>
-                <div>
-                    <img id="profilePicturePreview" src="#" alt="Profile Picture Preview" style="display: none; width: 150px; height: 150px;"/>
-                </div>
-                <script>
-                    const previewImage = (event) => {
-                        const reader = new FileReader();
-                        reader.onload = () => {
-                            const output = document.getElementById('profilePicturePreview');
-                            output.src = reader.result;
-                            output.style.display = 'block';
-                        };
-                        reader.readAsDataURL(event.target.files[0]);
-                    }
-                </script>
-            </div>
+    <section class="container mx-auto p-4">
+        <div class=" font-serif flex justify-center items-center">
+            <!-- <div class="w-full md:w-1/2 p-4">
+                <div class="bg-white p-6 rounded-lg shadow-lg">
 
-            <div class="column">
-                <p class="welcome">Welcome, {{ Auth::user()->profile->name }}!</p>
-                <p>Score: {{ Auth::user()->profile->score }}</p>
-                <div class="card">
-                    <p>Username: {{ Auth::user()->user_name }}</p>
-                    <p>Email: {{ Auth::user()->email }}</p>
-                    <p>Bio: {{ Auth::user()->profile->bio ?? 'Create your motto now!' }}</p>
+                    <div class="flex justify-center mb-4">
+                        @if(Auth::user()->profile && Auth::user()->profile->profile_picture)
+                            <img src="{{ asset('storage/app/private/public/profile_pictures/' . Auth::user()->profile->profile_picture) }}"  class="w-36 h-36 rounded-full">
+                        @else
+                            <p>No profile picture uploaded.</p>
+                        @endif
+                    </div>
+
+                    <form id="profilePictureForm" action="{{ route('profile.upload') }}" method="POST" enctype="multipart/form-data" class="text-center">
+                        @csrf
+                        <label for="profile_picture" class="block text-sm font-medium text-gray-700 mb-2">Change Profile Picture:</label>
+                        <input type="file" name="profile_picture" id="profile_picture" accept="image/*" onchange="previewImage(event)" class="block w-full text-sm text-gray-500 file:mr-4 file:py-2 file:px-4 file:rounded-full file:border-0 file:text-sm file:font-semibold file:bg-indigo-50 file:text-indigo-700 hover:file:bg-indigo-100 mb-4">
+                        <button type="submit" class="bg-indigo-600 text-white px-4 py-2 rounded hover:bg-indigo-700">Upload</button>
+                    </form>
+
+                    <div class="flex justify-center mt-4">
+                        <img id="profilePicturePreview" src="#" alt="Profile Picture Preview" class="hidden w-36 h-36 rounded-full"/>
+                    </div>
+
+                </div>
+            </div> -->
+            <div class="w-full md:w-1/2 p-4 " >
+                <div class="bg-white p-6 rounded-lg shadow-lg">
+                    <p class="text-xl font-bold mb-4">Welcome, {{ Auth::user()->profile->name }}!</p>
+                    <p class="mb-4">Score: {{ Auth::user()->profile->score }}</p>
+                    <div class="bg-gray-50 p-4 rounded-lg shadow-inner">
+                        <p class="mb-2"><strong>Username:</strong> {{ Auth::user()->user_name }}</p>
+                        <p class="mb-2"><strong>Email:</strong> {{ Auth::user()->email }}</p>
+                        <p><strong>Bio:</strong> {{ Auth::user()->profile->bio ?? 'Create your motto now!' }}</p>
+                    </div>
                 </div>
             </div>
-
         </div>
-
-        <!-- <form action="{{ route('reset.score') }}" method="POST"> {{--for debugging purposes only--}}
-            @csrf
-            <button type="submit">Reset Score</button>
-        </form> -->
-
     </section>
     @include('components.navbar')
 </body>

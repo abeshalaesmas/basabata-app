@@ -48,9 +48,11 @@ body {
 
 .header .logo {
   @apply left-0 w-[160px] h-[90px];
+  margin-left: 0px;
 }
 .header .logo img{
-  transform: scale(0.9); 
+  transform: scale(0.5); 
+  
 }
 
 .header .notification {
