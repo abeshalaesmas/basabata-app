@@ -7,6 +7,7 @@
     <title>SA CUBIERTA</title>
     <style>
         body {
+            background-color: #EEE9D1;
             margin: 50px; /* Adjust the margin size as needed */
             font-family: 'Poppins', sans-serif; /* Changed font style */
             font-size: 18px; /* Increased font size */
@@ -16,6 +17,7 @@
         header {
             background-color: #f3f4f6;
             padding: 1rem;
+            border-radius:15px;
             text-align: center;
         }
 
