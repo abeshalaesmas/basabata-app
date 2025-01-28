@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>LOS BAÑOS</title>
+    <title>CHAPTER XI</title>
     <style>
         body {
             margin: 50px; /* Adjust the margin size as needed */
@@ -337,7 +337,7 @@
 
             —¡Iyan ang hindî mangyayari, puñales!—ang sigáw ni P. Camorra—¡tingnan muna natin kung sino ang may malakás na pangsuntók!
 
-            [102]Sa gayón ay nagsalitâ si P. Fernández, na sa boong pagtatalo ay nanirá lamang sa kang̃ing̃itî. Lahát ay nakimatyág sapagkâ’t kilaláng siya’y may mabuting ulo.
+            Sa gayón ay nagsalitâ si P. Fernández, na sa boong pagtatalo ay nanirá lamang sa kang̃ing̃itî. Lahát ay nakimatyág sapagkâ’t kilaláng siya’y may mabuting ulo.
 
             —Huwag sumamâ ang loób ninyó sa akin, P. Sibyla, kung hindî ninyó akó káisá sa paghuhulòng ukol sa bagay na itó, ng̃unì’t nápakatang̃ìng kapalaran ang sa akin, na kailán man halos, ay kasalung̃át akó ng̃ aking mg̃a kapatíd. Ang sabi ko ng̃â’y hindî tayo dapat mabaklá. Ang pagtuturò ng̃ wikàng kastilà ay mangyayaring pahintulutan ng̃ walâng anománg kapang̃aniban, at upang huwag lumabás na isáng pagdaíg sa Unibersidad, ay nárarapat na tayong mg̃a dominiko ay magpáuná sa pagkagalák ng̃ dahil sa bagay na iyan; iyan ang política. ¿Bakit tayo makikipaglabanán tuwî na sa bayan, sa tayo ay kakauntî at silá ay marami, sa kailang̃an natin silá at tayo’y hindî nilá kailang̃an?—¡Hintáy muna kayó, P. Camorra, hintáy muna kayó!—Payagan na nating ng̃ayón ay mahinà ang bayan at walâng maraming nálalaman, ako mán ay gayón din ang akalà ko, ng̃unì’t bukas ay hindî na gayón, ni sa makalawá. Bukas makalawá ay silá ang magiging malakás, mababatíd ang kaniláng mg̃a kailang̃an at hindî natin mapipigil, gaya rin namán ng̃ hindî mangyayaring mapigil, na, pagdatíng ng̃ batà sa iláng gulang ay makaalám ng̃ maraming bagay... Ang sinasabi ko ng̃â ay ¿bakit hindî natin samantalahín ang kalagayang itó sa kamangmang̃án upang magpalít ng̃ paraan sa pamamalakad at itatág sa matibay na batayán, na hindî mapapawì, sa batayáng katwiran, sa halimbawà, at huwag sa batayáng kamangmang̃án? Sapagkâ’t walâ nang kagaya ng̃ magíng makatwiran, gaya ng̃ sinabi ko sa tuwi na sa aking mg̃a kapatid, ng̃unì’t ayaw akóng dinggín. Ang indio, gaya rin ng̃ alín mang bayang batà pá ay mapag-usig ng̃ katwiran; humíhing̃î ng̃ parusa kung nagkasala, at námumuhî pag hindî kinamít ang gayón. ¿Marapat ang hinihing̃î? Ipagkaloob, ibigáy natin sa kanilá ang lahát ng̃ páaraláng kailang̃an, mapapagod din silá: ang kabatàan ay bulagbol na talagá, ang nag-uudyók lamang sa kanilá sa pag-uusig ay ang ating pagsalung̃át. Ang ating panilòng karang̃alan ay lumà na, P. Sibyla: gumawâ tayo ng̃ ibá, ang panilòng pagkilala ng̃ utang na loób, sa halimbawà. Huwag tayong magsamangmáng, gayahan natin ang mg̃a hesuita......
 

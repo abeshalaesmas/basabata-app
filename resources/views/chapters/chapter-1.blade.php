@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>SA CUBIERTA</title>
+    <title>CHAPTER I</title>
     <style>
         body {
             background-color: #EEE9D1;
@@ -83,7 +83,7 @@
             </span></span> na kawayang nasa sa magkábilang pangpáng; may nagsasabing nag-uumusok din ang daóng ng̃ Pamahalàan!... Sa bawà’t sandalî’y tumítilî ang <span class="hover-this">pasuit <span class="hover-text">Ang salitang "pasuít" ay isang pangngalan sa Filipino na tumutukoy sa isang matinis at malakas na tunog na nalilikha ng sipol o anumang bagay na may katulad na tunog.
             </span></span> na paós at mapagbalà na warì’y isáng <span class="hover-this">manggagahís <span class="hover-text">Ang salitang "manggagahis" ay isang pangngalan sa Filipino na tumutukoy sa isang tao na gumagamit ng dahas upang makuha ang kanyang nais, tulad ng isang mang-aapi o mang-aabuso.
             </span></span> na ibig makapanaíg sa tulong ng̃ sigáw, kayâ’t sa loób ng̃ bapor ay hindî magkarinigan, ang lahát ng̃ mákatagpô’y pinagbabalàan; minsa’y warìng ibig durugin ang mg̃a <span class="hover-this">salambáw, <span class="hover-text">isang malaking lambat na ginagamit sa pangingisda, ikinakabit sa balsa o lumulutang na estruktura para sa paghuli ng maramihang isda sa ilog o dagat.
-            </span></span> (mg̃a yayat na kagamitán sa pang̃ing̃isdâ) na ang galáw ay warìng kalansáy ng̃ gigante na yumúyukô sa isáng pagóng na nabuhay sa kapanahunang dako pa roon ng̃ pag-apaw ng̃ tubig sa boông [8]mundó; minsa’y tumátakbóng tung̃o sa mg̃a kakawayanán ó kayâ’y sa mg̃a karihan, na <span class="hover-this">napapalamutihan <span class="hover-text">Ang salitang "napapalamutihan" ay isang pandiwa sa Filipino na nangangahulugang ang isang bagay o lugar ay pinapalamutian o pinapaganda, karaniwang sa pamamagitan ng paglalagay ng mga dekorasyon o palamuti.
+            </span></span> (mg̃a yayat na kagamitán sa pang̃ing̃isdâ) na ang galáw ay warìng kalansáy ng̃ gigante na yumúyukô sa isáng pagóng na nabuhay sa kapanahunang dako pa roon ng̃ pag-apaw ng̃ tubig sa boông mundó; minsa’y tumátakbóng tung̃o sa mg̃a kakawayanán ó kayâ’y sa mg̃a karihan, na <span class="hover-this">napapalamutihan <span class="hover-text">Ang salitang "napapalamutihan" ay isang pandiwa sa Filipino na nangangahulugang ang isang bagay o lugar ay pinapalamutian o pinapaganda, karaniwang sa pamamagitan ng paglalagay ng mga dekorasyon o palamuti.
             </span></span> ng̃ gumamela at ibá pang bulaklák, na warìng mg̃a magsisipaligòng nakalubóg na sa tubig ang mg̃a paa’y ayaw pang maglublób... minsa’y sa pagsunód sa daáng itinuturò ng̃ iláng kawayang nakatirik sa ilog ay lumalakad ng̃ boông kasiyahang loób ang bapor; ng̃unì’t ang isáng biglâng pagkakabagók ay kauntî nang <span class="hover-this"> ikinabuwal <span class="hover-text">natumba sa pagkakatayo</span> </span> ng̃ mg̃a sakáy; <span class="hover-this">nápadumog <span class="hover-text">Ang salitang "napadumog" ay isang pandiwa sa Filipino na nangangahulugang napadpad o napadako sa isang lugar, karaniwan ay hindi inaasahan o hindi sinasadya.
             </span></span> sa isáng <span class="hover-this">burak<span class="hover-text">malagkit at basang lupa o maputik na substansiya, karaniwang matatagpuan sa mga lugar na madalas bahain o sa tabi ng ilog at sapa, nakakapagpabagal sa paglalakad.</span></span> mababaw na hindî hinihinalà nino man......
 
@@ -123,7 +123,7 @@
 
             Ang payát na pransiskano, na nakápuná sa ng̃itî ng̃ dominiko, ay nagnasàng makilahók sa usapan, upáng maputol. Iginagalang siya marahil, kayâ’t sa isáng kilos lamang ng̃ kamáy ay napigil ang pag-uusap ng̃ dalawá, nang ang parìng-artillero ay tumukoy ng̃ ukol sa kinátutuhan at ang mánunulat na prayle ay ng̃ ukol namán sa karunung̃an.
 
-            [12]—¿Alám bagá ninyó kung anó ang mg̃a taong marurunong, Ben-Zayb?—anáng pransiskano na ang boses ay malalim, na hindî man lamang halos gumaláw sa kaniyáng uupan, at ang mg̃a nang̃ang̃alirang na kamáy ay bahagyâ nang ikilos—Nariyan sa lalawigan ang Puente del Capricho, na gawâ ng̃ isáng kapatíd namin, at hindî nayarì, sapagkâ’t pinintasáng mahinà at mapang̃anib ng̃ mg̃a marurunong, sa panunuláy sa kaniláng mg̃a <span class="hover-this">sapantahà, <span class="hover-text">isang ideya o palagay na nabuo sa isipan nang walang katiyakan o sapat na ebidensya, hula o pag-iisip ng maaaring kalabasan sa hindi pa tiyak na sitwasyon.</span></span> ng̃unì’t tignán ninyó’t nariyan ang tuláy na naglálabán sa lahát ng̃ bahâ at lindol.
+            —¿Alám bagá ninyó kung anó ang mg̃a taong marurunong, Ben-Zayb?—anáng pransiskano na ang boses ay malalim, na hindî man lamang halos gumaláw sa kaniyáng uupan, at ang mg̃a nang̃ang̃alirang na kamáy ay bahagyâ nang ikilos—Nariyan sa lalawigan ang Puente del Capricho, na gawâ ng̃ isáng kapatíd namin, at hindî nayarì, sapagkâ’t pinintasáng mahinà at mapang̃anib ng̃ mg̃a marurunong, sa panunuláy sa kaniláng mg̃a <span class="hover-this">sapantahà, <span class="hover-text">isang ideya o palagay na nabuo sa isipan nang walang katiyakan o sapat na ebidensya, hula o pag-iisip ng maaaring kalabasan sa hindi pa tiyak na sitwasyon.</span></span> ng̃unì’t tignán ninyó’t nariyan ang tuláy na naglálabán sa lahát ng̃ bahâ at lindol.
 
             —Iyan, puñales, iyang talagá, iyan ng̃â sana ang sasabihin ko!—ang wikà ng̃ parìng artillero na kasabáy ang suntók sa gabáy ng̃ kaniyáng luklukang kawayan;—iyan, ang Puente del Capricho at ang mg̃a marurunong; iyan sana ang sasabihin ko, P. Salvi, puñales.
 
@@ -143,7 +143,7 @@
                 -  Ang terminong "timsim" ay hindi karaniwang ginagamit sa modernong Filipino, at maaaring isang arkaikong salita o termino mula sa isang partikular na diyalekto.
                 </span></span> Katang̃ìtang̃ì sa kaniya ang mahabàng buhók na putîng putî na <span class="hover-this">nátitiwalî <span class="hover-text">ipinapakita ang isang tao na may kakaibang katangian—ang mahabang puting buhok na tinina ng itim, na maaaring magpahiwatig ng isang kontradiksyon o hindi pagkakatugma sa pagitan ng likas na kulay at ng ginawang pagbabago.
             </span></span> sa <span class="hover-this">misáy <span class="hover-text">Ang salitang "misáy" ay tumutukoy sa balbas o bigote, partikular sa mga buhok na tumutubo sa itaas ng labi ng isang tao.
-            </span></span> na [13]itím, madalang, na nagpapakilala ng̃ kaniyáng pagkamestiso. Upang iwasan ang sinag ng̃ araw ay palagìng gumagamit ng̃ salamíng asul na <span class="hover-this"> de rejillas, <span class="hover-text"> ang "salamíng asul na de rejillas" ay tumutukoy sa isang uri ng salaming pang-araw na may disenyo o proteksyon na parang rehas o may butas-butas, na naglalayong bawasan ang direktang sikat ng araw na tumatama sa mga mata at bahagi ng pisngi.
+            </span></span> na itím, madalang, na nagpapakilala ng̃ kaniyáng pagkamestiso. Upang iwasan ang sinag ng̃ araw ay palagìng gumagamit ng̃ salamíng asul na <span class="hover-this"> de rejillas, <span class="hover-text"> ang "salamíng asul na de rejillas" ay tumutukoy sa isang uri ng salaming pang-araw na may disenyo o proteksyon na parang rehas o may butas-butas, na naglalayong bawasan ang direktang sikat ng araw na tumatama sa mga mata at bahagi ng pisngi.
             </span> </span> tumátakíp sa kaniyáng mg̃a matá at bahagi ng̃ mg̃a pisng̃í, na siyáng nagbibigáy sa kaniya ng̃ anyông bulág ó may sakít sa matá. Nakatayông ang paa’y nakabikakâ upáng makapanimbang warî, ang mg̃a kamáy ay nakapasok sa mg̃a alapót ng̃ kaniyáng chaqueta.
 
             —Ang kagamutan ay lubhâng madalî—ang ulit—at walâng magugugol.
@@ -166,7 +166,7 @@
 
             —Huwag bayaran. Sa mg̃a bilanggô at presidiario......
 
-            [14]—Hindî makasásapát, ginoong Simoun!
+            —Hindî makasásapát, ginoong Simoun!
 
             —Kung hindî sásapát, ang lahát ng̃ bayan, ang mg̃a matatandâ, ang mg̃a binatà, ang mg̃a batà, ay gumawâ, at palitán ang labing limáng araw na sápilitáng paggawâ, ng̃ tatlo, apat ó limang buwang paggawâ na ukol sa Pamahalàan, na may katungkulan pang ang bawà’t isá ay magdalá ng̃ kaniyáng pagkain at kasangkapan.
 
@@ -180,7 +180,7 @@
 
             —Kaguluhan; ha, ha! ¿Naghimagsík bagá ang bayang ehipsio minsan man, naghimagsik ang mg̃a piít na hudio ng̃ laban sa maawâíng si Tito? ¡Hindî ko akalàing mahinà palá kayó sa mg̃a bagay na násasabi sa kasaysayan!
 
-            [15]Napagkíkilala na ang Simoung yaón ay napakamapagmalakí ó walâng pinagaralan. ¡Ipamukhâ kay D. Custodio na hindî nakababatíd ng̃ kasaysayan, ay isáng bagay na makagagalit sa káhit kanino! At gayón ng̃â ang nangyari, nakalimot si D. Custodio sa dating hilig at sumagót ng̃:
+            Napagkíkilala na ang Simoung yaón ay napakamapagmalakí ó walâng pinagaralan. ¡Ipamukhâ kay D. Custodio na hindî nakababatíd ng̃ kasaysayan, ay isáng bagay na makagagalit sa káhit kanino! At gayón ng̃â ang nangyari, nakalimot si D. Custodio sa dating hilig at sumagót ng̃:
 
             —Ang bagay, ay sa dahiláng hindî ehipsio ni hudio ang inyóng mg̃a kakaharapín!
 
@@ -214,7 +214,7 @@
 
             Ang lahát ng̃ itó’y sinasabing pinalalaki ang boses ni D. Custodio, kay Ben-Zayb, na sabáy ang kumpáy, higít ng̃ balikat, maminsanminsang tumátanóng sa ting̃ín sa ibáng iginagaláw namán ang ulo nang walâng ibig turan. Ang kanónigóng si P. Irene ay napapang̃itîng walâng ibig sabihin, na tinátakpán ng̃ kamáy sa tulong ng̃ paghaplós sa kaniyáng ilóng.
 
-            —Sinasabi ko sa inyó, Ben-Zayb—ang patuloy ni D. Custodio na ináalóg ang bisig ng̃ mánunulat—ang lahát ng̃ kasamâáng nangyayari ay sanhî ng̃ hindî pagtatatanóng sa mg̃a taong may malaong paninirahan dito. Isáng panukalàng may malalakíng salitâ at malakíng gugol, isáng gugulíng [17]malakíng halagá ay nakabubulag at tinátanggáp agád.... dahil dito!
+            —Sinasabi ko sa inyó, Ben-Zayb—ang patuloy ni D. Custodio na ináalóg ang bisig ng̃ mánunulat—ang lahát ng̃ kasamâáng nangyayari ay sanhî ng̃ hindî pagtatatanóng sa mg̃a taong may malaong paninirahan dito. Isáng panukalàng may malalakíng salitâ at malakíng gugol, isáng gugulíng malakíng halagá ay nakabubulag at tinátanggáp agád.... dahil dito!
 
             Pinagkiskis ni D. Custodio ang kaniyáng mg̃a dalirìng hinglalakí, hintuturò at panggitnâ.
 
@@ -238,7 +238,7 @@
 
             Si Ben-Zayb, ang tang̃ìng ulong nag-iisíp, ay hindî nakaáalám niyon; hindî niya napanghihimasukan ang hanap-buhay na iyon.
 
-            —Mg̃a susông maliliít, tao kayo, mg̃a susông maliliít!—ang sagót ni P. Camorra—hindî kailang̃ang magíng indio [18]upáng makabatíd ng̃ bagay na iyan, sukat na ang magkaroon ng̃ paning̃ín!
+            —Mg̃a susông maliliít, tao kayo, mg̃a susông maliliít!—ang sagót ni P. Camorra—hindî kailang̃ang magíng indio upáng makabatíd ng̃ bagay na iyan, sukat na ang magkaroon ng̃ paning̃ín!
 
             —Iyán ng̃â, mg̃a susông maliliít!—ang ulit ni D. Custodio na iginágaláw ang hintuturò—at alám ninyó kung saan kinukuha?
 

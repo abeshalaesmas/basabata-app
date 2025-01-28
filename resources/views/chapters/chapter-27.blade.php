@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>ANG PRAYLE AT ANG PILIPINO</title>
+    <title>CHAPTER XXVII</title>
     <style>
         body {
             margin: 50px; /* Adjust the margin size as needed */
@@ -203,7 +203,7 @@ Si P. Fernandez ay hindî sumagót; nagpatuloy sa pagyayao’t dito, ng̃unì’
 
 —Kayó ang magpauna sa pagbabagong ayos, sapagkâ’t kayó ang nang̃ang̃ailang̃an ng̃ pagbabago, at kamí’y súsunód.
 
-[269]—Siyá ng̃â,—ang sabi ni Isagani na malungkót ang ng̃itî,—¡magpauna kamí sa dahiláng nasa dako namin ang kasiràan! Tahô ninyóng lubós kung anó ang maaantáy ng̃ isáng tinúturûang humaráp sa isáng gurô: kayó na, na tagláy ang boóng pag-ibig sa katwiran, ang boóng kagandahang loób, ay nagkakahirap kayó sa pagpipigil ng̃ tinuturan ko ang mapapaít na katotohanan, ¡kayóng kayó na, P. Fernandez! ¿Anó ang kabutihang nápalâ ng̃ nagnasàng maghasík sa amin ng̃ ibáng pagkukurò? At ¿anó anóng kasamàán ang dumagsâ sa inyó dahil sa ninasàng umugalì ng̃ mabuti at tumupád sa inyóng kautang̃án?
+—Siyá ng̃â,—ang sabi ni Isagani na malungkót ang ng̃itî,—¡magpauna kamí sa dahiláng nasa dako namin ang kasiràan! Tahô ninyóng lubós kung anó ang maaantáy ng̃ isáng tinúturûang humaráp sa isáng gurô: kayó na, na tagláy ang boóng pag-ibig sa katwiran, ang boóng kagandahang loób, ay nagkakahirap kayó sa pagpipigil ng̃ tinuturan ko ang mapapaít na katotohanan, ¡kayóng kayó na, P. Fernandez! ¿Anó ang kabutihang nápalâ ng̃ nagnasàng maghasík sa amin ng̃ ibáng pagkukurò? At ¿anó anóng kasamàán ang dumagsâ sa inyó dahil sa ninasàng umugalì ng̃ mabuti at tumupád sa inyóng kautang̃án?
 
 —Ginoóng Isagani,—ang sabi ng̃ dominiko na iniabót sa kaniyá ang kamáy,—kahì’t sa warì’y walâng lubós na nápalâ sa pag-uusap nating itó, gayón ma’y mayroon dín tayong kauntîng nápulot; sasabihin ko sa aking mg̃a kapatíd ang inyóng mg̃a tinuran at ináantáy kong kahì’t kauntî ay may magagawâ. Ang ipinang̃ang̃anib ko lamang ay ang bakâ hindî mang̃agsipaniwalàng may isáng gaya ninyó.
 

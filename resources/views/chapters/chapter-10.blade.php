@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>CHAPTER X</title>
     <style>
         body {
             margin: 50px; /* Adjust the margin size as needed */
@@ -48,7 +48,7 @@
 
             Námalas ni kabisang Tales ang pagkahulog ng̃ ilang bung̃a, ng̃unì’t hindî umimík at nagpatuloy sa pag-íisíp.
 
-            [77]Untî untîng dumadatíng ang mg̃a taong akay ng̃ kabantugán ng̃ mg̃a hiyás na dalá ng̃ mag-aalahás: isá’t isá’y nagbabatìán ng̃ maligayang paskó, nang̃ag-uusap ng̃ tungkól sa misa, mg̃a santó, masamâng ani, ng̃unì’t gayón man ay gúgugulin ang kaniláng naiipon sa pagbilí ng̃ mg̃a bató at mg̃a bagay bagay na galing sa Europa. Balitàng balità na ang mag-aalahás ay kaibigan ng̃ Capitan General at hindî magiging isáng kalabisán ang pakikipagkilala sa kaniyá dahil sa mg̃a bagay na bakâ mangyari.
+            Untî untîng dumadatíng ang mg̃a taong akay ng̃ kabantugán ng̃ mg̃a hiyás na dalá ng̃ mag-aalahás: isá’t isá’y nagbabatìán ng̃ maligayang paskó, nang̃ag-uusap ng̃ tungkól sa misa, mg̃a santó, masamâng ani, ng̃unì’t gayón man ay gúgugulin ang kaniláng naiipon sa pagbilí ng̃ mg̃a bató at mg̃a bagay bagay na galing sa Europa. Balitàng balità na ang mag-aalahás ay kaibigan ng̃ Capitan General at hindî magiging isáng kalabisán ang pakikipagkilala sa kaniyá dahil sa mg̃a bagay na bakâ mangyari.
 
             Si kapitáng Basilio ay dumatíng na kasama ang kaniyáng asawa, ang kaniyáng anák na si Sinang at ang kaniyáng manugang, na nang̃ahahandâng gumugol ng̃ hindî bábabâ sa tatlóng libong piso.
 
@@ -64,7 +64,7 @@
 
             Kung gaano ang pagbibirô ni Sinang sa kakauntî at masamâ pang latín na nalalaman ng̃ kaniyáng asawa ay gayón din namán ang sa maraming latín na nalalaman ng̃ kaniyáng amá.
 
-            [78]—Sadyâ ng̃â pông mayroon akong mg̃a hiyás na lubhâng matatandâ—ang sagót ni Simoun, na inalís ang balot ng̃ muntîng takbá.
+            —Sadyâ ng̃â pông mayroon akong mg̃a hiyás na lubhâng matatandâ—ang sagót ni Simoun, na inalís ang balot ng̃ muntîng takbá.
 
             Yaó’y isáng sisidláng bakal, na patalím na kininis, at maraming palamutìng bronse at mg̃a matitibay at pasuotsuot na panará.
 
@@ -80,7 +80,7 @@
 
             Nang mabuksán ang takbá at maalís ang bulak na panakíp, ay námalas ang isáng lalagyáng punô ng̃ singsíng, <, class="hover-this">agnós<span class="hover-text"> isang banal na relikya o anting-anting na itinuturing na sagrado, nagbibigay proteksyon, suwerte, at may espesyal na kahalagahan, kadalasang ginagamit sa relihiyosong ritwal.</span></span> , guardapelo, krus, alpiler, at ibp. Ang mg̃a brillante na sinaglitán ng̃ mg̃a batóng may sarìsarìng kulay ay kumíkináng at nagniningníng sa gitnâ ng̃ mg̃a bulaklák na gintô na ibá’t ibá ang kulay, may gisuk na esmalte at may sarìsarìng <span class="hover-this">liluk <span class="hover-text">Sining ng paglikha ng pigura o disenyo sa pamamagitan ng pag-ukit o pagbawas ng mga parte mula sa materyales tulad ng kahoy, bato, at iba pa.</span></span>at <span class="hover-this">kudyá<span class="hover-text">Isang tradisyonal na instrumentong pangmusika ng Pilipinas, yari sa kahoy, hugis bangka, may dalawang kuwerdas, at ginagamit sa iba't ibang seremonya at okasyon.</span></span>                .
 
-            Inalís ni Simoun ang bandeha at lumitáw ang isá namáng punô ng̃ mg̃a kahang̃àhang̃àng hiyás na dapat ng̃ makasiyá sa pitóng binibini sa pitóng araw na sa kinabukasan ay magdadaós ng̃ sayawang parang̃al sa kanilá. Ang ayos ay sarìsarì, mg̃a pagkakasaglítsaglít ng̃ mg̃a bató at perlas na anyông mg̃a hayuphayupang may mg̃a kulay bugháw at balok na nang̃ang̃aninag; [79]ang mg̃a sápiro, esmeralda, rubí, turkesa at brillante ay magkakasamang anyông tutubí, paróparó, panilan, pukyutan, uwang, ahas, himbubuli, isdâ, bulaklák, kumpól, at ibp.; may sukláy na ayos diadema, gargantilya, pamutì ng̃ liig na perlas at brillante, na dahil sa kagandahan ay hindî tulóy napigil ng̃ iláng dalaga ang isáng pahang̃àng ¡inakú! at si Sinang ay napapalaták, kayâ’t kinurót siyá ng̃ kaniyáng ináng si kapitana Tikâ, sapagkâ’t bakâ lalòng mahalán ng̃ mag-aalahás ang daláng lakò. Patuloy pá rin si kapitana Tikâ sa pagkurót sa kaniyáng anák kahit may asawa na.
+            Inalís ni Simoun ang bandeha at lumitáw ang isá namáng punô ng̃ mg̃a kahang̃àhang̃àng hiyás na dapat ng̃ makasiyá sa pitóng binibini sa pitóng araw na sa kinabukasan ay magdadaós ng̃ sayawang parang̃al sa kanilá. Ang ayos ay sarìsarì, mg̃a pagkakasaglítsaglít ng̃ mg̃a bató at perlas na anyông mg̃a hayuphayupang may mg̃a kulay bugháw at balok na nang̃ang̃aninag; ang mg̃a sápiro, esmeralda, rubí, turkesa at brillante ay magkakasamang anyông tutubí, paróparó, panilan, pukyutan, uwang, ahas, himbubuli, isdâ, bulaklák, kumpól, at ibp.; may sukláy na ayos diadema, gargantilya, pamutì ng̃ liig na perlas at brillante, na dahil sa kagandahan ay hindî tulóy napigil ng̃ iláng dalaga ang isáng pahang̃àng ¡inakú! at si Sinang ay napapalaták, kayâ’t kinurót siyá ng̃ kaniyáng ináng si kapitana Tikâ, sapagkâ’t bakâ lalòng mahalán ng̃ mag-aalahás ang daláng lakò. Patuloy pá rin si kapitana Tikâ sa pagkurót sa kaniyáng anák kahit may asawa na.
 
             —Hayan pô ang mg̃a brillante sa una—ang sabi ng̃ mag-aalahás—ang singsíng na iyán ay inarì ng̃ princesa Lamballe, at ang mg̃a hikaw na iyán ay sa isáng dama ni María Antonieta.
 
@@ -102,7 +102,7 @@
 
             Warìng upang lalòng maragdagán ang pagkakamanghâ ng̃ mg̃a kaharáp ay hinalòhalò ni Simoun ang mg̃a bató ng̃ kaniyáng kayumanggí at mahabâng dalirì at warìng naiigaya sa tagintíng at sa pagdudulasang warì’y paták ng̃ tubig na nagbibigáy kulay sa bahag-harì. Ang kináng ng̃ gayóng maraming tapyás at ang kahalagahan nilá’y nakaaakit sa mg̃a matá. Si kabisang Tales, na lumapit dahil sa nasàng makakita namán, ay ipinikít ang mg̃a matá at lumayông biglâ na warìng upang mapawì ang isáng masamâng akalà. Ang gayóng karaming kayamanan ay warìng nakaaalipustâ sa kaniyáng kahirapan; naparoon ang taong yaon na ipinagpaparang̃alan ang kaniyáng malakíng yaman sa kasunód pá namán ng̃ araw na iíwan niyá ang bahay na iyon dahil sa kakulang̃án sa salapî at sa sukat mag-ampón.
 
-            —Nárito ang dalawáng brillanteng itím na pinakamalakí sa lahát—ang sabi ng̃ mag-aalahás—mahirap tapyasán, sapagkâ’t napakatitigás.... Ang batóng itó na may kauntîng kulay pulá ay brillante rin, gayón din namán itóng berde na marami ang nag-aakalàng esmeralda raw. Tinawaran na iyán sa akin, ng̃ anim na libong piso, ng̃ insík na si Quiroga upang ibigáy sa isáng señora na malakás ang kapit.... [81]At hindî pá ang mg̃a kulay dahon ang pinakamahal sa lahát, kungdî itóng mg̃a bugháw.
+            —Nárito ang dalawáng brillanteng itím na pinakamalakí sa lahát—ang sabi ng̃ mag-aalahás—mahirap tapyasán, sapagkâ’t napakatitigás.... Ang batóng itó na may kauntîng kulay pulá ay brillante rin, gayón din namán itóng berde na marami ang nag-aakalàng esmeralda raw. Tinawaran na iyán sa akin, ng̃ anim na libong piso, ng̃ insík na si Quiroga upang ibigáy sa isáng señora na malakás ang kapit.... At hindî pá ang mg̃a kulay dahon ang pinakamahal sa lahát, kungdî itóng mg̃a bugháw.
 
             At ibinukód ang tatlóng bató na hindî namán lubhâng malalakí ng̃unì’t lubhâng makakapál at mabuti ang pagkakatapyás, na may kauntìng kulay bugháw.
 
@@ -114,7 +114,7 @@
 
             At dahil sa warìng nahuhulàan ni Simoun ang kaniyáng iniisip ay sinabi sa mg̃a kaharáp na magkakaanák na:
 
-            —At tingnán ninyó, tingnán ninyó; dahil lamang sa isá sa mg̃a maliliit na batóng bugháw na itó, na warìng walâng [82]kamalaymalay at dî makasásamâ sa kang̃ino man, malinis na warìng buhang̃ing natanggal sa lang̃it, sa isá lamang nitó na ihandóg sa ukol na panahón ay nagawâ ng̃ isáng tao ang ipatapon ang kaniyáng kagalít, isáng magulang na may inaampóng mg̃a kaanak, na warì’y nangguló sa bayan.... at dahil sa isáng muntîng bató pang gaya nitó, mapuláng warì’y dugô ng̃ pusò, gaya nang nasàng paghihigantí at kumikisláp na gaya ng̃ luhà ng̃ mg̃a ulila ay binigyang layà, ang tao’y nakauwî sa kaniyáng tahanan, napagbalikán ng̃ amá ang kaniyáng mg̃a anák, ng̃ asawa ang kaniyáng kabiyák ng̃ pusò, at marahil ay nailigtás ang isáng boong mag-aanak sa isáng marálitang sasapitin.
+            —At tingnán ninyó, tingnán ninyó; dahil lamang sa isá sa mg̃a maliliit na batóng bugháw na itó, na warìng walâng kamalaymalay at dî makasásamâ sa kang̃ino man, malinis na warìng buhang̃ing natanggal sa lang̃it, sa isá lamang nitó na ihandóg sa ukol na panahón ay nagawâ ng̃ isáng tao ang ipatapon ang kaniyáng kagalít, isáng magulang na may inaampóng mg̃a kaanak, na warì’y nangguló sa bayan.... at dahil sa isáng muntîng bató pang gaya nitó, mapuláng warì’y dugô ng̃ pusò, gaya nang nasàng paghihigantí at kumikisláp na gaya ng̃ luhà ng̃ mg̃a ulila ay binigyang layà, ang tao’y nakauwî sa kaniyáng tahanan, napagbalikán ng̃ amá ang kaniyáng mg̃a anák, ng̃ asawa ang kaniyáng kabiyák ng̃ pusò, at marahil ay nailigtás ang isáng boong mag-aanak sa isáng marálitang sasapitin.
 
             At samantalang tinátapiktapík ang sisidlán:
 
@@ -126,7 +126,7 @@
 
             —Ang pamuting itó sa liig ay kay Cleopatra—ang sabi ni Simoun at maing̃at na kinuha ang isáng kahang lapád na ang ayos ay kalahatìng buwán—isáng hiyás na hindî mahahalagahán, isáng bagay na nárarapat lamang ilagáy sa mg̃a museo, sa mg̃a pamahalàang mayayaman lamang nauúkol.
 
-            [83]Yaón ay isáng warì’y kolyar na binúbuô ng̃ ibá’t ibáng palawít na gintô na mg̃a ayos anitong uwang na kulay dahon at bugháw, at sa gitnâ’y may isáng ulo ng̃ <span class="hover-this">buitre<span class="hover-text"> isang malaking ibon na may mahabang pakpak at matulis na tuka, kilala sa pagkain ng patay na hayop, karaniwang matatagpuan sa disyerto o bukas na kaparangan.</span><span>na gawâ sa bató, na ang kilabot ay katang̃ìtang̃ì, na nápapagitnâ sa dalawáng pakpák na nakabuká, sagisag at hiyas ng̃ mg̃a harìng babai sa Ehipto.
+            Yaón ay isáng warì’y kolyar na binúbuô ng̃ ibá’t ibáng palawít na gintô na mg̃a ayos anitong uwang na kulay dahon at bugháw, at sa gitnâ’y may isáng ulo ng̃ <span class="hover-this">buitre<span class="hover-text"> isang malaking ibon na may mahabang pakpak at matulis na tuka, kilala sa pagkain ng patay na hayop, karaniwang matatagpuan sa disyerto o bukas na kaparangan.</span><span>na gawâ sa bató, na ang kilabot ay katang̃ìtang̃ì, na nápapagitnâ sa dalawáng pakpák na nakabuká, sagisag at hiyas ng̃ mg̃a harìng babai sa Ehipto.
 
             Nang makita ni Sinang ay ikinimbót ang ilóng at ng̃umuwîng paalipustâ na warì’y batà, at si kapitang Basilio kahi’t na may malakíng hilig sa mg̃a lumàng arì ay hindî nakapigil ng̃ isáng ¡abá! na anák ng̃ hindî kasiyaháng loób sa nákita.
 
@@ -148,7 +148,7 @@
 
             At tinangkâng siyasatin at hulàan ang ibig sabihin ng̃ taták, dátapwâ’y kahi’t nagpilit at pinihit-pihit ay walâ siyáng nábasa, sa dahiláng hindî siyá maalam ng̃ paleografia.
 
-            —¡Nápakalalakí ang dalirì ni Sila!—ang sabi tulóy—[84]másusuot na ang dalawáng dalirì ng̃ sino man sa atin; sinasabi ko na ng̃â, tayo’y pumápauróng.
+            —¡Nápakalalakí ang dalirì ni Sila!—ang sabi tulóy—másusuot na ang dalawáng dalirì ng̃ sino man sa atin; sinasabi ko na ng̃â, tayo’y pumápauróng.
 
             —Mayroon pa akóng mg̃a ibáng hiyas dito....
 
@@ -175,7 +175,7 @@
 
             —Ibig ko ang pagkakaayos—ang sabi ni Simoun—¿sa magkano pô ninyó pagbibilí?
 
-            [85]Kinamot ni kabisang Tales ang kaniyang ulo, na hindî maalaman kung anó ang gagawín, kinamot ang taing̃a at pagkatapos ay tuming̃ín sa mg̃a babai.
+            Kinamot ni kabisang Tales ang kaniyang ulo, na hindî maalaman kung anó ang gagawín, kinamot ang taing̃a at pagkatapos ay tuming̃ín sa mg̃a babai.
 
             —Naiibigan ko ang agnós na iyan—aní Simoun—¿ibig bagá ninyóng ibigáy sa isáng daan...... limang daang piso? ¿Ibig ninyóng ipagpalít ng̃ ibá? Pumilì kayó ng̃ inyóng ibig.
 
@@ -199,7 +199,7 @@
 
             Nagkásundô silá sa gayón at pumanaw noon din si kabisang Tales.
 
-            Ng̃unì’t ng̃ nasa labás na siyá ng̃ nayon, ay nátanaw niyá sa malayò, sa isáng landás na tung̃o sa kagubatan, ang prayleng nang̃ang̃asiwà sa hacienda at ang isáng taong nákikilala niyáng siyang kumuha ng̃ kaniyáng mg̃a lupaín. [86]Ang pagkagalit ng̃ isáng lalaking nakakita sa kaniyáng asawa na pumapasok na kaakbáy ng̃ ibáng lalaki sa isáng silíd na lihim ay hindî papantáy sa sulák ng̃ galit ni kabisang Tales sa pagkakakita sa dalawáng iyón na patung̃o sa kaniyáng bukid, sa mg̃a bukid na kaniyáng ginawâ at inasahan niyáng maipamamana sa kaniyáng mg̃a anák. Sa warì niyá’y nagtatawanan ang dalawáng iyón, linilibák siyá sapagkâ’t walâng magawâ; pumasok sa kaniyáng alaala ang sinabing: hindî ko ibibigáy kung dî sa dumilíg muna sa kanilá ng̃ sariling dugô at ilibing sa kanilá ang asawa’t anák......
+            Ng̃unì’t ng̃ nasa labás na siyá ng̃ nayon, ay nátanaw niyá sa malayò, sa isáng landás na tung̃o sa kagubatan, ang prayleng nang̃ang̃asiwà sa hacienda at ang isáng taong nákikilala niyáng siyang kumuha ng̃ kaniyáng mg̃a lupaín. Ang pagkagalit ng̃ isáng lalaking nakakita sa kaniyáng asawa na pumapasok na kaakbáy ng̃ ibáng lalaki sa isáng silíd na lihim ay hindî papantáy sa sulák ng̃ galit ni kabisang Tales sa pagkakakita sa dalawáng iyón na patung̃o sa kaniyáng bukid, sa mg̃a bukid na kaniyáng ginawâ at inasahan niyáng maipamamana sa kaniyáng mg̃a anák. Sa warì niyá’y nagtatawanan ang dalawáng iyón, linilibák siyá sapagkâ’t walâng magawâ; pumasok sa kaniyáng alaala ang sinabing: hindî ko ibibigáy kung dî sa dumilíg muna sa kanilá ng̃ sariling dugô at ilibing sa kanilá ang asawa’t anák......
 
             Nápahintô, hinaplós ng̃ kamáy ang noo at ipinikít ang mg̃a matá; ng̃ mulîng dumilat ay nákitang namimilipit sa kátatáwa ang taong iyón at sapol ng̃ prayle ang kaniyáng tiyan upang huwag pumutók sa katuwâán; at pagkatapos ay nákita niyáng itinurò ang kaniyáng bahay at mulîng nang̃agtawanan.
 
@@ -213,7 +213,7 @@
 
             “Ipagpatawad pô ninyo, ginoo, na kahi’t nasa aking bahay ay pagnakawan ko kayó: ng̃unì’t ang pang̃ang̃ailang̃an ay siyáng nag-udyók sa akin, ng̃unì’t iniwán kong kapalít ng̃ inyóng rebolber ang agnós na pinakananasà ninyó. Kailang̃an ko ang armás at makikisama na akó sa mg̃a tulisán.
 
-            Ipinagbibilin ko sa inyóng huwag ipagpatuloy ang inyóng [87]lakad, sapagkâ’t sa dahiláng walâ na kayó sa aking bahay, ay hihing̃án namin kayó ng̃ malakíng tubós pag kayó’y aming nábihag.
+            Ipinagbibilin ko sa inyóng huwag ipagpatuloy ang inyóng lakad, sapagkâ’t sa dahiláng walâ na kayó sa aking bahay, ay hihing̃án namin kayó ng̃ malakíng tubós pag kayó’y aming nábihag.
 
             Telesforo Juan de Dios.”
 
@@ -226,7 +226,7 @@
             Tatlóng patayan ang nangyari sa gabíng yaón. Ang praileng nang̃ang̃asiwà sa hacienda at ang bagong hahawak ng̃ mg̃a lupà ni kabisang Tales ay nang̃átagpûáng patáy, baság ang ulo at may sumpál na lupà sa bibíg, sa kalapít ng̃ mg̃a lupaín nitó; sa bayan, ang asawa ng̃ bagong mag-aarì ng̃ lupà na pinatáy ay patáy ding inumaga, na punô rin ng̃ lupà ang bibíg at pugót ang ulo, at may kasiping na papel na kinasusulatan ng̃ pang̃alang “Tales” na ang ipinanulat ay dalirìng isinawsáw sa dugô......
 
             ¡Manahimik kayó, mapapayapàng tagá Kalambâ! Sa inyó’y walâng nagng̃ang̃alang Tales, sino man sa inyó’y hindî siyáng nakagawâ ng̃ kasalanan! Ang mg̃a pang̃alan ninyó’y Luis Habaña, Matias Belarmino, Nicasio Eigasani, Cayetano de Jesús, Mateo Elejorde, Leandro López, Antonino López, Silvestre Ubaldo, Manuel Hidalgo, Paciano Mercado, kayó ang boong bayan ng̃ Kalambâ!.... Lininis ninyó ang inyóng mg̃a bukirín, ginugol ninyó sa kanilá ang boong búhay, ang mg̃a naimpók, mg̃a pagpupuyát, pagtitipíd, at pagkatapos ay inalís sa inyó, pinalayas kayó sa inyóng mg̃a tahanan at ipinagbawal sa ibá ang kayó’y patuluyin! Hindî pa nasiyahang <span class="hover-this">lapastang̃anin <span class="hover-text">ang sadyang paggawa ng bagay na nagpapakita ng kawalan ng respeto o pagpapahalaga sa mga itinuturing na banal, sagrado, o sa mga tuntunin at batas.</span></span>  ang katwiran kundî niyurakan sampû ng̃ mg̃a banal na kaugalìan ng̃ inyóng bayan.... Naglingkód kayó sa Harì at sa España, at ng̃ sa ng̃alan nilá’y pinag-usig ninyó ang katwiran ay itinapon kayó’t sukat ng̃ hindî man <span class="hover-this">linitis<span class="hover-text">ito ay ang pagharap ng isang indibidwal sa hukuman o sa proseso ng paglilitis upang sagutin ang mga paratang at patunayan ang kanyang pagkakasala o kawalang-sala.
-                Kasingkahulugan: Litisin, kasuhan, magsakdal</span></span>, inilayô kayó [88]sa yakap ng̃ inyóng mg̃a asawa at sa halík ng̃ inyóng mg̃a anák.... Mahigít sa tiniís ni kabisang Tales ang tiniís ng̃ bawà’t isá sa inyó, ng̃unì’t gayón man, ay walâ sa inyóng naghigantí. Hindî nagkaroón sa inyó ng̃ ling̃ap ni kaawàan at pinag-usig pa kayó hangáng sa kabilâng buhay, gaya ng̃ ginawâ kay Mariano Herbosa.... ¡Lumuhà kayó ó matuwâ sa mg̃a liblíb na pulông iyóng linálagalág nang hindî alám ang sasapitin! <span class="hover-this">Kinakandili <span class="hover-text">ang pagbibigay suporta at malasakit sa isang tao, lalo na sa pangangailangan, upang makatulong sa kanilang pag-unlad o pagbangon sa mga pagsubok.</span></span>kayó ng̃ España, at sa málao’t mádalî ay tatamuhín ninyó ang katwiran!
+                Kasingkahulugan: Litisin, kasuhan, magsakdal</span></span>, inilayô kayó sa yakap ng̃ inyóng mg̃a asawa at sa halík ng̃ inyóng mg̃a anák.... Mahigít sa tiniís ni kabisang Tales ang tiniís ng̃ bawà’t isá sa inyó, ng̃unì’t gayón man, ay walâ sa inyóng naghigantí. Hindî nagkaroón sa inyó ng̃ ling̃ap ni kaawàan at pinag-usig pa kayó hangáng sa kabilâng buhay, gaya ng̃ ginawâ kay Mariano Herbosa.... ¡Lumuhà kayó ó matuwâ sa mg̃a liblíb na pulông iyóng linálagalág nang hindî alám ang sasapitin! <span class="hover-this">Kinakandili <span class="hover-text">ang pagbibigay suporta at malasakit sa isang tao, lalo na sa pangangailangan, upang makatulong sa kanilang pag-unlad o pagbangon sa mga pagsubok.</span></span>kayó ng̃ España, at sa málao’t mádalî ay tatamuhín ninyó ang katwiran!
         </p>
     </main>
 </body>

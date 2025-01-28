@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>ANG NAGPAPALAGÁY</title>
+    <title>CHAPTER XX</title>
     <style>
         body {
             margin: 50px; /* Adjust the margin size as needed */
@@ -110,7 +110,7 @@
             
             —Kamí—ang sabi, na ang boses ay ang ginagamit sa mg̃a seremonia—kamí’y makapagmámalakí! Hindî kamí kagaya ng̃ mg̃a inglés at mg̃a holandés, na upang mapanatili sa pag-alinsunod ang mg̃a bayan ay gumagamit ng̃ pamalò.... ang aming ginagamit ay ibáng paraan na lubhâng malumanay, lubhâng matibay; ang malunas na tulong ng̃ mg̃a prayle ay higít sa pamalòng inglés......
             
-            Ang sabi niyáng itó’y lumaganap at sa mahabàng panahó’y binanggít banggít ni Ben-Zayb at gayón dín ng̃ boông Maynilà; pinakapuripuri ng̃ Maynilàng naghuhulò. Ang salitâ ay nakaabót sa Madrid, at binanggít sa Parlamento, na parang sabi ng̃ isáng labusáw na may mahabang paninirahan at ibp., at sa dahiláng nagíng karang̃alan ng̃ mg̃a prayle ang gayóng paghahawig ay hinandugán siyá ng̃ iláng arrobang sikulate, bagay na ipinabalík ng̃ dî malamuyot na si D. Custodio, na, sa dahiláng ito’y ipinantáy namán ni Ben-Zayb ang tagláy na kabaitan sa kabaitan ni Epaminondas. Dátapwâ’t [193]gayón mán, ay gumagamit din ng̃ yantók ang bagong Epaminondas kung inaabot ng̃ pagkagalit, at ang gayón ay inihahatol sa ibá!
+            Ang sabi niyáng itó’y lumaganap at sa mahabàng panahó’y binanggít banggít ni Ben-Zayb at gayón dín ng̃ boông Maynilà; pinakapuripuri ng̃ Maynilàng naghuhulò. Ang salitâ ay nakaabót sa Madrid, at binanggít sa Parlamento, na parang sabi ng̃ isáng labusáw na may mahabang paninirahan at ibp., at sa dahiláng nagíng karang̃alan ng̃ mg̃a prayle ang gayóng paghahawig ay hinandugán siyá ng̃ iláng arrobang sikulate, bagay na ipinabalík ng̃ dî malamuyot na si D. Custodio, na, sa dahiláng ito’y ipinantáy namán ni Ben-Zayb ang tagláy na kabaitan sa kabaitan ni Epaminondas. Dátapwâ’t gayón mán, ay gumagamit din ng̃ yantók ang bagong Epaminondas kung inaabot ng̃ pagkagalit, at ang gayón ay inihahatol sa ibá!
             
             Nang mg̃a araw na iyón, ay inulit ng̃ mg̃a kombento ang kaniláng mg̃a handóg dahil sa pang̃ang̃ambáng bakâ siyá magbigáy ng̃ isáng kapasiyaháng sang-ayon sa kahiling̃an ng̃ mg̃a nag-aaral, at ng̃ hapong nátagpûán natin siyá ay lalò pa mandíng hindî mápalagáy kay sa dati sapagkâ’t malapit masirà ang kaniyáng kabantugang masipag.
             
@@ -124,7 +124,7 @@
             
             —¡Huwag!—ang bulóng—may mg̃a bagay na maíinam, ng̃unì’t kailang̃an ang sangtaón upang mabasang mulî.
             
-            [194]Ang pang̃alawá, na makapálkapál dín, ay may taták na “MAÑGA PANUKALANG nasa pagsusuri”.—¡Huwag dín!
+            Ang pang̃alawá, na makapálkapál dín, ay may taták na “MAÑGA PANUKALANG nasa pagsusuri”.—¡Huwag dín!
             
             Pagkatapos noon ay sumúsunód ang “MAÑGA PANUKALANG ipinag-aantáy ng̃ panahón.”.... “MAÑGA PANUKALANG iniharáp....” “MAÑGA PANUKALANG pinawalang kabuluhán....” “MAÑGA PANUKALANG pinagtibay....” “MAÑGA PANUKALANG pinigil....” Ang mg̃a hulíng balangkáp ay kákauntî ang lamán, ng̃unì’t ang hulí ay lalò pa, ang sa “MAÑGA PANUKALANG isásagawa”.
             

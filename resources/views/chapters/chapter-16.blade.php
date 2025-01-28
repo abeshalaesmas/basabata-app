@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>ANG MG̃A KAPIGHATIAN NG̃ ISANG INSÍK</title>
+    <title>CHAPTER XVI</title>
     <style>
         body {
             margin: 50px; /* Adjust the margin size as needed */
@@ -257,7 +257,7 @@
     </main>
 
     <div>
-        <a href="{{Route('quiz16')}}">Next</a>
+        <a href="{{Route('quiz1')}}">Next</a>
     </div>
 </body>
 </html>
